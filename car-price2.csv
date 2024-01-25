@@ -1,0 +1,2319 @@
+Name,Brand,Color,Fuel,Gearbox,Year,Km,Fuel_consumption,Co2_emission,Doors,Price
+Fiat 500,Fiat,Tech House Grey,Essence,Manuelle,2018,28150,4.9,115,3,10 999
+Citroën C4 Picasso,Citroën,Gris Aluminium,Essence,Manuelle,2015,102511,5.1,116,5,10 299
+Citroën C4 Cactus,Citroën,GRIGIO,Diesel,Manuelle,2019,122316,3.5,92,5,12 399
+Ford KA,Ford,Bleu Caraïbes,Essence,Manuelle,2015,103265,4.9,115,3,7 599
+Fiat Tipo,Fiat,Bleu Méditerranée,Essence,Manuelle,2017,85152,5.7,132,4,9 699
+Citroën C3 Picasso,Citroën,Karma,Essence,Manuelle,2017,113165,5,115,5,7 999
+Peugeot 108,Peugeot,Blanc Lipizan,Essence,Manuelle,2020,18208,4.8,110,5,10 499
+Citroën C1,Citroën,Rouge Scarlet,Essence,Manuelle,2019,66670,4.1,93,5,9 299
+Mercedes Classe A,Mercedes,Noir,Essence,Manuelle,2014,133745,5.7,131,5,14 499
+Ford Fiesta,Ford,Gris Lunaire,Diesel,Manuelle,2016,65835,3.6,82,5,10 999
+Ford Fiesta,Ford,,Essence,Manuelle,2018,106619,,,,11 199
+Ford Focus,Ford,Caribou,Essence,Manuelle,2017,120200,4.7,108,5,10 499
+Smart FORTWO,Smart,Rouge Red,Essence,Manuelle,2015,60792,4.5,104,3,8 999
+Fiat Panda,Fiat,Bleu,Essence,Manuelle,2019,60921,5.4,130,5,9 599
+Toyota Yaris,Toyota,Gris Aluminium,Essence,Manuelle,2016,66080,4.9,114,5,12 499
+Ford Ecosport,Ford,Blanc Diamant,Essence,Manuelle,2015,113907,5.4,125,5,10 299
+Suzuki Swift,Suzuki,Boost Blue Pearl,Essence,Manuelle,2017,72583,5,116,3,9 999
+Dacia Lodgy,Dacia,Blanc,Essence,Manuelle,2016,95249,5.5,124,5,11 699
+Toyota Yaris,Toyota,,Essence,Manuelle,2020,26989,,,,14 499
+DS DS3,DS,Gris Aluminium/Noir Onyx,Essence,Manuelle,2017,86055,4,107,3,10 799
+Volkswagen Tiguan,Volkswagen,Noir Intense,Diesel,Manuelle,2015,107324,5,138,5,14 999
+Hyundai i20,Hyundai,Blanc,Essence,Manuelle,2017,105250,4.8,119,5,10 699
+Opel Crossland X,Opel,Gris,Essence,Manuelle,2019,36544,5.1,105,5,13 399
+Skoda Fabia,Skoda,Noir,Essence,Manuelle,2020,57805,4.9,110,5,10 999
+Dacia SPRING,Dacia,Gris Diamond,Electrique,Automatique,2021,55500,0.0,0,5,11 299
+Opel Astra,Opel,Bleu Astral,Essence,Manuelle,2015,86635,5.5,135,5,9 999
+Seat Leon,Seat,Noir Minuit,Essence,Automatique,2016,138549,5,115,5,13 199
+Ford C-Max,Ford,Brun Palissandre,Essence,Manuelle,2015,130705,5.1,117,5,9 999
+Opel Adam,Opel,Brownian Rhapsody,Essence,Manuelle,2018,48105,5.6,128,3,10 499
+Renault Clio 4 Estate,Renault,Gris Titanium,Diesel,Manuelle,2017,103540,3,85,5,11 999
+Kia Rio,Kia,,Essence,Manuelle,2017,74203,,,,11 499
+BMW Série 1,BMW,Midnightblau,Essence,Manuelle,2012,89466,5,132,5,13 999
+Ford KA+,Ford,Gris,Essence,Manuelle,2019,67604,4.4,114,5,10 499
+Kia Sportage,Kia,Blanc,Diesel,Manuelle,2015,119025,5.2,143,5,13 799
+Renault Scénic 4,Renault,Gris Cassiopée / Toit Noir Etoilé,Essence,Manuelle,2017,81681,5.8,129,5,14 999
+Renault Kangoo,Renault,White,Diesel,Manuelle,2017,117869,4.3,112,3,11 799
+Volkswagen CADDY VAN,Volkswagen,Blanc Candy,Diesel,Manuelle,2014,108523,5.6,147,4,10 999
+Renault Mégane 4 Estate,Renault,BLU,Diesel,Automatique,2018,117338,3.7,95,5,13 499
+Citroën DS 4,Citroën,Blanc Nacré,Diesel,Manuelle,2013,145657,4.4,122,5,10 499
+Fiat Tipo SW,Fiat,Beige,Diesel,Manuelle,2017,109745,3.7,98,5,11 499
+Opel Mokka X,Opel,Gris,Diesel,Manuelle,2016,86300,4.3,114,5,11 999
+Mini Mini,Mini,Electric blue,Diesel,Manuelle,2018,94971,3,92,5,14 899
+Dacia Logan MCV,Dacia,Gris Platine,Essence,Automatique,2017,88522,4,110,5,12 399
+Ford C-Max,Ford,Noir Shadow,Essence,Manuelle,2018,104079,5.7,129,5,11 999
+Renault Twingo,Renault,Gris Lunaire,Essence,Manuelle,2019,47963,4.7,108,5,11 199
+Audi A3 Sportback,Audi,Gris Dakota,Diesel,Manuelle,2016,85445,3.8,89,5,16 999
+Ford B-Max,Ford,Gris Magnetic,Essence,Manuelle,2016,62415,4.9,114,5,11 699
+Renault Scenic 3,Renault,Gris Platine,Diesel,Manuelle,2016,117466,4.1,105,5,11 899
+DS DS7 CROSSBACK,DS,Blanc Banquise,Diesel,Manuelle,2018,114295,4,101,5,17 499
+Citroën C4 Aircross,Citroën,Gris Titanium,Diesel,Manuelle,2017,122670,4.6,119,5,11 999
+DS DS4 CROSSBACK,DS,Blanc Nacré,Essence,Manuelle,2017,119473,5,114,5,11 999
+Ford Kuga,Ford,Blanc Glacier,Essence,Manuelle,2017,98135,6.2,143,5,14 499
+Ford Kuga,Ford,Gris Lunaire,Diesel,Manuelle,2017,100945,4.4,115,5,14 499
+Volkswagen T-Roc,Volkswagen,Noir Intense,Essence,Manuelle,2017,107466,5.2,117,5,16 999
+Audi A1,Audi,Bleu Utopia/Noir Brillant,Essence,Manuelle,2016,112263,4.3,98,3,13 999
+Hyundai Kona,Hyundai,Phantom Black,Diesel,Manuelle,2019,108020,5,109,5,14 499
+Seat Ibiza,Seat,Blanc Nevada,Essence,Manuelle,2020,32919,5.5,101,5,15 199
+Volkswagen Golf 8,Volkswagen,Blanc Pur,Essence,Manuelle,2021,32185,5,121,5,20 599
+Renault Talisman Estate,Renault,Gris Platine,Diesel,Manuelle,2017,92460,4,106,5,13 699
+Renault Talisman,Renault,Noir Etoile,Diesel,Automatique,2017,91285,4.4,115,4,14 999
+Citroën C4 CACTUS BUSINESS,Citroën,Rouge Aden,Diesel,Manuelle,2018,75502,3.5,97,5,13 399
+Smart FORTWO CABRIO,Smart,Noir,Essence,Automatique,2016,35210,4.3,99,2,12 999
+Suzuki Ignis,Suzuki,Bleu,Essence,Manuelle,2020,26169,4.8,107,5,14 699
+Citroën C4 SPACETOURER,Citroën,Blanc Banquise,Essence,Manuelle,2019,76630,5.2,114,5,15 199
+Citroën Grand C4 Picasso,Citroën,Rouge Rubi,Essence,Manuelle,2016,59940,5,115,5,15 999
+Opel Crossland,Opel,Gris Pierre de Lune,Essence,Manuelle,2022,15245,5,133,5,14 599
+Ford Focus SW,Ford,Gris Magnetic,Essence,Manuelle,2017,43993,4.8,110,5,14 499
+Volkswagen Golf Sportsvan,Volkswagen,Argento,Diesel,Manuelle,2017,99048,4.2,110,5,14 799
+Skoda KAMIQ,Skoda,Bleu Energie,Essence,Manuelle,2020,64144,5.6,128,5,14 999
+Seat Leon X-Perience,Seat,Blanc Candy,Diesel,Automatique,2015,129273,5.4,129,5,13 999
+Infiniti Q30,Infiniti,Noir,Diesel,Manuelle,2016,97819,4.1,108,5,13 999
+Abarth 595C,Abarth,Noir Scorpione,Essence,Automatique,2015,62100,5.8,134,2,14 499
+BMW Série 2 Active Tourer,BMW,BLU,Diesel,Manuelle,2019,117790,4.8,104,5,15 999
+Jeep Renegade,Jeep,Rouge,Essence,Manuelle,2021,39705,6.4,145,5,16 799
+Fiat 500L,Fiat,Nero,Diesel,Manuelle,2018,78829,4.3,114,5,13 999
+Volvo V40 Cross Country,Volvo,Bleu Baltique,Diesel,Manuelle,2017,119182,3.8,96,5,14 999
+Hyundai i30 SW,Hyundai,Pepper Gray,Essence,Manuelle,2019,126612,5.2,123,5,14 499
+Opel Grandland X,Opel,VIOLET AMETHYSTE,Essence,Manuelle,2019,64088,5,118,5,16 999
+Opel Astra,Opel,Gris Cosmique,Essence,Automatique,2018,79955,6,157,5,14 399
+BMW X1,BMW,Alpinweiss,Diesel,Manuelle,2016,113587,3.9,104,5,17 799
+Toyota Corolla,Toyota,Gris Aluminium,Hybride essence,Automatique,2019,101964,3,76,5,17 999
+Citroën Berlingo,Citroën,Blanc Banquise,Essence,Manuelle,2019,82637,5,119,5,18 499
+DS DS3 CROSSBACK,DS,,Essence,Manuelle,2019,48739,,,,18 299
+Toyota Prius,Toyota,Bleu Métallisé,Hybride essence rechargeable,Auto...,2013,91165,4.1,49,5,15 999
+Peugeot RCZ,Peugeot,Gris Sidobre,Diesel,Manuelle,2015,106484,5,130,2,15 299
+Peugeot RIFTER,Peugeot,Gris Artense,Essence,Manuelle,2019,82767,5.5,119,5,17 999
+Kia Cee'd,Kia,Deluxe White,Essence,Manuelle,2016,80701,4.9,115,5,15 499
+Honda Civic,Honda,Blanc Orchidée,Essence,Manuelle,2017,110589,5.1,117,5,15 499
+Volkswagen Coccinelle,Volkswagen,Blanc Pur/Toit Noir Uni,Essence,Automatique,2014,90591,6.2,143,3,15 999
+Abarth 595,Abarth,Gris Record,Essence,Manuelle,2018,25764,6,139,3,16 299
+Volkswagen Passat SW,Volkswagen,Gris Indium,Diesel,Manuelle,2016,91905,3.8,95,5,16 499
+Honda HR-V,Honda,Gris,Essence,Automatique,2016,78397,5.4,120,5,16 599
+Jeep Compass,Jeep,,Diesel,Manuelle,2017,109364,,,,17 499
+Seat Arona,Seat,Rouge,Essence,Manuelle,2020,32950,6.1,137,5,17 999
+Mazda CX-3,Mazda,Rouge,Essence,Manuelle,2019,48620,6.2,141,5,16 999
+Volkswagen E-UP,Volkswagen,Honey yellow (gelb),Electrique,Automatique,2020,21935,0.0,0,4,14 999
+Kia Ceed,Kia,,Diesel,Automatique,2019,59651,,,,16 999
+Mazda CX-5,Mazda,Meteor Grey,Diesel,Automatique,2015,114241,5.5,144,5,17 499
+Opel INSIGNIA GRAND SPORT,Opel,Gris Acier Satine,Diesel,Automatique,2020,74941,5.1,148,5,17 699
+Volkswagen CADDY FOURGON,Volkswagen,Blanc Candy,Diesel,Automatique,2017,68093,4,132,4,17 499
+Skoda SCALA,Skoda,Bleu Racing,Essence,Manuelle,2020,54172,5.4,142,5,18 777
+Audi A4 Avant,Audi,Bianco,Diesel,Automatique,2016,114667,3.9,102,5,18 999
+Hyundai i30 Fastback,Hyundai,Ara Blue,Essence,Automatique,2018,61648,5.4,129,5,17 999
+Opel Insignia,Opel,Silver,Diesel,Manuelle,2018,108620,5.2,136,5,17 975
+Volkswagen Touran,Volkswagen,Noir Intense,Diesel,Manuelle,2019,106676,4.4,109,5,18 999
+Volkswagen Caddy,Volkswagen,Reflet d?Argent mét,Diesel,Automatique,2019,96769,5,131,5,18 699
+Hyundai BAYON,Hyundai,Noir,Hybride essence,Automatique,2021,49501,5.2,120,5,19 499
+Seat Ateca,Seat,Noir Magique,Essence,Automatique,2017,105610,5.5,124,5,18 999
+Ford Mondeo,Ford,,Diesel,Automatique,2019,109486,,,,19 034
+Skoda KAMIQ,Skoda,Blanc Cristal,Diesel,Automatique,2019,20074,5.2,110,5,19 499
+Honda CR-V,Honda,Gris,Diesel,Automatique,2016,102601,5,139,5,18 499
+BMW I3,BMW,"Mineral Grey avec liserés ""BMW i Blue""",Electrique,Automatique,2018,35340,0.0,0,4,19 299
+Mazda Mazda 6,Mazda,Marron,Diesel,Automatique,2018,106534,5.1,127,4,18 499
+Skoda Fabia Combi,Skoda,Gris Météore,Essence,Automatique,2019,28491,4.8,110,5,18 899
+Renault Grand Scenic,Renault,,Diesel,Manuelle,2019,96921,,,,19 199
+Skoda Karoq,Skoda,Noir Magic,Diesel,Manuelle,2018,47310,5,109,5,18 999
+Opel Astra Sports Tourer,Opel,Rouge,Essence,Manuelle,2022,39100,5.5,128,4,19 299
+Renault Espace,Renault,Bianco,Diesel,Automatique,2018,115394,4.6,120,5,19 219
+BMW X1,BMW,Mineralgrau,Diesel,Manuelle,2018,62014,4.6,109,5,22 099
+Mazda Mazda 2,Mazda,Black Metallic,Hybride essence,Automatique,2023,9299,3,87,5,20 299
+Audi Q3,Audi,,Essence,Automatique,2017,84564,,,,22 499
+Hyundai Bayon,Hyundai,Vert metallique,Essence,Manuelle,2022,29990,5.5,124,5,19 499
+BMW X2,BMW,Noir Schwarz,Essence,Manuelle,2020,69456,5.5,141,5,20 999
+Hyundai Ioniq,Hyundai,Amazon Grey,Hybride essence,Automatique,2019,52211,4.6,79,5,21 999
+Volvo V40,Volvo,Bleu Baltique,Diesel,Automatique,2019,67953,4.5,118,5,20 999
+Ford Transit,Ford,Orange Glow,Essence,Manuelle,2022,10,6.8,155,3,20 099
+BMW Série 3 Touring,BMW,Alpinweiss,Essence,Manuelle,2019,48653,6.3,138,5,20 999
+Audi Q5,Audi,Noir Brillant,Diesel,Automatique,2015,123891,5.7,149,5,21 999
+Opel Mokka,Opel,Vert,Essence,Manuelle,2021,21500,5.6,124,4,21 499
+Abarth 695C,Abarth,Bleu Riva/Gris,Essence,Automatique,2019,55842,5.8,153,2,20 999
+Mini Clubman,Mini,Starlight Blue,Essence,Automatique,2019,43700,5.5,124,6,21 499
+Opel Combo Life,Opel,Gris Quartz,Diesel,Manuelle,2021,38000,5.4,144,5,20 999
+Peugeot 508 SW,Peugeot,Gris Amazonite,Diesel,Automatique,2020,71598,3.8,130,5,22 299
+Hyundai i30,Hyundai,,Essence,Automatique,2023,10114,,,,21 199
+Volvo XC40,Volvo,Noir Onyx,Diesel,Manuelle,2019,116030,5.3,127,5,22 499
+Abarth 695,Abarth,Bleu Riva/Gris,Essence,Automatique,2018,31485,5.8,134,3,21 499
+Audi A4 Allroad,Audi,Blanc Ibis,Diesel,Automatique,2016,123902,5.6,149,5,21 999
+Citroën C4 X,Citroën,Gris Platinium,Essence,Automatique,2023,3825,5,129,4,23 199
+Land Rover Range Rover Evoque,Land,Noir,Diesel,Automatique,2015,120357,5.1,134,5,23 999
+Jaguar XF,Jaguar,Narvick Black (Ebony Black),Diesel,Automatique,2018,97297,4,114,4,21 999
+Ford TRANSIT CONNECT FGN,Ford,Blanc Glacier,Diesel,Automatique,2022,17337,5.7,158,4,22 999
+BMW Série 5,BMW,Gris,Diesel,Automatique,2016,86626,4.5,129,5,23 099
+Alfa Romeo Giulia,Alfa,Noir Vulcano,Diesel,Automatique,2018,57304,4.2,109,4,23 499
+Kia ProCeed,Kia,Noir Basalte métallisé,Essence,Automatique,2019,55464,5.5,125,5,22 199
+Ford Mondeo SW,Ford,Blanc,Hybride essence,Automatique,2019,71670,4,96,5,22 799
+Audi A1 CITYCARVER,Audi,Pythongelb/mythosschwarz,Essence,Manuelle,2022,4905,5.8,129,4,22 999
+Skoda Kodiaq,Skoda,Gris Argent,Essence,Automatique,2019,118795,6.3,125,5,23 499
+Mini Cooper Cabriolet,Mini,Schwarz Metallic,Essence,Automatique,2021,65946,6.2,136,2,22 399
+BMW Série 5 Touring,BMW,Sophistograu,Diesel,Automatique,2019,113993,4.7,123,5,23 999
+DS DS7 CROSSBACK,DS,Gris Platinium,Hybride essence rechargeable,Auto...,2020,75540,1.5,69,5,29 499
+Mercedes CLASSE A BERLINE,Mercedes,,Diesel,Automatique,2019,101751,,,,24 499
+Volkswagen Sharan,Volkswagen,Blanc Pur,Diesel,Manuelle,2018,98555,5.1,132,5,23 999
+Skoda Superb Combi,Skoda,Black-Magic,Diesel,Automatique,2019,87472,4.6,121,5,23 199
+Nissan LEAF 2019,Nissan,Noir Métallisé,Electrique,Automatique,2020,18464,0.0,0,5,22 999
+Audi TT,Audi,Blanc Ibis,Essence,Manuelle,2016,87033,6,138,3,23 999
+Lexus IS,Lexus,Gris Mercure,Hybride essence,Automatique,2018,81394,4.6,101,4,24 499
+Jaguar E-Pace,Jaguar,Firenze Red,Diesel,Manuelle,2018,79770,5.4,143,5,24 699
+Mitsubishi Outlander,Mitsubishi,Blanc,Hybride essence rechargeable,Auto...,2019,53593,2,40,5,24 999
+Tesla MODEL 3,Tesla,Blanc Nacré Multicouches,Electrique,Automatique,2019,112690,0.0,0,4,25 999
+Volvo V60,Volvo,,Diesel,Automatique,2019,118176,,,,25 099
+Toyota Prius+,Toyota,Noir,Hybride essence,Automatique,2020,102150,4.6,132,5,25 999
+Mitsubishi Outlander,Mitsubishi,,Hybride essence rechargeable,Auto...,2020,23717,,,,26 999
+Mazda CX-30,Mazda,Jet Black,Hybride essence,Automatique,2021,18870,6.1,138,5,25 499
+Renault Trafic,Renault,Blanc,Diesel,Manuelle,2019,49500,5.6,160,4,25 399
+Mercedes Classe C,Mercedes,Noir,Diesel,Automatique,2019,33913,4.8,112,4,26 999
+Opel Grandland,Opel,Gris Artense,Essence,Automatique,2022,21192,6.5,145,5,25 599
+Renault Koleos,Renault,Noir Metal,Essence,Automatique,2022,6355,6,155,5,27 999
+Toyota Proace City Verso,Toyota,,Essence,Automatique,2021,37182,,,,28 499
+Lynk & Co 1,Lynk,Bleu,Hybride essence rechargeable,Auto...,2021,23958,1.2,27,5,28 999
+Volkswagen Golf SW,Volkswagen,Blanc Pur,Essence,Manuelle,2023,1021,5,128,5,26 999
+Toyota RAV4,Toyota,,Hybride essence,Automatique,2019,80639,,,,28 899
+Mercedes Classe A Berline,Mercedes,Blanc digital,Essence,Automatique,2021,25100,5,137,4,28 399
+Cupra Formentor,Cupra,Blanc Nevada,Diesel,Manuelle,2022,11803,4.7,125,5,29 399
+Audi A3,Audi,,Essence,Manuelle,2021,15947,,,,28 699
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2019,54782,4.7,108,5,11 799
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2017,87444,4.6,103,5,11 799
+Renault Scenic 3,Renault,Gris Platine,Diesel,Manuelle,2016,117466,4.1,105,5,11 899
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2017,63258,4.4,103,5,11 899
+Citroën C3 Aircross,Citroën,Natural White,Essence,Manuelle,2018,51652,5.1,116,5,11 999
+DS DS4 CROSSBACK,DS,Blanc Nacré,Essence,Manuelle,2017,119473,5,114,5,11 999
+Peugeot 208,Peugeot,Rouge Rubi,Essence,Manuelle,2017,48871,4.5,104,5,11 999
+Fiat Tipo,Fiat,Bronze Magnetico,Essence,Manuelle,2019,58654,6.4,146,5,11 999
+Citroën C3 Aircross,Citroën,Gris Acier,Essence,Manuelle,2018,87435,5,115,5,11 999
+Ford C-Max,Ford,Noir Shadow,Essence,Manuelle,2018,104079,5.7,129,5,11 999
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2017,70048,4,114,5,11 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2017,89043,4.4,103,5,11 999
+Peugeot 308 SW,Peugeot,Bleu Magnetic,Essence,Automatique,2015,135374,4.9,119,5,11 999
+Renault Zoé,Renault,Blanc Glacier,Electrique,Automatique,2020,26131,0.0,0,5,11 999
+DS DS3,DS,Noir Perla Nera/Blanc Opale,Essence,Manuelle,2017,79128,4.5,107,3,11 999
+Renault Clio 4,Renault,Gris Cassiopée,Diesel,Manuelle,2015,68660,3.6,90,5,11 999
+Citroën C4 Aircross,Citroën,Gris Titanium,Diesel,Manuelle,2017,122670,4.6,119,5,11 999
+Peugeot 308 SW,Peugeot,Noir Perla Nera,Essence,Manuelle,2016,87198,4.8,111,5,11 999
+Citroën C3,Citroën,,Essence,Manuelle,2019,46490,,,,11 999
+Mercedes CLASSE C BREAK,Mercedes,Gris,Diesel,Automatique,2021,35689,4.6,137,5,35 999
+Alfa Romeo Tonale,Alfa,,Diesel,Automatique,2022,15890,,,,31 999
+Fiat Scudo,Fiat,Blanc,Diesel,Manuelle,2022,10,7.5,185,5,32 699
+Audi Q4 E-TRON,Audi,Gris Galet,Electrique,Automatique,2022,9137,0.0,0,5,38 999
+Skoda Octavia Combi,Skoda,Black,Diesel,Automatique,2023,27874,4.6,121,5,32 999
+BMW X4,BMW,Alpinweiss,Diesel,Automatique,2018,89285,5.2,136,5,33 499
+Audi A6,Audi,Brillantschwarz,Essence,Automatique,2019,59731,8.3,150,5,33 099
+Opel Movano,Opel,,Diesel,Manuelle,2022,13,,,,33 799
+Peugeot Boxer,Peugeot,Blanc,Diesel,Manuelle,2022,10,9.3,239,5,34 699
+Audi A6 Avant,Audi,,Hybride diesel,Automatique,2019,49650,,,,33 899
+Renault TRAFIC FOURGON,Renault,Blanc Glacier,Diesel,Automatique,2023,201,N/A,184,4,36 499
+Volvo XC90,Volvo,Bleu Magique,Hybride essence rechargeable,Auto...,2016,104374,2.1,49,5,40 299
+Tesla MODEL Y,Tesla,Blanc Nacré Multicouches,Electrique,Automatique,2022,21985,0.0,0,5,41 999
+Volkswagen ARTEON SHOOTING BRAKE,Volkswagen,Lapiz Blue,Hybride essence rechargeable,Auto...,2021,32200,1.3,27,5,36 499
+Tesla MODEL X,Tesla,Bleu Outremer Métallisée,Electrique,Automatique,2017,125482,0.0,0,5,39 699
+Volvo V60 Cross Country,Volvo,,Diesel,Automatique,2020,7871,,,,37 499
+Tesla MODEL S,Tesla,Azul Oscuro,Electrique,Automatique,2017,92497,0.0,0,5,36 999
+Lexus RX,Lexus,Blanc Arctique,Hybride essence,Automatique,2019,27665,5.9,132,5,46 499
+Mercedes GLC,Mercedes,Argent Mojave Met,Hybride essence rechargeable,Auto...,2021,43908,2.2,46,5,40 099
+Land Rover Range Rover Sport,Land,Gris Corris,Diesel,Automatique,2016,93420,6.9,182,5,39 999
+Toyota SUPRA,Toyota,,Essence,Automatique,2020,56232,,,,45 999
+Mercedes Classe X,Mercedes,Noir mÃ©tal KABARASCHWARZ,Diesel,Automatique,2018,56369,8,209,5,42 099
+Audi Q3 Sportback,Audi,Noir Mythic,Diesel,Automatique,2020,64823,5,133,5,40 099
+Audi E-TRON,Audi,Bleu Galaxy,Electrique,Automatique,2019,13322,0.0,0,5,46 499
+Audi Q5 SPORTBACK,Audi,,Hybride essence rechargeable,Auto...,2021,42500,,,,54 499
+Hyundai Santa Fe,Hyundai,,Hybride essence rechargeable,Auto...,2021,39537,,,,45 099
+Volkswagen Touareg,Volkswagen,Gris Silice,Hybride essence rechargeable,Auto...,2021,23920,24.3,63,5,57 999
+Peugeot 308 AFFAIRE,Peugeot,Blanc Banquise,Diesel,Manuelle,2018,91365,N/A,94,5,10 499
+Citroën C5 Tourer,Citroën,Noir Perla Nera,Diesel,Automatique,2016,115881,4.4,114,5,13 999
+DS DS9,DS,Gris Platino,Hybride essence rechargeable,Auto...,2023,1413,1.2,34,4,52 599
+Kia Ceed SW,Kia,Gris Acier,Diesel,Manuelle,2019,66370,3.9,99,5,16 999
+BMW I4,BMW,Blue,Electrique,Automatique,2022,6185,0.0,0,5,67 999
+Fiat TIPO Station Wagon,Fiat,Noir Cinema,Essence,Manuelle,2020,22295,6.7,160,5,13 999
+Peugeot 208,Peugeot,Gris Shark,Essence,Manuelle,2017,115641,4.5,104,5,9 499
+Citroën C3,Citroën,Gris Aluminium,Essence,Manuelle,2017,79800,4.7,109,5,10 499
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Manuelle,2016,104730,4.9,115,5,12 799
+Mercedes CLA Shooting Brake,Mercedes,Noir Cosmos,Essence,Automatique,2020,36121,6.2,175,5,26 999
+Volkswagen Golf 7 SW,Volkswagen,Indiumgrau,Diesel,Automatique,2018,123886,4.1,108,5,14 999
+Peugeot 308,Peugeot,Blanc Banquise,Essence,Manuelle,2018,103614,4.7,113,5,11 299
+Renault Clio 4,Renault,Gris Titanium,Essence,Manuelle,2019,109551,5,113,5,11 299
+Renault Clio 5,Renault,Noir Etoile,Essence,Manuelle,2019,115382,5,100,5,11 299
+Citroën C3 Aircross,Citroën,Natural White,Essence,Manuelle,2017,87607,5,115,5,11 499
+Peugeot 5008,Peugeot,Gris Platinium,Essence,Manuelle,2016,99010,5.4,118,5,14 499
+Peugeot 308 SW,Peugeot,Blanc Nacré,Essence,Manuelle,2016,113961,4.6,111,5,11 199
+Renault Clio 4,Renault,Ivoire,Essence,Manuelle,2016,102447,5,114,5,10 999
+Renault Mégane 4,Renault,Noir Etoile,Essence,Manuelle,2017,74058,5.4,120,5,12 999
+Renault Zoé,Renault,Blanc Glacier,Electrique,Automatique,2018,46438,0.0,0,5,8 999
+Renault Twingo 3,Renault,Noir Etoile,Essence,Manuelle,2019,90823,5.5,125,5,8 499
+Renault Kadjar,Renault,Gris Platine,Essence,Manuelle,2017,94458,6.2,139,5,14 299
+Renault Zoé,Renault,Blanc Glacier,Electrique,Automatique,2016,53210,0.0,0,5,8 999
+Nissan Qashqai,Nissan,Gris Squale,Essence,Manuelle,2017,95058,5.6,129,5,14 499
+Renault Kadjar,Renault,Rouge Flamme,Diesel,Manuelle,2015,80836,3,103,5,14 499
+Renault Mégane 4,Renault,Noir Etoile,Diesel,Manuelle,2016,128764,3.7,95,5,12 799
+Fiat 500,Fiat,Crossover Black,Essence,Manuelle,2016,60534,4.9,115,3,10 499
+Opel Corsa,Opel,Gris Astéroïde,Essence,Manuelle,2018,52140,5,120,5,12 999
+Nissan Qashqai,Nissan,Rouge Toscane,Essence,Manuelle,2017,84779,5.6,129,5,14 999
+DS DS3,DS,Blanc Banquise/Brun Topaze,Essence,Manuelle,2016,52323,4.3,104,3,10 799
+Nissan Juke,Nissan,Noir Métallisé,Essence,Manuelle,2017,108505,5.7,130,5,10 799
+Nissan Juke,Nissan,Noir Métallisé,Essence,Manuelle,2014,44888,5.8,139,5,11 299
+Ford Focus,Ford,Blanc Metropolis,Diesel,Manuelle,2019,121982,4.3,90,5,11 999
+Audi A1 Sportback,Audi,Rouge Shiraz,Essence,Manuelle,2016,110386,5.1,118,5,14 499
+Nissan Micra,Nissan,Gris,Essence,Manuelle,2018,47968,3.8,103,5,12 199
+Fiat 500X,Fiat,Rouge Passione,Essence,Manuelle,2015,61045,6,139,5,12 499
+Mercedes Classe A,Mercedes,Noir Cosmos,Essence,Automatique,2015,100794,5.4,119,5,16 999
+Citroën C3 Picasso,Citroën,Gris Shark,Essence,Manuelle,2017,79395,5,115,5,11 399
+Volkswagen Tiguan,Volkswagen,Gris poivre,Diesel,Manuelle,2014,131579,5.3,138,5,14 999
+Kia Sportage,Kia,Blanc Céleste,Essence,Manuelle,2015,89900,6.4,149,5,14 499
+Audi A1 Sportback,Audi,Noir Brillant,Essence,Manuelle,2017,52058,4.2,97,5,15 999
+Seat Leon,Seat,Noir Minuit,Essence,Manuelle,2020,74731,5.6,129,5,14 499
+Opel Mokka X,Opel,Blanc Glacier,Essence,Manuelle,2017,89862,6,140,5,11 999
+Opel Adam,Opel,Rouge,Essence,Manuelle,2019,22600,5.6,128,3,11 699
+Dacia Lodgy,Dacia,Gris Comète,Essence,Manuelle,2016,50945,5.5,124,5,13 299
+Fiat Panda,Fiat,Jaune Sole,Essence,Manuelle,2020,18743,4.5,134,5,13 299
+Renault Mégane 4 Estate,Renault,Gris Platine,Essence,Manuelle,2017,63039,5.4,119,5,13 999
+Ford C-Max,Ford,Blanc,Essence,Manuelle,2018,55806,5.6,127,5,12 299
+Audi A3 Sportback,Audi,Noir Mythic,Diesel,Automatique,2016,127930,4.6,121,5,17 399
+Renault Clio 4 Estate,Renault,Noir Etoile,Essence,Manuelle,2017,26473,5,118,5,13 999
+Dacia Logan MCV,Dacia,Brun Vison,Essence,Manuelle,2019,25794,4,121,5,12 999
+Hyundai Tucson,Hyundai,Platinium Silver,Diesel,Manuelle,2018,52576,4.6,119,5,17 999
+Ford C-Max,Ford,,Diesel,Automatique,2017,111560,,,,12 999
+Dacia SPRING,Dacia,Bleu Cenote,Electrique,Automatique,2021,3390,0.0,0,5,14 499
+Hyundai Kona,Hyundai,Pulse Red,Essence,Manuelle,2019,71875,6.4,122,5,14 299
+Skoda Fabia,Skoda,Noir Magic,Essence,Manuelle,2018,42710,4.6,101,5,13 499
+Suzuki VITARA,Suzuki,Bleu,Essence,Automatique,2016,86635,5.5,127,5,14 999
+Renault Scenic 3,Renault,Gris Cassiopée,Essence,Manuelle,2016,53900,6.2,140,5,13 699
+Renault Kangoo,Renault,Blanc,Diesel,Manuelle,2019,77812,4.2,115,4,14 899
+Toyota RAV 4,Toyota,Bronze Clarissimo,Diesel,Manuelle,2016,121585,4.7,124,5,15 999
+Citroën GRAND C4 SPACETOURER,Citroën,Blanc Banquise,Essence,Manuelle,2018,63379,N/A,114,5,17 999
+Mercedes Classe B,Mercedes,POLAR SILVER,Diesel,Manuelle,2014,64450,4.1,108,5,14 999
+Hyundai i20,Hyundai,Gris,Hybride essence,Manuelle,2020,47739,5.1,115,5,14 999
+Seat Leon ST,Seat,Electric blue,Diesel,Manuelle,2018,94822,4.2,108,5,13 999
+Volkswagen Golf Sportsvan,Volkswagen,Noir Intense,Diesel,Manuelle,2015,96578,4,101,5,14 997
+Hyundai i20,Hyundai,Bleu,Essence,Automatique,2019,36784,5.6,111,5,15 999
+Infiniti Q30,Infiniti,Noir,Diesel,Manuelle,2017,69651,3.9,108,5,14 799
+DS DS4 CROSSBACK,DS,Gris Platinium,Essence,Manuelle,2017,49730,5,112,5,14 999
+Suzuki S-CROSS,Suzuki,Bleu,Essence,Manuelle,2018,64901,5.3,113,5,14 799
+Hyundai Tucson,Hyundai,Blanc Polaire,Diesel,Manuelle,2016,70335,4.6,119,5,18 499
+Ford ECOSPORT,Ford,,Diesel,Manuelle,2019,72568,,,,15 099
+Citroën C4 CACTUS BUSINESS,Citroën,Blanc Banquise,Diesel,Manuelle,2018,49924,3.5,97,5,14 999
+Seat Ibiza,Seat,Rouge,Essence,Manuelle,2020,15000,5.6,126,4,16 399
+Renault Talisman Estate,Renault,Noir Etoile,Diesel,Automatique,2017,130820,4.6,120,5,15 499
+Nissan X-Trail,Nissan,Vert Maquis,Diesel,Manuelle,2018,111327,5.1,133,5,17 799
+Honda Civic,Honda,Gris Sonic,Essence,Manuelle,2020,63571,4.8,134,5,16 999
+Renault Grand Scénic 4,Renault,Gris Platine / Toit Noir Etoilé,Essence,Automatique,2018,97151,5.5,124,5,19 799
+Volkswagen Passat SW,Volkswagen,BLU,Diesel,Automatique,2018,84285,4,104,5,17 499
+Dacia Dokker,Dacia,Blanc Glacier,Diesel,Manuelle,2020,58650,4,113,5,15 999
+Opel Crossland,Opel,,Diesel,Manuelle,2021,27384,,,,17 799
+Abarth 595,Abarth,Gris Record,Essence,Manuelle,2019,34946,6.6,150,3,17 299
+Toyota Prius,Toyota,Gris Atlas,Hybride essence,Automatique,2016,111005,3.3,76,5,17 799
+Opel Grandland X,Opel,Gris Quartz,Essence,Manuelle,2019,60291,5.2,118,5,17 999
+DS DS3 CROSSBACK,DS,Gris,Diesel,Manuelle,2019,27130,2.3,97,5,20 399
+Citroën Berlingo,Citroën,,Diesel,Manuelle,2020,40428,,,,20 999
+Toyota Corolla,Toyota,,Hybride essence,Automatique,2020,85591,,,,18 999
+Kia Rio,Kia,Gris Aluminium,Hybride essence,Automatique,2021,49545,5.5,125,5,18 999
+Mazda CX-5,Mazda,Titanium Flash,Diesel,Automatique,2016,106267,5,144,5,18 299
+Ford Focus SW,Ford,Gris Magnetic,Essence,Manuelle,2019,79895,4,104,5,16 499
+Renault Grand Scénic 4,Renault,Gris Platine,Diesel,Automatique,2020,60804,5.9,126,5,20 999
+Ford Mondeo,Ford,Blanc Platinium,Hybride essence,Automatique,2018,102351,4.2,92,4,18 999
+Renault Talisman Estate,Renault,Gris Cassiopée,Diesel,Automatique,2016,76635,4.6,120,5,18 499
+Jeep Compass,Jeep,Jazz Blue,Diesel,Manuelle,2019,68740,6.2,129,5,18 999
+Peugeot 508,Peugeot,Gris Metallique,Diesel,Manuelle,2019,47763,4.1,105,4,19 199
+Peugeot Partner Tepee,Peugeot,Gris Aluminium,Diesel,Manuelle,2017,53380,4.1,116,5,17 999
+Ford S-Max,Ford,White Platinum,Diesel,Automatique,2016,128825,5.2,134,5,18 999
+Volkswagen CADDY FOURGON,Volkswagen,Blanc Candy,Diesel,Automatique,2018,71178,4.9,131,4,19 499
+Nissan Leaf,Nissan,Bronze Intense,Electrique,Automatique,2021,5335,0.0,0,5,18 999
+Volkswagen T-CROSS,Volkswagen,Orange Energetic,Essence,Manuelle,2022,12038,5.8,131,5,19 999
+Kia XCEED,Kia,Bleu Fusion,Hybride essence rechargeable,Auto...,2020,75235,N/A,38,5,20 999
+BMW X1,BMW,Argento,Diesel,Automatique,2017,95490,4.7,123,5,22 499
+Volkswagen Coccinelle,Volkswagen,Blanc,Essence,Automatique,2015,75760,5.4,124,3,19 699
+BMW Série 2 Active Tourer,BMW,Black,Diesel,Automatique,2018,53593,4.3,109,5,21 499
+Skoda Scala,Skoda,Red,Essence,Manuelle,2022,35096,5.5,120,5,18 999
+Mini Clubman,Mini,MOONWALK GREY,Essence,Automatique,2021,30638,5.5,139,6,21 999
+Mercedes GLA,Mercedes,Noir Cosmos,Diesel,Automatique,2017,115392,4.2,110,5,22 499
+Jaguar XE,Jaguar,Yulong White (Glacier White),Diesel,Automatique,2016,59774,4.7,123,4,22 099
+Renault Grand Scenic,Renault,,Diesel,Manuelle,2019,48294,,,,20 199
+Audi A4,Audi,Gris Manhattan,Essence,Manuelle,2019,52494,5.8,126,4,23 299
+Tesla MODEL 3,Tesla,Rouge Multicouches,Electrique,Automatique,2019,112702,0.0,0,4,27 999
+Opel Mokka,Opel,Gris Quartz / Toit Noir,Essence,Automatique,2022,33000,5,133,5,21 999
+Citroën C4 X,Citroën,Gris Acier,Essence,Automatique,2023,3905,5,129,4,23 199
+Kia Niro,Kia,Gris Galène,Electrique,Automatique,2019,29041,0.0,0,5,23 999
+Peugeot 508 SW,Peugeot,Blanc Banquise,Diesel,Automatique,2020,61721,3.8,130,5,23 099
+Audi A4,Audi,Gris Manhattan,Diesel,Automatique,2019,91863,4,137,4,25 499
+Volvo XC40,Volvo,,Diesel,Automatique,2018,92322,,,,26 199
+Seat Ateca,Seat,,Diesel,Manuelle,2021,33411,,,,24 999
+BMW I3,BMW,Blanc,Electrique,Automatique,2020,25453,0.0,0,5,22 299
+Audi TT,Audi,Gris,Essence,Manuelle,2017,82436,5.8,138,3,25 999
+BMW Série 3 Touring,BMW,Gris Mineral,Diesel,Automatique,2018,74803,4,133,5,27 399
+Volkswagen Caddy,Volkswagen,Bleu Acapulco,Diesel,Automatique,2019,19390,5.3,139,5,25 999
+Kia Ceed,Kia,,Essence,Automatique,2022,16309,,,,24 199
+Mazda Mx-30,Mazda,,Electrique,Automatique,2022,10700,0.0,0,,24 999
+Renault Mégane E-TECH,Renault,Blanc Glacier,Electrique,Automatique,2022,41246,0.0,0,5,27 999
+DS DS4,DS,Or Cuivré / Noir Perla Nera,Diesel,Automatique,2022,10601,3,127,5,28 999
+Renault Koleos,Renault,Blanc,Essence,Automatique,2022,20808,6,155,5,26 999
+BMW Série 5 Touring,BMW,Carbonschwarz,Diesel,Automatique,2017,117460,5.5,144,5,28 999
+Audi A1,Audi,Bleu Firmament,Essence,Automatique,2022,10121,6.4,146,5,30 699
+Skoda Superb Combi,Skoda,Energy-Blau,Diesel,Automatique,2021,78486,5.7,144,5,26 999
+Opel Grandland,Opel,,Essence,Automatique,2022,13393,,,,27 499
+Citroën Jumpy,Citroën,Blanc,Diesel,Manuelle,2022,10,7.5,194,5,30 999
+Cupra Formentor,Cupra,,Essence,Manuelle,2022,5,,,,30 799
+Volkswagen Touran,Volkswagen,Atlantik blue (blau),Diesel,Automatique,2021,31580,5.6,143,5,30 173
+Mitsubishi Eclipse Cross,Mitsubishi,Amethyst Black,Hybride essence rechargeable,Auto...,2022,25461,2,46,5,29 399
+BMW Série 5,BMW,Bluestone,Essence,Automatique,2017,25417,5.5,132,4,32 999
+Volkswagen Tiguan Allspace,Volkswagen,White,Diesel,Automatique,2018,61301,7.1,151,5,33 881
+Volvo V60,Volvo,,Hybride diesel,Automatique,2021,35726,,,,31 499
+BMW Série 3,BMW,Alpinweiss,Diesel,Automatique,2019,65235,4.3,109,4,32 999
+Mercedes CLASSE A BERLINE,Mercedes,Blanc digital,Diesel,Automatique,2023,21505,N/A,141,4,36 999
+Volvo XC60,Volvo,Noir Onyx,Hybride essence rechargeable,Auto...,2017,98366,2,49,5,38 499
+Tesla MODEL Y,Tesla,Noir,Electrique,Automatique,2023,6750,0.0,0,5,49 999
+BMW Série 5,BMW,BLU,Diesel,Automatique,2019,43302,4.5,119,4,34 099
+BMW X4,BMW,Glaciersilber,Diesel,Automatique,2019,84380,5.6,145,5,39 499
+Tesla MODEL S,Tesla,Midnight Silver,Electrique,Automatique,2018,79240,0.0,0,4,42 499
+Volkswagen Arteon Shooting Brake,Volkswagen,Kings red (rot),Hybride essence rechargeable,Auto...,2021,29500,1.4,27,4,36 999
+Toyota Auris,Toyota,Gris,Hybride essence,Automatique,2016,127540,3.9,91,5,15 999
+Skoda Octavia Combi,Skoda,Orange,Diesel,Automatique,2022,15648,5.8,150,5,38 999
+Dacia Logan,Dacia,Bleu Cosmos,Essence,Manuelle,2016,90122,4.9,109,4,8 499
+Mercedes Classe C Break,Mercedes,Gris Graphite,Diesel,Automatique,2021,33401,5.5,139,5,38 999
+Renault Captur,Renault,Brun Ivoire / Noir Etoilé,Essence,Manuelle,2015,109081,4,113,5,10 999
+Peugeot 308,Peugeot,"Marron ""Rich Oak""",Essence,Manuelle,2015,92160,4.5,107,5,11 599
+Tesla MODEL X,Tesla,Gris Nuit Métallisé,Electrique,Automatique,2018,44653,0.0,0,5,59 699
+Peugeot 5008,Peugeot,Gris Artense,Essence,Manuelle,2016,65260,5.4,118,5,16 999
+Mercedes GLC,Mercedes,Bleu Cavansite,Diesel,Automatique,2022,26740,5.8,159,5,51 299
+Citroën C3,Citroën,Blanc,Essence,Manuelle,2016,53490,4.5,104,5,10 199
+Land Rover Velar,Land,Kaikoura Stone,Diesel,Automatique,2019,102385,5.9,151,5,40 399
+Renault Captur,Renault,Brun Ivoire,Diesel,Automatique,2018,118659,4,113,5,11 499
+Renault Captur,Renault,Ivoire,Essence,Manuelle,2018,79291,5,123,5,10 999
+Audi Q4 e-tron,Audi,Gletscherweiß,Electrique,Automatique,2022,11880,0.0,0,5,55 599
+Dacia Sandero,Dacia,Gris Platine,Essence,Manuelle,2016,82100,5.8,130,5,9 299
+Dacia Sandero,Dacia,Bleu Cosmos,Essence,Manuelle,2018,39839,5.2,117,5,9 499
+Fiat 500,Fiat,Gris Electroclash,Essence,Manuelle,2018,70215,4.9,115,3,10 699
+Peugeot 308 SW,Peugeot,Bleu Magnetic,Essence,Automatique,2015,135374,4.9,119,5,11 999
+Opel Corsa,Opel,Gris Platine,Essence,Manuelle,2018,59677,5.6,129,5,11 499
+Renault Twingo 3,Renault,Brun Cappuccino,Essence,Manuelle,2016,38766,5,112,5,9 999
+Land Rover Velar,Land,Blanc Fuji,Hybride essence rechargeable,Auto...,2021,20256,N/A,50,5,61 999
+Renault Kadjar,Renault,Bleu Cosmos,Essence,Manuelle,2018,73825,6.2,139,5,14 299
+Volkswagen Golf 7,Volkswagen,Blanc Pur,Essence,Automatique,2015,150480,4.8,113,5,14 199
+Citroën C4 Picasso,Citroën,Blanc Banquise,Essence,Manuelle,2016,121575,5,115,5,10 499
+Toyota Aygo,Toyota,,Essence,Manuelle,2019,33561,,,,11 299
+Opel Corsa,Opel,Gris Mineral,Essence,Manuelle,2018,60342,5.2,120,5,11 499
+Citroën C4 Cactus,Citroën,Noir Obsidien,Diesel,Automatique,2017,108585,3.4,89,5,13 299
+Toyota Yaris,Toyota,Blanc Pur,Hybride essence,Automatique,2015,45729,3.3,75,5,14 999
+Citroën C3 Picasso,Citroën,Blanc Banquise,Essence,Manuelle,2015,107085,5,115,5,8 799
+Renault Scénic 4,Renault,Gris Cassiopée / Toit Noir,Diesel,Manuelle,2017,84065,3.9,100,5,14 799
+Citroën C4 Picasso,Citroën,Gris Aluminium,Essence,Manuelle,2015,103575,5,115,5,10 499
+Mercedes Classe A,Mercedes,Blanc Calcite,Diesel,Manuelle,2016,100813,4.5,111,5,18 999
+Fiat 500X,Fiat,Ivoire,Diesel,Manuelle,2018,107425,4.7,123,5,12 999
+Volkswagen Tiguan,Volkswagen,Blanc Candy,Diesel,Automatique,2014,127874,5.9,158,5,16 499
+DS DS3,DS,Blanc Opalin/Whisper,Essence,Manuelle,2017,81375,4.5,105,3,11 399
+Opel Crossland X,Opel,Rouge,Essence,Manuelle,2018,51188,5.1,116,5,14 199
+Fiat Tipo,Fiat,Gris Electroclash,Essence,Manuelle,2020,34041,6.7,161,5,13 499
+Opel Corsa,Opel,Gris Quartz,Essence,Manuelle,2021,19237,5,118,5,12 999
+Fiat Panda,Fiat,Rouge Bartolini,Essence,Manuelle,2020,26700,4.5,134,5,13 999
+Renault Clio 4 Estate,Renault,Noir Etoile,Diesel,Manuelle,2016,43429,3.3,85,5,14 499
+Ford Focus,Ford,,Essence,Manuelle,2018,89370,,,,14 075
+Dacia Logan MCV,Dacia,Gris Platine,Essence,Manuelle,2016,31657,4.9,109,5,13 299
+Ford C-Max,Ford,Gris Lunaire,Diesel,Manuelle,2018,85110,4.7,125,5,12 999
+Toyota Aygo X,Toyota,Bleu Genièvre,Essence,Manuelle,2023,692,4.7,108,5,14 999
+Dacia SPRING,Dacia,Bleu Cenote,Electrique,Automatique,2021,6672,0.0,0,5,13 999
+Renault Talisman,Renault,Gris Platine,Diesel,Automatique,2015,95831,4.5,118,4,14 999
+Nissan Micra,Nissan,,Essence,Manuelle,2020,50422,,,,12 999
+Kia Sportage,Kia,Blanc,Diesel,Manuelle,2018,88415,4.6,119,5,16 499
+Volkswagen T-Roc,Volkswagen,Blanc Pur,Diesel,Manuelle,2019,93965,5.2,109,5,18 299
+Opel Adam,Opel,Blanc Glacier,Essence,Manuelle,2018,37044,5.2,117,3,12 499
+Seat Leon,Seat,Gris Pyrénéen,Essence,Manuelle,2017,124751,6,138,5,17 499
+Jeep Renegade,Jeep,Alpine White,Diesel,Manuelle,2016,52869,4.4,115,5,16 999
+Citroën C4 SPACETOURER,Citroën,Blanc Banquise,Essence,Manuelle,2018,60803,5.2,116,5,16 299
+Kia Sportage,Kia,,Diesel,Manuelle,2018,72434,,,,17 199
+Hyundai Kona,Hyundai,Rouge,Essence,Manuelle,2018,67774,5,125,5,15 399
+Audi Q2,Audi,Blanc Ibis,Diesel,Manuelle,2017,84679,4.4,114,5,19 499
+Seat Leon ST,Seat,Bianco,Diesel,Manuelle,2020,105704,5,138,5,14 099
+Volkswagen Golf Sportsvan,Volkswagen,Gris Limestone,Diesel,Automatique,2015,80700,4.1,104,5,15 999
+Citroën GRAND C4 SPACETOURER,Citroën,Gris Acier,Essence,Automatique,2019,77183,5.1,115,5,19 499
+Skoda Fabia,Skoda,Bleu Racing,Essence,Manuelle,2022,21221,5.1,117,5,18 299
+Citroën C4 SPACETOURER,Citroën,Gris Acier,Essence,Manuelle,2018,57349,5.2,114,5,15 999
+Toyota Corolla,Toyota,Gris,Hybride essence,Automatique,2019,70863,3.3,76,5,19 299
+Dacia Lodgy,Dacia,Noir Nacre,Essence,Manuelle,2019,39951,5,141,5,18 036
+Citroën Grand C4 Picasso,Citroën,GRIGIO,Diesel,Automatique,2017,64864,4,106,5,17 999
+Audi Q2,Audi,Gris Quantum,Essence,Automatique,2017,100090,6.3,144,5,22 499
+Opel Crossland,Opel,Gris Artense,Diesel,Automatique,2020,30144,5.9,138,5,18 099
+Peugeot Rifter,Peugeot,Deep Blue (M),Essence,Manuelle,2019,67512,5.5,119,5,19 199
+Renault Espace 5,Renault,Blanc Nacré,Diesel,Automatique,2016,90532,4,120,5,18 499
+Hyundai Tucson,Hyundai,Phantom Black,Diesel,Manuelle,2019,80780,4.6,122,5,18 499
+Mini Countryman,Mini,Melting Silver,Diesel,Automatique,2018,127425,4.4,119,5,19 999
+Mercedes Classe B,Mercedes,Noir Cosmos,Essence,Automatique,2018,102309,6.2,142,5,18 999
+Volkswagen Golf 8,Volkswagen,Blanc Pur,Essence,Manuelle,2021,36910,5,116,5,21 499
+Nissan Leaf,Nissan,Gris Squale,Electrique,Automatique,2021,30785,0.0,0,5,18 999
+Dacia Dokker,Dacia,Blanc Glacier,Essence,Manuelle,2020,54643,6,153,5,15 999
+Mazda CX-5,Mazda,Soul Red Crystal,Diesel,Manuelle,2018,107785,5,132,5,18 999
+Suzuki S-CROSS,Suzuki,,Hybride essence,Automatique,2021,54259,,,,19 299
+Volkswagen Passat SW,Volkswagen,Black,Diesel,Automatique,2018,116577,4.4,114,5,19 499
+Mercedes GLA,Mercedes,Bleu Cavansite,Diesel,Automatique,2017,99840,5,127,5,23 799
+Toyota RAV 4,Toyota,Blanc Nacré,Hybride essence,Automatique,2016,98595,4.9,115,5,21 499
+Skoda KAMIQ,Skoda,Blanc Lune,Essence,Automatique,2021,28485,5.8,134,5,19 799
+BMW X2,BMW,Saphirschwarz,Diesel,Manuelle,2018,58270,4.9,119,5,23 999
+Suzuki S-CROSS,Suzuki,Blanc,Hybride essence,Manuelle,2020,51592,5.4,128,5,17 999
+Audi A4 Avant,Audi,Gris Daytona Nacré,Diesel,Automatique,2017,100306,4.3,113,5,24 499
+Kia XCEED,Kia,Blanc,Hybride essence rechargeable,Auto...,2021,40475,N/A,38,5,22 499
+Toyota Corolla,Toyota,Blanc Pur,Hybride essence,Automatique,2019,63774,3,76,5,19 999
+Hyundai Ioniq,Hyundai,Polar White,Electrique,Automatique,2022,14632,0.0,0,5,21 499
+Volkswagen T-CROSS,Volkswagen,Reflet d'Argent,Essence,Manuelle,2022,20362,5,131,5,19 999
+BMW X2,BMW,BLU,Diesel,Automatique,2018,97699,5.9,121,5,23 999
+BMW X1,BMW,Glaciersilber,Diesel,Automatique,2019,108187,4,124,5,23 999
+Mazda Mazda 2,Mazda,Black Metallic,Hybride essence,Automatique,2023,7788,3,87,5,20 499
+Peugeot 508,Peugeot,Gris Artense,Diesel,Automatique,2021,68195,4,121,5,22 499
+Mercedes Classe C,Mercedes,Gris Sélénite,Diesel,Automatique,2018,36378,5.2,127,4,29 299
+Opel Mokka,Opel,Gris Quartz / Toit Noir,Essence,Automatique,2022,29185,5,133,5,21 999
+Audi Q3,Audi,Gris Daytona,Essence,Automatique,2019,58670,5.4,130,5,29 999
+Hyundai Ioniq,Hyundai,Fluidic Metal,Hybride essence rechargeable,Auto...,2021,50452,1.1,26,5,22 799
+Citroën C4 X,Citroën,Gris Platinium,Essence,Automatique,2023,3863,5,129,4,23 199
+Skoda Karoq,Skoda,Gris Perle,Essence,Automatique,2022,17443,6.2,146,5,31 499
+Volkswagen Caddy,Volkswagen,Blanc Candy,Diesel,Automatique,2022,31717,5.2,136,4,29 999
+Citroën C5 X,Citroën,Blanc Nacré / Toit Noir Perla Nera,Essence,Automatique,2022,14082,6,136,5,24 899
+BMW X3,BMW,Gris Sophistaugrau,Diesel,Automatique,2018,76700,4,127,5,29 499
+Kia Niro,Kia,Blanc Nacré,Electrique,Automatique,2021,29186,0.0,0,5,26 999
+Opel GRANDLAND,Opel,Blanc Arktis,Essence,Automatique,2023,12192,6.3,146,5,29 499
+DS DS7 CROSSBACK,DS,Noir Perla Nera,Diesel,Automatique,2021,36415,4,138,5,30 499
+Kia Niro,Kia,Blanc Céleste,Electrique,Automatique,2020,41867,0.0,0,5,25 999
+Seat Ateca,Seat,Noir Magique,Diesel,Automatique,2021,47745,5,131,5,26 399
+Audi Q3,Audi,Bleu Cosmos,Essence,Manuelle,2019,29627,6.4,139,5,28 706
+Tesla MODEL 3,Tesla,Blanc,Electrique,Automatique,2021,27900,0.0,0,4,30 999
+Peugeot 508 SW,Peugeot,Gris Artense,Diesel,Automatique,2021,16965,4,124,5,27 799
+Renault Koleos,Renault,Noir Metal,Essence,Automatique,2022,17995,6,155,5,27 399
+Renault Trafic,Renault,,Diesel,Automatique,2021,42274,,,,33 099
+Renault Grand Scenic,Renault,,Essence,Automatique,2022,38621,,,,26 999
+Tesla MODEL 3,Tesla,Blanc Nacré Multicouches,Electrique,Automatique,2021,26886,0.0,0,4,30 999
+DS DS4,DS,Or Cuivré / Noir Perla Nera,Diesel,Automatique,2022,10864,3,127,5,28 999
+BMW Série 3,BMW,Gris Skyscraper,Hybride diesel,Automatique,2023,2210,4.5,128,4,37 499
+Opel Movano,Opel,,Diesel,Manuelle,2022,11,,,,34 299
+Mitsubishi Eclipse Cross,Mitsubishi,Polar White,Hybride essence rechargeable,Auto...,2022,24360,2,46,5,29 399
+DS DS4 CROSSBACK,DS,Noir Perla Nera,Diesel,Manuelle,2018,81505,3.8,100,5,14 899
+Volkswagen Touran,Volkswagen,Atlantik blue (blau),Essence,Automatique,2021,13600,6.8,151,5,31 334
+BMW Série 2 Active Tourer,BMW,Alpinweiss,Essence,Automatique,2022,11894,6,143,5,32 499
+Renault Mégane E-TECH,Renault,Bleu Nocturne / Toit gris schiste,Electrique,Automatique,2023,2469,0.0,0,5,37 499
+Volvo XC60,Volvo,,Hybride essence rechargeable,Auto...,2020,54380,,,,40 499
+BMW X3,BMW,Saphirschwarz,Diesel,Automatique,2020,48726,N/A,131,5,34 999
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Manuelle,2015,95435,4,105,5,11 699
+Tesla MODEL S,Tesla,Midnight Silver Metallic,Electrique,Automatique,2018,60470,0.0,0,4,44 999
+Skoda Superb Combi,Skoda,Black,Diesel,Automatique,2022,25648,5.3,136,5,36 399
+Mini Clubman,Mini,GREY,Essence,Automatique,2020,24481,7.7,161,5,38 499
+Mazda Mx-30,Mazda,,Electrique,Automatique,2020,17932,0.0,0,,20 199
+Kia Niro,Kia,Gris Galène,Hybride essence,Automatique,2018,54821,3.4,101,5,20 499
+BMW X5,BMW,Saphirschwarz,Hybride essence rechargeable,Auto...,2021,8450,1.2,30,5,69 999
+Peugeot 208,Peugeot,Rouge Rubi,Essence,Manuelle,2015,114215,4.3,99,3,9 499
+Mercedes Classe C,Mercedes,Noir Obsidienne,Diesel,Automatique,2019,79080,4.8,112,4,25 499
+Citroën C3 Aircross,Citroën,Natural White,Essence,Manuelle,2018,51652,5.1,116,5,11 999
+Volkswagen Tiguan Allspace,Volkswagen,Gris Pyrite,Diesel,Automatique,2023,21933,5.7,124,5,42 299
+Peugeot 5008,Peugeot,Bleu Bourrasque,Essence,Manuelle,2018,70464,5.1,118,5,17 999
+Volvo V60,Volvo,,Hybride diesel,Automatique,2022,5905,,,,43 499
+Audi Q3 Sportback,Audi,Turboblau,Hybride essence rechargeable,Auto...,2021,25000,2,44,5,45 999
+Peugeot 208,Peugeot,Gris Aluminium,Essence,Manuelle,2018,116520,4.7,109,5,9 499
+Renault Twingo 3,Renault,Noir Etoile,Essence,Manuelle,2019,86001,5.4,108,5,9 999
+Land Rover Range Rover Evoque,Land,Blanc Fuji,Hybride essence rechargeable,Auto...,2021,45244,2,44,5,49 999
+Renault Mégane 4,Renault,Blanc Glacier,Essence,Manuelle,2019,58865,5.3,124,5,12 999
+Volvo XC90,Volvo,,Diesel,Automatique,2020,43397,,,,52 499
+Mercedes Classe C Break,Mercedes,White,Hybride essence rechargeable,Auto...,2023,6680,0.7,13,5,58 999
+Renault Zoé,Renault,Blanc Glacier,Electrique,Automatique,2017,41022,0.0,0,5,9 499
+Nissan Qashqai,Nissan,Blanc Lunaire,Essence,Manuelle,2017,92080,5.6,129,5,14 699
+Peugeot 3008,Peugeot,Gris Shark,Diesel,Manuelle,2016,96330,4.1,108,5,13 499
+Dacia Sandero,Dacia,Bleu Navy,Essence,Manuelle,2018,31292,5.2,117,5,9 499
+Opel Corsa,Opel,Gris Platinium,Essence,Manuelle,2020,23221,4.1,93,5,12 999
+Renault Clio 4,Renault,Gris Cassiopée,Diesel,Manuelle,2015,68660,3.6,90,5,11 999
+Skoda Scala,Skoda,GREY,Essence,Automatique,2022,24733,5.9,133,5,22 999
+Skoda Octavia Combi,Skoda,Bleu Energie,Hybride essence rechargeable,Auto...,2021,25118,1,24,5,25 399
+MG EHS,MG,Pebble Black,Hybride essence rechargeable,Auto...,2022,1120,1,43,5,28 599
+Peugeot 308 SW,Peugeot,Bleu Magnetic,Essence,Automatique,2016,106578,4.9,112,5,12 299
+Peugeot 308 SW,Peugeot,Noir Perla Nera,Essence,Manuelle,2016,87198,4.8,111,5,11 999
+Renault Kadjar,Renault,Gris Titanium,Diesel,Automatique,2016,88697,3.9,99,5,14 499
+Audi Q5 SPORTBACK,Audi,Navarrablau,Hybride essence rechargeable,Auto...,2021,23370,1.7,41,5,58 999
+Volkswagen Golf 7,Volkswagen,Noir Intense,Diesel,Automatique,2013,123521,4.4,119,5,14 999
+Volkswagen Polo,Volkswagen,Gris Urano,Essence,Manuelle,2020,43930,4.7,124,5,14 499
+Renault Scénic 4,Renault,Gris Cassiopée / Toit Noir Etoilé,Essence,Manuelle,2016,64180,5.8,129,5,15 799
+Fiat 500X,Fiat,Blanc Gelato,Essence,Automatique,2018,97596,5.7,133,5,13 999
+Renault Clio 5,Renault,Gris Titanium,Diesel,Manuelle,2019,56074,4,95,5,14 499
+Ford Focus,Ford,Mica Noir Shadow,Essence,Manuelle,2018,67812,4.2,108,5,14 499
+Volkswagen Tiguan,Volkswagen,Gris poivre,Diesel,Manuelle,2015,70235,5,138,5,16 799
+Seat Leon ST,Seat,Gris Urbain,Diesel,Automatique,2018,111931,4,111,5,14 999
+Citroën C4 Cactus,Citroën,Gris Platinium,Essence,Manuelle,2020,76493,4,130,5,13 699
+Renault Mégane 4 Estate,Renault,Noir Etoile,Diesel,Automatique,2019,71775,4.7,124,5,16 999
+Ford C-Max,Ford,,Diesel,Manuelle,2018,103773,,,,13 345
+Seat Leon ST,Seat,GRIGIO,Diesel,Manuelle,2020,101694,5,138,5,14 099
+Renault Talisman,Renault,Blanc Nacré,Diesel,Automatique,2016,98567,4.5,118,4,15 999
+Ford Ecosport,Ford,Blanc Glacier,Essence,Manuelle,2021,17675,6.2,138,5,16 499
+Nissan X-Trail,Nissan,Gris Argent,Diesel,Manuelle,2017,82672,5.1,133,5,17 799
+Nissan Micra,Nissan,Gris Acier,Essence,Manuelle,2020,65733,N/A,133,5,13 199
+Volkswagen T-Roc,Volkswagen,Jaune Curcuma,Essence,Manuelle,2018,62075,5,115,5,18 499
+Mini Mini,Mini,Emerald Grey,Diesel,Automatique,2018,64322,3.6,99,5,19 099
+Mercedes Classe A,Mercedes,,Diesel,Automatique,2019,72469,,,,23 199
+Seat Leon,Seat,Blue Asphalte,Essence,Manuelle,2020,60189,5.8,133,5,19 999
+Audi A3 Sportback,Audi,Noir Brillant,Essence,Automatique,2017,80842,5,114,5,21 999
+Renault Espace 5,Renault,Gris Platine,Diesel,Automatique,2016,84500,4.6,120,5,18 499
+BMW Série 1,BMW,Alpinweiss,Essence,Automatique,2018,72364,5.8,130,3,21 299
+Opel Grandland X,Opel,Noir Diamant,Essence,Manuelle,2019,18148,5.2,118,5,18 499
+Volkswagen Golf Sportsvan,Volkswagen,Gris Argent,Essence,Automatique,2018,62514,5.1,109,5,17 499
+Volkswagen Golf 8,Volkswagen,,Diesel,Manuelle,2020,42665,,,,21 499
+Dacia Dokker,Dacia,Blanc Glacier,Essence,Manuelle,2020,46222,6,153,5,15 999
+Honda Civic,Honda,Rouge Rallye,Essence,Manuelle,2021,30209,6.2,137,5,20 999
+Suzuki S-CROSS,Suzuki,Cool white pearl,Hybride essence,Manuelle,2020,37894,5.9,110,5,19 499
+Hyundai Kona,Hyundai,,Diesel,Manuelle,2019,42690,,,,16 999
+Mercedes Classe B,Mercedes,BLU,Diesel,Automatique,2018,51924,4.1,107,5,20 199
+Dacia Lodgy,Dacia,Bleu Azurite,Essence,Manuelle,2019,35380,5.9,141,5,17 999
+DS DS3 Crossback,DS,Noir Perla Nera (N),Essence,Automatique,2019,65729,4.8,109,5,21 199
+Opel Crossland,Opel,Orange,Essence,Automatique,2020,29900,6.2,141,4,19 399
+Kia Sportage,Kia,Rouge Rubis,Diesel,Automatique,2019,61355,4.7,119,5,19 499
+Mini Countryman,Mini,BLU,Diesel,Automatique,2018,105245,4.9,130,5,21 999
+Jeep Compass,Jeep,Gris Clair,Diesel,Manuelle,2020,62014,4.1,122,5,20 099
+Ford Kuga,Ford,,Diesel,Manuelle,2019,74787,,,,18 636
+Volkswagen Passat SW,Volkswagen,Electric blue,Diesel,Manuelle,2019,116368,4.3,113,5,20 399
+Opel Grandland X,Opel,Bleu Galapagos,Essence,Manuelle,2019,27766,6.2,118,5,18 499
+BMW Série 1,BMW,Silber Metallic,Diesel,Manuelle,2021,83170,4.9,120,5,19 499
+Ford ECOSPORT,Ford,,Essence,Manuelle,2022,12260,,,,18 099
+Volkswagen T-Roc,Volkswagen,Weiß Metallic,Diesel,Manuelle,2019,42172,5.6,146,5,21 199
+Mercedes GLA,Mercedes,Noir,Diesel,Automatique,2018,71019,6.1,130,5,26 999
+BMW X1,BMW,Nero,Diesel,Automatique,2019,101299,4.8,126,5,25 699
+Renault Espace 5,Renault,Noir Etoile,Diesel,Automatique,2019,102778,5.3,139,5,22 999
+Opel Astra,Opel,Gris,Essence,Manuelle,2021,22400,5.4,126,4,18 999
+Volkswagen T-CROSS,Volkswagen,Rauchgrau,Essence,Manuelle,2021,4900,6.1,136,5,20 499
+Mitsubishi ECLIPSE CROSS,Mitsubishi,Gris,Hybride essence rechargeable,Auto...,2022,11931,2,46,5,30 799
+Volvo XC40,Volvo,Bleu Eclatant/ Toit Noir,Essence,Automatique,2020,29000,7.3,166,5,30 999
+Renault Mégane E-TECH,Renault,Gris Schiste / Toit Noir Etoilé,Electrique,Automatique,2022,11269,0.0,0,5,33 499
+Tesla MODEL 3,Tesla,Noir Uni,Electrique,Automatique,2019,46912,0.0,0,4,31 999
+Skoda Kamiq,Skoda,Bleu Titan,Essence,Automatique,2021,35391,5.5,133,5,21 299
+BMW Série 5,BMW,Bleu,Essence,Automatique,2017,27558,6.5,154,4,39 999
+Kia XCEED,Kia,Blanc Platine,Hybride essence rechargeable,Auto...,2021,28834,1.7,38,5,23 499
+Peugeot 508,Peugeot,Gris Platinium,Diesel,Automatique,2021,20640,4,120,5,24 999
+Citroën Jumper Fourgon,Citroën,Blanc,Diesel,Manuelle,2022,10,9,240,5,35 399
+Skoda Karoq,Skoda,Gris Business,Essence,Automatique,2021,52030,6,144,5,24 999
+DS DS7 CROSSBACK,DS,Blanc Banquise,Essence,Automatique,2021,26918,5,157,5,30 999
+Land Rover Range Rover Evoque,Land,Blanc Fuji,Essence,Automatique,2021,26515,10.1,196,5,43 999
+DS DS4,DS,Cristal Pearl / Noir Perla Nera,Diesel,Automatique,2023,9722,3,127,5,29 999
+Seat Ateca,Seat,Grau Metallic,Diesel,Automatique,2021,30322,5.2,137,5,29 199
+Cupra Formentor,Cupra,Blanc Candy,Hybride essence rechargeable,Auto...,2021,20265,1.5,32,5,31 399
+Audi Q5,Audi,Daytonagrau,Diesel,Automatique,2020,30000,6.7,173,5,47 999
+Toyota RAV 4,Toyota,Noir,Hybride essence,Automatique,2022,58061,N/A,126,5,31 999
+BMW X1,BMW,Saphirschwarz métallisé,Essence,Automatique,2022,21738,6.5,147,5,33 999
+Renault Captur,Renault,Gris Cassiopée/Noir Etoile,Diesel,Manuelle,2017,113785,3.6,95,5,11 999
+BMW Série 2 Active Tourer,BMW,Saphirschwarz,Essence,Automatique,2022,14568,6,146,5,34 499
+Dacia SPRING,Dacia,Gris Eclair,Electrique,Automatique,2022,13180,0.0,0,5,14 499
+Renault Kadjar,Renault,Bleu Cosmos,Diesel,Manuelle,2017,90038,4.5,117,5,14 499
+BMW X3,BMW,Brown,Diesel,Automatique,2019,57042,5.1,143,5,35 476
+Volvo XC90,Volvo,Gris Tonnerre,Hybride essence rechargeable,Auto...,2020,35208,N/A,69,5,54 999
+Peugeot 308 SW,Peugeot,Gris Artense,Diesel,Manuelle,2016,82526,3.6,94,5,12 999
+Skoda Superb Combi,Skoda,Black,Diesel,Automatique,2023,24855,5.3,135,5,38 599
+Renault Twingo 3,Renault,Blanc Quartz,Essence,Manuelle,2020,30699,5.3,120,5,10 299
+BMW Série 3,BMW,Mineralgrau,Hybride essence rechargeable,Auto...,2020,27422,1.7,34,4,39 499
+Opel Grandland,Opel,AZUL,Hybride essence rechargeable,Auto...,2023,2191,1.4,30,5,40 699
+Audi Q3 Sportback,Audi,Noir Mythic,Hybride essence rechargeable,Auto...,2022,28145,1.8,44,5,46 499
+Renault Zoé,Renault,,Electrique,Automatique,2018,31040,0.0,0,,10 499
+Citroën C4,Citroën,Bleu Encre,Diesel,Manuelle,2015,123135,3.6,95,5,10 699
+Citroën C4 Cactus,Citroën,Blanc Banquise,Diesel,Manuelle,2018,82691,3.5,97,5,12 999
+Nissan Qashqai,Nissan,Gris Squale,Diesel,Manuelle,2017,97059,4.4,116,5,15 999
+Citroën C4 Picasso,Citroën,Blanc Banquise,Essence,Automatique,2017,107602,5.1,115,5,12 999
+Opel Corsa,Opel,Noir Perla Nera,Essence,Manuelle,2020,78838,4.2,96,5,13 499
+Peugeot 108,Peugeot,Noir Metal,Essence,Manuelle,2017,54174,4.3,99,5,11 299
+Nissan Juke,Nissan,Bleu Indigo,Diesel,Manuelle,2017,81328,4,104,5,13 399
+Volkswagen Golf 7,Volkswagen,Blanc Pur,Diesel,Manuelle,2016,111890,4.1,103,5,14 999
+Nissan Juke,Nissan,Blanc Lunaire,Diesel,Manuelle,2016,75119,4,107,5,13 199
+Citroën C1,Citroën,Bleu Calvi/Toile Sunrise Red,Essence,Manuelle,2019,40342,3.7,93,5,12 399
+Fiat 500,Fiat,Bleu Epic,Essence,Manuelle,2019,44173,5.1,109,3,11 999
+DS DS3,DS,Blanc Banquise,Essence,Manuelle,2017,68125,4.5,104,3,12 199
+Toyota Yaris,Toyota,Blanc Pur,Hybride essence,Automatique,2016,38201,3.6,82,5,15 999
+Dacia Sandero,Dacia,Noir Nacre,Essence,Manuelle,2019,76640,6,125,5,10 999
+Fiat 500X,Fiat,Noir Cinema,Diesel,Manuelle,2017,105000,4.1,109,5,13 999
+Fiat Tipo,Fiat,Rouge Passione,Essence,Manuelle,2021,23295,5.3,122,4,14 499
+Opel Mokka X,Opel,Gris Acier Satine,Essence,Manuelle,2019,41675,6.4,147,5,14 999
+Ford Kuga,Ford,Blanc Platinium,Diesel,Manuelle,2016,90989,4.7,122,5,16 499
+Fiat 500X,Fiat,Bianco,Diesel,Manuelle,2018,78785,4.1,107,5,14 199
+Dacia Lodgy,Dacia,Beige Dune,Essence,Manuelle,2019,27925,5,141,5,18 236
+Citroën C4 SPACETOURER,Citroën,Blanc Banquise,Essence,Manuelle,2018,60900,5.2,114,5,17 299
+Opel Mokka X,Opel,Nero,Diesel,Manuelle,2017,78643,4.7,124,5,14 999
+Ford Ecosport,Ford,Rouge Lucid,Essence,Manuelle,2020,29534,5,136,5,16 799
+Nissan X-Trail,Nissan,Gris Argent,Diesel,Manuelle,2018,99308,5.4,143,5,17 999
+Mercedes Classe A,Mercedes,Gris Montagne,Essence,Automatique,2018,77379,5.9,121,5,23 399
+Renault Espace 5,Renault,Gris Cassiopée,Diesel,Automatique,2015,63293,4,120,5,18 999
+Citroën GRAND C4 SPACETOURER,Citroën,,Diesel,Manuelle,2019,41585,,,,21 999
+Audi A1 Sportback,Audi,Gris Flèche / Toit Noir,Essence,Manuelle,2022,7840,5.5,129,5,22 499
+Audi Q2,Audi,Blanc Glacier,Essence,Manuelle,2018,49785,5.7,124,5,22 499
+Ford Kuga,Ford,Blanc Glacier,Diesel,Manuelle,2018,76136,4.7,122,5,18 999
+Dacia Dokker,Dacia,Blanc Glacier,Essence,Manuelle,2020,51761,6,153,5,15 999
+Mini Mini,Mini,Midnight black,Essence,Automatique,2019,56694,4.9,117,5,19 699
+Mercedes Classe B,Mercedes,Argent Polaire,Diesel,Automatique,2018,66923,5,141,5,21 499
+Volkswagen Golf 8,Volkswagen,Reflet d'Argent métallisée,Diesel,Manuelle,2021,59004,4.5,118,5,22 199
+BMW X2,BMW,Blanc Alpin,Essence,Automatique,2019,49530,5.7,129,5,25 999
+Hyundai Kona,Hyundai,Galactic Grey,Hybride essence,Automatique,2020,47722,5,115,5,18 999
+Mini Countryman,Mini,Lapis Luxury Blue Mini Yours,Hybride essence rechargeable,Auto...,2017,51038,2.4,49,5,24 999
+Opel Grandland X,Opel,GRIGIO,Diesel,Automatique,2020,67800,5.4,145,5,19 399
+Volkswagen T-Roc,Volkswagen,Jaune Curcuma,Essence,Manuelle,2020,40589,5.2,135,5,21 099
+Ford Kuga,Ford,,Diesel,Automatique,2021,86057,,,,21 199
+Audi Q2,Audi,,Essence,Manuelle,2021,20472,,,,23 799
+Opel Astra,Opel,Blanc,Essence,Manuelle,2021,21400,5.4,126,4,19 499
+Mini Countryman,Mini,Silver,Hybride essence rechargeable,Auto...,2020,103211,2.4,43,5,24 499
+Citroën GRAND C4 SPACETOURER,Citroën,,Essence,Automatique,2021,30060,,,,23 799
+Volkswagen T-Cross,Volkswagen,Smokey Grey Metallic,Essence,Automatique,2022,21020,6.6,141,5,21 999
+Renault Grand Scénic 4,Renault,Bleu Cosmos,Essence,Manuelle,2021,35771,6,148,5,22 999
+Opel Crossland,Opel,Argent,Essence,Manuelle,2020,25150,5.9,137,4,20 399
+Peugeot 508 SW,Peugeot,Gris Artense,Hybride essence rechargeable,Auto...,2020,40156,6.6,31,5,28 199
+Kia Sportage,Kia,Bleu,Hybride diesel,Manuelle,2021,38195,5,141,5,23 999
+Mitsubishi ECLIPSE CROSS,Mitsubishi,Diamond Red,Hybride essence rechargeable,Auto...,2023,12040,2,46,5,32 999
+Opel Mokka,Opel,Electric blue,Essence,Manuelle,2022,24717,5.5,124,5,22 399
+Audi Q3,Audi,Blanc,Essence,Manuelle,2020,49971,5.1,149,5,30 099
+Skoda Kamiq,Skoda,Bleu Metallique,Essence,Manuelle,2023,25182,5.7,123,5,22 299
+Cupra Leon,Cupra,Blanc Candy,Hybride essence rechargeable,Auto...,2021,33322,1.4,30,5,25 399
+Peugeot 508,Peugeot,Gris Platinium,Hybride essence rechargeable,Auto...,2020,28240,1.3,28,5,26 499
+Volkswagen Taigo,Volkswagen,Rouge Roi,Essence,Automatique,2022,18666,5.9,136,5,25 599
+DS DS7 CROSSBACK,DS,Noir Perla Nera,Essence,Automatique,2021,28395,5,157,5,32 499
+Peugeot 208,Peugeot,Gris Aluminium,Essence,Manuelle,2016,92111,4.5,104,5,9 599
+Peugeot 208,Peugeot,Rouge Rubi,Essence,Manuelle,2018,101670,4.5,104,5,9 999
+Peugeot 208,Peugeot,Rouge Rubi,Essence,Manuelle,2015,5220,4.4,102,5,9 999
+Dacia Duster,Dacia,Blanc Glacier,Diesel,Manuelle,2018,63056,4.4,115,5,14 999
+Jeep Compass,Jeep,,Diesel,Manuelle,2022,21727,,,,27 899
+Peugeot 3008,Peugeot,Metallic Copper/noir Perla Nera,Essence,Manuelle,2017,121709,5.5,124,5,15 499
+BMW Série 3,BMW,,Hybride diesel,Automatique,2022,30331,,,,47 399
+Peugeot 308,Peugeot,Gris Artense,Essence,Manuelle,2017,92392,4,105,5,11 499
+DS DS4,DS,GREY,Essence,Automatique,2023,10897,6.2,138,5,29 999
+Seat Ateca,Seat,Gris Graphite,Essence,Automatique,2022,10,6,149,5,30 000
+Kia Xceed,Kia,,Hybride essence rechargeable,Auto...,2021,22988,,,,29 799
+Cupra Formentor,Cupra,,Diesel,Manuelle,2022,7,,,,31 699
+BMW X1,BMW,Mineralgrau,Essence,Automatique,2022,9220,5.8,149,5,35 999
+Peugeot 508 SW,Peugeot,Noir Perla Nera (M),Hybride essence rechargeable,Auto...,2021,20529,1.3,30,5,34 799
+Citroën C4,Citroën,Gris Platinium,Essence,Automatique,2016,108343,5.1,117,5,11 599
+Volkswagen Touran,Volkswagen,Deep black (schwarz),Diesel,Automatique,2023,25185,5.6,143,5,35 417
+Renault Mégane 4,Renault,Bleu berlin,Essence,Manuelle,2017,72490,5.4,120,5,13 599
+Peugeot 208,Peugeot,Gris,Essence,Manuelle,2017,96800,3.9,104,5,9 999
+Peugeot 108,Peugeot,Bleu Calvi,Essence,Manuelle,2019,47005,4.2,93,5,11 799
+Renault Mégane 4,Renault,Blanc Glacier,Essence,Manuelle,2017,60244,5.4,120,5,13 299
+Renault Kadjar,Renault,Gris Titanium,Essence,Manuelle,2018,50856,5,126,5,14 799
+BMW X3,BMW,Sophistograu,Diesel,Automatique,2020,38447,4.9,163,5,38 199
+Dacia Duster,Dacia,Blanc Glacier,Diesel,Manuelle,2017,81528,4.4,115,5,14 999
+DS DS7,DS,Platinum Grey,Diesel,Automatique,2022,25,5.6,146,5,42 199
+Citroën C3 Aircross,Citroën,Spicy Orange,Essence,Manuelle,2017,60343,5,115,5,12 499
+Renault Twingo 3,Renault,Gris Lunaire,Essence,Manuelle,2017,28807,4.2,112,5,10 299
+Audi Q5,Audi,Ibisweiß,Hybride essence rechargeable,Auto...,2021,22185,1.7,38,5,52 499
+Opel Corsa,Opel,Bleu Nautique,Essence,Manuelle,2020,15181,5.1,125,5,14 999
+Renault Zoé,Renault,,Electrique,Automatique,2020,31196,0.0,0,,10 499
+Citroën C4 Picasso,Citroën,Gris Acier,Essence,Manuelle,2017,66985,5,115,5,13 499
+Peugeot 308 SW,Peugeot,Blanc Nacré,Diesel,Manuelle,2017,109626,3.3,102,5,12 999
+Renault Kangoo,Renault,,Diesel,Manuelle,2022,29505,,,,22 899
+BMW X2,BMW,Phytonicblau Met,Hybride essence rechargeable,Auto...,2021,23898,1.7,40,5,40 099
+Peugeot 3008,Peugeot,Blanc Banquise,Essence,Manuelle,2019,84733,5,118,5,16 499
+Renault Scénic 4,Renault,Gris Platine / Toit Noir Etoilé,Diesel,Manuelle,2018,53023,4.5,116,5,16 999
+Nissan Qashqai,Nissan,Cassis,Diesel,Manuelle,2019,79315,N/A,105,5,16 999
+Nissan Juke,Nissan,,Essence,Automatique,2015,60453,,,,13 499
+Volkswagen Golf 7,Volkswagen,Bleu Atlantique,Essence,Manuelle,2018,52768,4,109,5,15 999
+Ford Kuga,Ford,White Platinum,Diesel,Manuelle,2017,100600,4.4,115,5,16 799
+Volkswagen Polo,Volkswagen,Orange Energy,Essence,Manuelle,2018,27845,4.8,109,5,14 399
+Renault Clio 5,Renault,Gris Platine,Essence,Manuelle,2021,20515,5.2,118,5,14 599
+Jeep Renegade,Jeep,Jet Set Blue,Essence,Manuelle,2019,41043,7.1,130,5,17 499
+Renault Mégane 4 Estate,Renault,Noir Etoile,Essence,Manuelle,2019,37128,5.2,125,5,17 999
+Ford C-Max,Ford,,Diesel,Manuelle,2019,95884,,,,14 099
+Ford Fiesta,Ford,Rouge Racing,Essence,Manuelle,2021,34660,4.1,115,5,13 499
+Ford C-Max,Ford,Noir Shadow,Essence,Manuelle,2019,65093,5,129,5,14 999
+Nissan Juke,Nissan,Blanc Lunaire,Essence,Manuelle,2017,32552,5.7,130,5,13 999
+Seat Leon ST,Seat,Argento,Diesel,Manuelle,2019,94902,5,100,5,14 999
+Ford C-Max,Ford,Gris Lunaire,Diesel,Automatique,2017,95358,4.2,109,5,13 799
+Citroën C4 SPACETOURER,Citroën,Gris Platinium,Essence,Manuelle,2019,28085,5.1,114,5,18 799
+Mercedes Classe A,Mercedes,Gris Montagne,Essence,Automatique,2019,51866,5.2,118,5,23 999
+Dacia Lodgy,Dacia,Gris Comète,Essence,Manuelle,2020,7555,5,135,5,19 224
+Renault Mégane 4 Estate,Renault,Gris Titanium,Diesel,Manuelle,2020,40460,3.9,120,5,17 999
+Ford PUMA,Ford,Gris Solar,Diesel,Manuelle,2021,60312,4.5,119,5,18 999
+DS DS3 CROSSBACK,DS,Gris Platinium,Electrique,Automatique,2020,30328,0.0,0,5,21 499
+Nissan X-Trail,Nissan,Gris Squale,Diesel,Automatique,2017,65215,5.3,139,5,19 499
+Renault Talisman,Renault,Noir,Diesel,Manuelle,2020,53906,4.2,136,4,18 499
+Ford Focus,Ford,Gris Magnetic,Essence,Manuelle,2021,27210,7.2,117,5,20 499
+Fiat 500X,Fiat,GRIGIO,Essence,Manuelle,2019,87522,5.8,133,5,14 499
+Mercedes Classe B,Mercedes,Argent Polaire,Essence,Automatique,2018,34800,6.1,138,5,21 999
+Dacia Dokker,Dacia,Blanc Glacier,Essence,Manuelle,2020,56511,6,153,5,15 999
+Toyota Aygo X,Toyota,Gris Mineral,Essence,Manuelle,2023,544,4,109,5,15 899
+Audi Q2,Audi,GRIGIO,Diesel,Automatique,2019,118994,6.1,134,5,24 199
+Renault Mégane 4 Estate,Renault,Bleu Cosmos,Essence,Manuelle,2020,57871,5.2,148,5,18 155
+Mini Mini,Mini,Midnight Black metallise,Diesel,Manuelle,2019,50445,3.9,102,5,19 699
+DS DS7 CROSSBACK,DS,Blanc Crystal Pearl,Essence,Automatique,2021,45470,5,152,5,32 000
+Audi A1 Sportback,Audi,Red,Essence,Manuelle,2022,17036,5.7,129,5,21 999
+Volkswagen T-Roc,Volkswagen,Blanc Pur,Essence,Manuelle,2021,32185,6,138,5,21 399
+Nissan X-Trail,Nissan,,Diesel,Manuelle,2019,88977,,,,20 869
+BMW Série 1,BMW,BLU,Diesel,Automatique,2019,29951,4.4,115,5,21 999
+Skoda Fabia,Skoda,GREY,Essence,Manuelle,2023,21684,5.3,118,5,20 299
+Audi A3 Sportback,Audi,Gris Manhattan,Diesel,Manuelle,2020,15780,4.4,115,5,24 499
+Hyundai Tucson,Hyundai,,Hybride diesel,Automatique,2020,51973,,,,23 999
+DS DS7,DS,Cristal Pearl,Hybride essence rechargeable,Auto...,2023,16474,N/A,27,5,55 599
+Renault Grand Scénic 4,Renault,Gris Cassiopée,Essence,Manuelle,2021,42892,6,150,5,22 999
+Volkswagen T-Cross,Volkswagen,Reef Blue Metallic,Essence,Automatique,2022,28079,6.6,141,5,21 999
+Opel Astra,Opel,Noir,Essence,Manuelle,2021,36350,5.5,121,4,20 799
+Opel Mokka,Opel,White,Essence,Manuelle,2022,19238,5.5,124,5,22 399
+Skoda Kamiq,Skoda,Black,Essence,Manuelle,2023,12321,5.7,123,5,22 694
+Citroën Grand C4 Spacetourer,Citroën,,Diesel,Automatique,2020,51604,,,,26 099
+Volvo XC40,Volvo,Noir Onyx,Hybride essence rechargeable,Auto...,2020,35751,N/A,47,5,37 999
+Cupra Leon,Cupra,Blanc Candy,Hybride essence rechargeable,Auto...,2021,19498,1.4,30,5,26 399
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2015,71515,4.5,104,5,9 699
+Suzuki S-CROSS,Suzuki,Bleu Métallisé,Diesel,Automatique,2016,118501,4.6,119,5,12 999
+Suzuki S-CROSS,Suzuki,Cosmic Black Pearl,Hybride essence,Manuelle,2023,991,5,120,5,24 999
+Renault Espace 5,Renault,Marron Glacé,Diesel,Automatique,2015,107109,4.6,120,5,15 999
+Peugeot 508,Peugeot,Gris Platinum,Hybride essence rechargeable,Auto...,2021,22551,1.3,29,5,27 499
+Renault Clio 4,Renault,Blanc Glacier,Diesel,Manuelle,2016,61761,3,85,5,11 699
+Dacia Sandero,Dacia,Bleu Azurite,Essence,Manuelle,2018,58032,5.2,117,5,10 299
+Skoda Karoq,Skoda,GREY,Essence,Manuelle,2022,41042,6.5,140,5,27 499
+Volkswagen Taigo,Volkswagen,Blanc Pur,Essence,Automatique,2022,3993,6.1,138,5,28 499
+Peugeot 308 SW,Peugeot,Gris Artense,Diesel,Manuelle,2016,79621,3.3,102,5,13 999
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2017,101962,4.7,109,5,10 999
+DS DS4,DS,Black,Essence,Automatique,2023,7895,6.2,138,5,30 399
+Renault Clio 5,Renault,Orange Valencia,Diesel,Manuelle,2020,38256,4.2,110,5,14 499
+Citroën C3,Citroën,Rouge Rubi,Essence,Manuelle,2019,79219,4.7,108,5,10 999
+Kia XCEED,Kia,Noir Basalte,Hybride essence rechargeable,Auto...,2022,3410,1,32,5,30 499
+Ford Ecosport,Ford,Blanc Glacier,Essence,Manuelle,2021,76993,5,136,5,13 999
+Renault Clio 4,Renault,Bleu de France,Essence,Automatique,2015,80965,5.2,120,5,12 199
+Cupra Formentor,Cupra,Blanc,Diesel,Automatique,2022,29900,6,155,4,33 299
+Jeep Compass,Jeep,,Essence,Automatique,2022,25,,,,32 099
+Citroën C4,Citroën,Gris Acier,Diesel,Manuelle,2016,111950,3.6,95,5,10 999
+Citroën C3 Aircross,Citroën,Misty Grey,Essence,Manuelle,2018,64914,5,115,5,12 499
+Fiat 500,Fiat,Pasodoble Red,Essence,Automatique,2016,49595,4.8,111,3,12 699
+Peugeot 5008,Peugeot,Beige Pyrite,Essence,Manuelle,2017,90678,5.2,117,5,18 999
+Tesla MODEL 3,Tesla,Noir,Electrique,Automatique,2021,24223,0.0,0,4,35 699
+Volkswagen Passat SW,Volkswagen,Deep black (schwarz),Diesel,Automatique,2020,19185,6.3,160,5,34 599
+Ford Fiesta,Ford,Blanc Glacier,Essence,Manuelle,2018,68219,4.3,97,5,12 299
+Renault Zoé,Renault,Bleu Celadon,Electrique,Automatique,2019,38278,0.0,0,5,10 999
+Seat Leon ST,Seat,GRIGIO,Diesel,Manuelle,2019,87756,5,100,5,13 999
+Dacia Sandero,Dacia,Blanc Glacier,Essence,Manuelle,2016,27837,4.9,109,5,10 999
+Opel Crossland,Opel,Gris Quartz,Diesel,Automatique,2022,18953,5,130,5,19 099
+Volkswagen Touran,Volkswagen,Atlantik blue (blau),Diesel,Automatique,2021,27160,5.6,143,5,30 673
+Audi Q5,Audi,Gris Manhattan,Hybride essence rechargeable,Auto...,2020,49303,2.2,56,5,43 999
+Toyota C-HR,Toyota,,Hybride essence,Automatique,2020,101880,,,,20 499
+Nissan Micra,Nissan,Rouge Passion,Essence,Automatique,2022,4845,N/A,137,5,15 999
+Opel Grandland X,Opel,Gris Quartz,Essence,Manuelle,2020,43227,5.2,113,5,19 299
+DS DS3,DS,Blanc Nacré /Toit Whisper,Essence,Manuelle,2016,96147,4.5,105,3,11 999
+Renault Mégane 4,Renault,Bleu berlin,Essence,Manuelle,2019,32509,5.3,120,5,13 999
+Renault Scénic 4,Renault,,Diesel,Manuelle,2018,47680,,,,15 499
+Hyundai Tucson,Hyundai,Sunset Red,Hybride diesel,Manuelle,2020,91732,4.1,135,5,20 099
+Fiat 500X,Fiat,,Essence,Manuelle,2021,17725,,,,15 799
+Kia Sportage,Kia,Gris Canyon,Diesel,Manuelle,2020,27630,4.8,124,5,22 999
+DS DS7 CROSSBACK,DS,Cristal Pearl,Hybride essence rechargeable,Auto...,2020,58284,1.5,33,5,33 999
+BMW Série 1,BMW,Noir Sapphire Métallisée,Essence,Automatique,2018,50243,6,132,5,25 499
+Opel Grandland X,Opel,Gris Artense,Diesel,Manuelle,2020,35709,4.1,136,5,19 499
+Volvo XC40,Volvo,Bleu Denim,Hybride essence rechargeable,Auto...,2022,20361,2.1,49,5,44 999
+Volkswagen Golf 8,Volkswagen,Mondsteingrau,Hybride essence rechargeable,Auto...,2020,42820,1,23,4,24 099
+Ford Focus,Ford,,Diesel,Automatique,2020,51760,,,,20 399
+Peugeot RIFTER,Peugeot,Noir Onyx,Diesel,Manuelle,2018,91727,5.5,113,5,18 699
+Hyundai Kona,Hyundai,CHALK WHITE,Essence,Automatique,2021,13021,7,153,5,22 999
+Mercedes Classe A,Mercedes,Noir Cosmos,Diesel,Manuelle,2021,22232,5.2,133,5,25 999
+BMW Série 1,BMW,,Diesel,Automatique,2020,54934,,,,22 399
+Volkswagen T-Cross,Volkswagen,Makena Turquoise Premium Metallic,Essence,Automatique,2022,21332,6.6,141,5,21 999
+Volkswagen Tiguan,Volkswagen,Silver,Diesel,Automatique,2019,85184,6.2,128,5,25 399
+Audi A3 Sportback,Audi,Blanc Ibis,Essence,Manuelle,2020,33000,5.9,137,5,25 599
+Citroën C3 Aircross,Citroën,Nautile,Essence,Manuelle,2018,71184,5,116,5,12 699
+DS DS3 CROSSBACK,DS,Bleu Millenium,Essence,Automatique,2022,25080,6,143,5,23 299
+Opel Astra,Opel,Blanc,Essence,Manuelle,2021,13450,5.5,128,4,21 399
+Opel Mokka,Opel,Gris,Essence,Manuelle,2021,6250,5.5,125,4,22 999
+Citroën Grand C4 Spacetourer,Citroën,Bleu Foret (N),Diesel,Manuelle,2022,15625,4.9,130,5,26 299
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2018,84509,4.7,109,5,11 799
+Renault Captur,Renault,Gris Platine / Toit Noir Etoilé,Diesel,Manuelle,2016,95893,3.6,95,5,12 499
+Mercedes Classe B,Mercedes,GRIGIO,Diesel,Automatique,2019,41285,4.9,101,5,23 699
+Jeep Compass,Jeep,Techno Green,Hybride essence rechargeable,Auto...,2022,22695,N/A,45,5,32 899
+Hyundai Tucson,Hyundai,,Hybride essence rechargeable,Auto...,2021,68822,,,,27 399
+Renault Twingo 3,Renault,Noir Etoile,Essence,Manuelle,2018,26853,5.5,125,5,10 599
+Cupra Leon,Cupra,Blanc Candy,Hybride essence rechargeable,Auto...,2021,19502,1.4,30,5,26 399
+Audi Q2,Audi,Gris Nano,Essence,Automatique,2020,55974,6,152,5,28 499
+Dacia Duster,Dacia,Bleu Cosmos,Diesel,Manuelle,2018,69380,4.9,115,5,15 299
+Peugeot 508,Peugeot,Gris Platinium (M),Hybride essence rechargeable,Auto...,2021,36849,1.3,28,4,28 199
+Mercedes GLA,Mercedes,Gris Montagne,Essence,Automatique,2019,40777,6,142,5,28 499
+Ford Kuga,Ford,,Hybride essence,Automatique,2022,34276,,,,29 499
+Skoda Karoq,Skoda,GREY,Essence,Manuelle,2022,41259,6.5,140,5,27 499
+Citroën C4 Cactus,Citroën,Violet Noctambule,Essence,Manuelle,2019,67810,4.6,106,5,14 299
+DS DS7 CROSSBACK,DS,Blanc Nacré,Essence,Automatique,2022,25213,5,157,5,33 899
+Volkswagen TAIGO,Volkswagen,Gris Cendre,Essence,Automatique,2022,2100,6.1,138,5,28 999
+Peugeot 308,Peugeot,Gris Artense,Essence,Manuelle,2018,49520,4.7,113,5,13 499
+Dacia Duster,Dacia,Gris Comète,Diesel,Manuelle,2020,49490,4.9,129,5,15 499
+Citroën C4,Citroën,Blanc Banquise,Essence,Manuelle,2015,99681,4,110,5,11 399
+Audi Q3,Audi,,Hybride essence,Automatique,2022,21777,,,,32 099
+Fiat 500,Fiat,Opéra Bordeaux,Essence,Manuelle,2019,30771,5.1,109,3,12 799
+Peugeot 5008,Peugeot,,Diesel,Manuelle,2019,78252,,,,19 999
+Opel Corsa,Opel,Gris Artense,Essence,Automatique,2020,68925,4.3,133,5,15 999
+Kia Xceed,Kia,,Hybride essence rechargeable,Auto...,2022,30520,,,,30 299
+Renault Twingo 3,Renault,Blanc Cristal,Essence,Manuelle,2020,27821,5,120,5,10 699
+Mini Countryman,Mini,Midnight Black Ii / Toit Blanc,Essence,Automatique,2022,6965,6.4,147,5,32 199
+Peugeot 108,Peugeot,Blanc Lipizan,Essence,Manuelle,2020,13642,4.8,111,5,12 499
+Citroën C4 Picasso,Citroën,Gris Platinium,Diesel,Automatique,2017,108289,3.9,103,5,15 299
+Cupra Formentor,Cupra,Bleu,Diesel,Automatique,2022,19300,6,161,4,34 899
+Volkswagen Golf 7,Volkswagen,Reflet d'Argent,Diesel,Automatique,2016,74283,3.9,104,5,16 499
+Renault Clio 4,Renault,Rouge Intens,Diesel,Manuelle,2016,63638,3.5,90,5,12 799
+Peugeot 3008,Peugeot,,Diesel,Manuelle,2018,130500,,,,16 299
+Nissan Micra,Nissan,Gris Platine,Essence,Manuelle,2022,27221,5,121,5,14 499
+Mini Mini,Mini,Chili Red,Essence,Manuelle,2019,52098,5,122,3,19 999
+Citroën C4 Picasso,Citroën,Gris Acier,Essence,Automatique,2018,91540,5.1,115,5,14 599
+Opel Crossland,Opel,,Diesel,Manuelle,2022,23338,,,,19 499
+BMW X1,BMW,Mineralweiss,Essence,Automatique,2019,74400,5.1,129,5,24 099
+Citroën C4 Cactus,Citroën,Blanc Perle,Essence,Manuelle,2019,46017,4.6,106,5,14 299
+Opel Grandland X,Opel,Bleu Topaze,Diesel,Manuelle,2021,60832,4.1,138,5,19 999
+Toyota RAV 4,Toyota,Gris Argent,Hybride essence,Automatique,2021,55318,N/A,127,5,29 999
+Dacia JOGGER,Dacia,Gris Comète,GPL,Manuelle,2022,17157,7.6,119,5,19 999
+Audi Q3 Sportback,Audi,Blanc Ibis,Essence,Manuelle,2020,56539,6.4,148,5,29 999
+Volkswagen Touran,Volkswagen,Deep black (schwarz),Diesel,Automatique,2022,20590,5.6,143,5,32 599
+Peugeot 108,Peugeot,Noir Caldera,Essence,Manuelle,2021,19749,4.8,111,5,12 499
+Renault Clio 5,Renault,Gris Platine,Essence,Manuelle,2020,52147,5,118,5,14 799
+Renault Scénic 4,Renault,Gris Platine,Diesel,Manuelle,2018,57927,4.8,127,5,15 999
+Ford Focus,Ford,Gris Magnetic,Essence,Automatique,2019,25922,6,127,5,20 799
+Renault Kadjar,Renault,Gris Highland,Diesel,Manuelle,2019,79674,4.9,112,5,15 999
+Mercedes Classe A,Mercedes,,Essence,Manuelle,2020,27732,,,,26 199
+Volkswagen Polo,Volkswagen,Reflet d'Argent,Essence,Manuelle,2020,29906,5.5,125,5,16 399
+Mini Mini,Mini,Pepper White,Essence,Automatique,2019,34012,4.9,117,3,20 117
+Jeep Renegade,Jeep,,Diesel,Automatique,2019,54823,,,,19 599
+Mercedes GLA,Mercedes,Noir,Hybride essence rechargeable,Auto...,2022,21295,1.3,32,5,43 999
+Citroën C4 SPACETOURER,Citroën,Gris Platinium,Diesel,Automatique,2020,54910,N/A,133,5,19 499
+Peugeot 208,Peugeot,Bleu Virtuel,Essence,Manuelle,2015,124961,4.5,104,3,9 999
+Volkswagen Golf 8,Volkswagen,Blanc Pur,Hybride essence rechargeable,Auto...,2021,26391,0.9,21,5,24 399
+Peugeot 508,Peugeot,Blanc Nacré,Hybride essence rechargeable,Auto...,2021,44940,6.5,33,5,28 499
+Volkswagen T-Roc,Volkswagen,,Essence,Manuelle,2022,17186,,,,22 799
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2017,87444,4.6,103,5,11 799
+Volkswagen T-Cross,Volkswagen,,Essence,Automatique,2022,27289,,,,21 999
+Opel Astra,Opel,Red,Essence,Manuelle,2023,20095,5.6,123,5,21 599
+Toyota RAV 4,Toyota,Gris Atlas,Hybride essence,Automatique,2022,3650,5,131,5,42 999
+DS DS3 CROSSBACK,DS,Noir Perla Nera,Essence,Automatique,2020,58218,5,114,5,23 499
+Peugeot 308,Peugeot,Gris Platinium,Essence,Manuelle,2018,77723,4.7,113,5,12 999
+Citroën C3 Aircross,Citroën,Natural White,Essence,Manuelle,2019,79222,4.8,106,5,12 599
+Renault Grand Scenic 4,Renault,,Essence,Manuelle,2022,23603,,,,24 899
+Renault Talisman,Renault,Gris Platine,Diesel,Automatique,2017,86231,4.5,118,4,16 299
+Citroën Grand C4 Spacetourer,Citroën,BEIGE SABLE,Essence,Automatique,2021,50935,6.6,153,5,26 399
+Renault Twingo 3,Renault,Blanc Cristal,Essence,Manuelle,2019,24718,5,125,5,10 999
+Peugeot 208,Peugeot,Gris Shark,Essence,Manuelle,2016,80630,4.5,104,5,9 999
+Dacia Duster,Dacia,Noir Nacre,Diesel,Manuelle,2018,83661,4,115,5,15 499
+Skoda Kamiq,Skoda,White,Essence,Automatique,2023,13915,6,133,5,24 073
+Citroën C4,Citroën,Gris Platinium,Essence,Manuelle,2016,68166,4.8,112,5,11 499
+Peugeot 108,Peugeot,,Essence,Manuelle,2017,75594,,,,9 499
+Volkswagen Tiguan,Volkswagen,Delfingrau,Essence,Manuelle,2022,20417,6.7,150,5,29 299
+Citroën C4 Cactus,Citroën,Rouge Aden,Essence,Manuelle,2018,35000,4.6,110,5,13 999
+Audi Q2,Audi,Gris Daytona,Essence,Automatique,2022,33581,6,148,5,30 499
+Ford Fiesta,Ford,Bleu Azur,Essence,Manuelle,2020,64515,6.1,117,5,13 599
+Ford Kuga,Ford,,Essence,Manuelle,2022,10,,,,29 499
+Skoda Karoq,Skoda,GREY,Essence,Manuelle,2022,39015,6.5,140,5,27 699
+Nissan Juke,Nissan,Rouge Magnétique,Essence,Manuelle,2018,56321,5.7,128,5,14 499
+DS DS3,DS,Blanc Banquise/Noir Onyx,Essence,Manuelle,2017,39842,4.3,100,3,12 999
+Toyota C-HR,Toyota,Noir Intense,Hybride essence,Automatique,2018,50273,5.9,86,5,20 999
+Peugeot 3008,Peugeot,Gris Artense,Essence,Manuelle,2017,72907,5.2,117,5,16 799
+DS DS4,DS,Gris Platinium,Essence,Automatique,2023,8370,5.1,136,5,31 499
+Volkswagen Golf 7,Volkswagen,Blanc Pur,Diesel,Automatique,2019,101109,4,102,5,16 999
+Kia Xceed,Kia,,Hybride essence rechargeable,Auto...,2022,45990,,,,30 299
+Renault Scénic 4,Renault,Noir Etoile,Essence,Manuelle,2019,34715,6.7,136,5,19 499
+Renault Zoé,Renault,,Electrique,Automatique,2020,32296,0.0,0,,10 699
+Suzuki VITARA,Suzuki,Cool white pearl,Essence,Manuelle,2019,63273,5.7,131,5,17 499
+Renault Mégane 4,Renault,Noir Etoile,Essence,Manuelle,2017,82045,5.3,119,5,13 699
+Nissan Qashqai,Nissan,Gris Squale,Diesel,Manuelle,2018,51817,4.4,99,5,17 499
+Kia Sportage,Kia,,Hybride essence,Automatique,2022,20310,,,,37 499
+Opel Corsa,Opel,Blanc Arktis,Essence,Manuelle,2022,6020,5.1,114,5,16 499
+Mercedes GLA,Mercedes,Noir Cosmos,Hybride essence rechargeable,Auto...,2020,33471,1,31,5,36 999
+Volkswagen T-Roc,Volkswagen,,Essence,Automatique,2018,56915,,,,22 499
+Dacia JOGGER,Dacia,Blanc Glacier,GPL,Manuelle,2023,2805,7.6,118,5,21 499
+Fiat 500X,Fiat,Gris Moda,Essence,Manuelle,2019,46578,6.1,139,5,16 499
+Toyota RAV 4,Toyota,Gris Atlas,Hybride essence,Automatique,2022,46551,N/A,126,5,30 999
+Audi Q3 Sportback,Audi,Gris Daytona,Hybride essence,Automatique,2022,28060,6.5,148,5,39 699
+Renault Mégane 4 Estate,Renault,Bleu Iron,Diesel,Manuelle,2021,50332,5.9,123,5,19 499
+Mercedes Classe B,Mercedes,Gris Montagne,Diesel,Automatique,2020,41580,4.5,120,5,23 999
+Renault Clio 5,Renault,,Essence,Manuelle,2021,38877,,,,14 899
+Mercedes Classe A,Mercedes,,Essence,Automatique,2020,38180,,,,26 399
+BMW Série 1,BMW,Schwarz,Essence,Automatique,2021,19900,5.7,131,5,30 999
+Citroën C4 Cactus,Citroën,Blanc Perle,Essence,Automatique,2018,74531,5.3,119,5,14 999
+Opel Astra,Opel,Bleu Vertigo,Diesel,Automatique,2022,14833,4.9,117,5,24 999
+Mercedes Classe B,Mercedes,Bleu Denim,Diesel,Automatique,2019,34744,4,116,5,26 999
+Nissan Juke,Nissan,Gris,Essence,Automatique,2019,53072,6,150,5,15 999
+Opel Mokka,Opel,Vert Signal,Electrique,Automatique,2021,14030,0.0,0,5,23 499
+Renault Mégane 4 Estate,Renault,Gris Highland,Hybride essence rechargeable,Auto...,2022,27901,1.2,28,5,20 499
+Volkswagen Tiguan,Volkswagen,,Diesel,Automatique,2021,36912,,,,30 999
+Ford PUMA,Ford,Gris Magnetic,Hybride essence,Manuelle,2021,30551,5.3,127,5,20 499
+Renault Captur,Renault,Bleu Ocean,Essence,Manuelle,2019,52216,5.4,123,5,13 299
+Mercedes Classe B,Mercedes,Blanc Calcite,Diesel,Automatique,2012,115656,4.5,121,5,14 499
+Volkswagen Golf 8,Volkswagen,Bleu Atlantique,Hybride essence,Automatique,2020,61833,5,134,5,24 299
+Citroën C4 SPACETOURER,Citroën,Gris Acier,Diesel,Automatique,2020,59953,4,98,5,19 999
+Jeep Renegade,Jeep,Omaha Orange,Essence,Manuelle,2022,12448,5.7,151,5,21 199
+Opel Grandland X,Opel,GRIGIO,Diesel,Automatique,2019,57318,4.4,108,5,20 999
+DS DS4,DS,Rouge Velvet (N),Essence,Automatique,2022,16382,6.6,147,5,32 199
+Audi A1 Sportback,Audi,Rouge Misano Nacré/noir Mythe Métallisé,Essence,Manuelle,2023,12749,5,125,5,23 499
+Volkswagen T-Roc,Volkswagen,Blanc Pur,Diesel,Manuelle,2021,69202,4,124,5,22 999
+Renault Twingo 3,Renault,Gris Lunaire,Essence,Manuelle,2017,49147,4.3,99,5,11 299
+Peugeot 308 SW,Peugeot,Noir Perla Nera,Diesel,Automatique,2020,121196,3.6,94,5,14 999
+DS DS7 CROSSBACK,DS,Noir Perla Nera,Hybride essence rechargeable,Auto...,2021,9590,1.5,35,5,45 999
+Volkswagen T-CROSS,Volkswagen,Reflet d'Argent,Essence,Automatique,2022,18391,6,141,5,22 499
+Dacia Duster,Dacia,Orange Atacama,Diesel,Manuelle,2020,97452,4.9,108,5,15 499
+Skoda Kamiq,Skoda,White,Essence,Manuelle,2023,4676,5.7,125,5,23 999
+Audi A3 Sportback,Audi,Gris Manhattan,Hybride essence,Automatique,2023,11975,5,128,5,28 499
+Peugeot 3008,Peugeot,Blanc Banquise,Essence,Manuelle,2018,84775,5.2,117,5,17 299
+Peugeot 108,Peugeot,Gris Carlinite,Essence,Manuelle,2020,24945,4.8,110,5,12 799
+Renault Grand Scenic 4,Renault,,Essence,Automatique,2021,37041,,,,27 199
+Dacia Sandero,Dacia,Blanc Glacier,Essence,Manuelle,2018,91330,6,125,5,11 999
+Citroën C3 Aircross,Citroën,,Diesel,Manuelle,2021,95552,,,,12 499
+Citroën C4 Picasso,Citroën,Gris Acier,Essence,Automatique,2017,71710,5.1,115,5,15 999
+Nissan Juke,Nissan,Rouge Magnétique,Essence,Automatique,2017,28652,6,139,5,16 999
+Dacia Sandero,Dacia,Brun Vison,Essence,Manuelle,2018,86370,5.1,115,5,11 499
+Jeep Compass,Jeep,Gris,Diesel,Manuelle,2018,87300,5.2,138,5,18 499
+Hyundai Tucson,Hyundai,,Hybride essence,Automatique,2021,48472,,,,29 999
+DS DS3,DS,Blanc Nacré/Brun Topaze,Essence,Manuelle,2017,69490,4.5,105,3,11 999
+Renault Zoé,Renault,,Electrique,Automatique,2020,41052,0.0,0,,10 799
+Audi Q3,Audi,Blanc Glacier,Essence,Automatique,2022,10635,6.5,158,5,34 299
+Renault Kadjar,Renault,Gris Highland,Essence,Automatique,2019,96800,6.2,133,5,15 999
+Seat Ateca,Seat,Nevada weiß,Diesel,Automatique,2023,17930,5.1,129,5,33 799
+Ford Fiesta,Ford,Gris Lunaire,Essence,Manuelle,2019,52569,4.7,109,5,14 499
+Renault Austral,Renault,Blanc Nacré / Toit Noir Etoilé,Hybride essence,Automatique,2023,587,6,141,5,34 999
+Citroën C3,Citroën,,Essence,Manuelle,2018,34170,,,,11 999
+Mercedes GLA,Mercedes,Argent Iridium,Hybride essence rechargeable,Auto...,2022,16810,1,31,5,38 999
+DS DS3 CROSSBACK,DS,Cristal Pearl,Electrique,Automatique,2020,23764,0.0,0,5,23 999
+Fiat 500X,Fiat,Noir Cinema,Essence,Manuelle,2019,44170,6.1,139,5,17 499
+Kia Xceed,Kia,Rouge Rubis,Hybride essence rechargeable,Auto...,2020,51835,1.7,38,5,23 099
+Renault Twingo 3,Renault,,Essence,Manuelle,2020,46013,,,,11 099
+Renault Kadjar,Renault,Gris Highland,Essence,Manuelle,2019,46025,5.7,130,5,16 499
+Mercedes Classe A,Mercedes,Argent Mojave,Essence,Automatique,2019,55072,5.2,139,5,26 499
+Renault Captur,Renault,Gris Platine / Noir Etoile,Essence,Automatique,2015,49981,5.4,125,5,13 699
+Opel Corsa,Opel,Noir,Essence,Automatique,2022,38043,5.4,122,5,17 199
+Hyundai Kona,Hyundai,Cyber Grey,Hybride essence,Manuelle,2021,30059,5.7,136,5,18 999
+Opel Mokka,Opel,Gris Kontrast,Electrique,Automatique,2022,9255,0.0,0,5,25 999
+Dacia Sandero,Dacia,Gris Comète,Essence,Manuelle,2017,82503,5.1,115,5,11 499
+Citroën C5 X,Citroën,Noir Perla Nera,Hybride essence rechargeable,Auto...,2022,38665,1.3,30,5,28 999
+Fiat 500X,Fiat,Rosso,Essence,Manuelle,2020,37342,6.9,133,5,17 644
+Volkswagen Polo,Volkswagen,Reef blue (blau),Essence,Automatique,2022,28835,6,131,4,22 687
+Audi Q3,Audi,Blanc Ibis,Essence,Automatique,2022,5965,6.4,147,5,33 999
+Dacia Duster,Dacia,Gris Comète,Essence,Manuelle,2019,61825,6.5,138,5,15 999
+Jeep Renegade,Jeep,Graphite Gray,Essence,Manuelle,2022,21813,6.4,146,5,21 799
+Volkswagen T-Roc,Volkswagen,Ravenna Blue Metallic,Essence,Manuelle,2022,19261,6.6,135,5,23 499
+Opel Grandland X,Opel,Blanc Jade,Diesel,Manuelle,2021,10943,4.9,137,5,22 499
+Suzuki Vitara,Suzuki,Ice Grayish Blue / Toit Cosmic Black,Hybride essence,Manuelle,2022,10,4.6,120,5,22 799
+Volkswagen T-Cross,Volkswagen,Grau Metallic,Essence,Automatique,2022,39741,6.6,142,5,22 699
+Renault Zoé,Renault,,Electrique,Automatique,2019,76228,0.0,0,,10 999
+Audi A3 Sportback,Audi,Gris Manhattan,Diesel,Automatique,2022,14014,4,124,5,28 999
+Renault Mégane 4 Estate,Renault,Gris Titanium,Diesel,Manuelle,2019,113534,3,102,5,11 999
+Skoda Kamiq,Skoda,Black,Essence,Manuelle,2023,24912,5.7,124,5,24 999
+Citroën C3,Citroën,,Essence,Manuelle,2019,46490,,,,11 999
+Opel Astra,Opel,Black,Diesel,Automatique,2023,24260,5,129,5,25 099
+Renault Grand Scenic 4,Renault,,Essence,Automatique,2022,22330,,,,27 799
+Skoda Fabia,Skoda,Rouge Corrida / Toit noir,Essence,Manuelle,2019,77365,4.5,100,5,12 599
+Audi Q2,Audi,Noir Mythic,Essence,Automatique,2023,13855,6.1,138,5,30 699
+BMW Série 1,BMW,Skyscraper Grau,Essence,Automatique,2023,7034,5.7,131,5,29 999
+Peugeot 5008,Peugeot,Bleu Bourrasque,Essence,Manuelle,2019,94327,5.1,118,5,19 499
+DS DS4,DS,Red,Essence,Automatique,2022,13956,6.8,150,5,33 699
+Ford Fiesta,Ford,Bleu Azur,Essence,Automatique,2021,8070,4.6,128,5,17 999
+Renault Clio 5,Renault,Orange Valencia,Essence,Manuelle,2020,30647,5.2,117,5,14 799
+Renault Austral,Renault,Blanc Nacré / Toit Noir Etoilé,Hybride essence,Automatique,2023,180,6.2,142,5,36 999
+Mercedes GLA,Mercedes,Argent Iridium,Hybride essence rechargeable,Auto...,2022,72731,1,31,5,38 999
+Peugeot 408,Peugeot,Noir Perla Nera,Hybride essence rechargeable,Auto...,2023,12630,1.2,26,5,42 999
+Ford PUMA,Ford,Rouge Fantastic,Essence,Automatique,2021,41846,4.9,138,5,19 999
+Peugeot 508 SW,Peugeot,Noir Perla Nera,Diesel,Automatique,2020,44990,4.7,130,5,24 999
+Skoda Karoq,Skoda,White,Diesel,Automatique,2021,24589,5.9,154,5,34 999
+Volkswagen Golf 7,Volkswagen,Gris Tungsten,Diesel,Manuelle,2020,95784,4.1,100,5,17 199
+DS DS3 CROSSBACK,DS,Bleu Millenium/noir Onyx,Electrique,Automatique,2022,14452,0.0,0,5,26 499
+Mini Mini,Mini,White Silver Met,Electrique,Automatique,2020,41221,0.0,0,3,21 999
+Renault Clio 5,Renault,Bleu Iron,Essence,Manuelle,2023,16452,5.1,115,5,15 499
+Mercedes Classe A,Mercedes,Rouge,Essence,Automatique,2017,49481,6.6,154,5,27 499
+Mini Mini,Mini,White Silver Met,Electrique,Automatique,2021,33961,0.0,0,3,21 099
+Citroën C3 Aircross,Citroën,Natural White,Diesel,Manuelle,2020,84773,N/A,122,5,13 499
+DS DS3,DS,Bleu Encre - Pavillon Noir Onyx,Essence,Automatique,2015,77760,4.7,108,3,12 890
+BMW Série 1,BMW,Noir Sapphire,Diesel,Automatique,2017,111121,4,105,5,17 499
+Peugeot 308,Peugeot,Blanc Banquise,Essence,Manuelle,2016,52163,4.5,107,5,13 299
+Peugeot 308,Peugeot,Gris Artense,Essence,Manuelle,2017,102905,4.6,107,5,13 499
+Renault Captur,Renault,Gris Platine /Toit Noir Etoile,Diesel,Manuelle,2016,76038,3.6,95,5,13 499
+Fiat 500,Fiat,Bossanova White,Hybride essence,Manuelle,2020,60769,5.3,120,3,12 999
+Audi Q3,Audi,Gris Chronos,Hybride essence,Automatique,2022,38019,6.4,160,5,37 999
+Opel Corsa,Opel,Rouge Piment,Essence,Automatique,2022,3706,5,124,5,19 599
+Nissan Juke,Nissan,Noir Métallisé,Essence,Manuelle,2020,39902,5,135,5,17 499
+Ford Puma,Ford,Gris,Essence,Automatique,2021,49192,4.3,139,5,21 099
+Volkswagen Golf 8,Volkswagen,Bleu Atlantique,Diesel,Manuelle,2021,20585,4,130,5,24 599
+Audi A1 Sportback,Audi,Gris Chronos Métallisé/Noir Mythe Métallisé,Essence,Manuelle,2023,12575,5,125,5,23 999
+Volkswagen T-Roc,Volkswagen,Kings Red Metallic,Essence,Manuelle,2022,15110,6.6,135,5,23 499
+Peugeot 308 SW,Peugeot,Gris Platinium,Essence,Automatique,2018,72767,4.6,117,5,15 299
+Volkswagen T-CROSS,Volkswagen,Noir Intense,Essence,Automatique,2022,15549,6,141,5,22 699
+Skoda Kamiq,Skoda,Rouge,Essence,Manuelle,2022,18150,5.7,133,5,25 499
+Renault Grand Scénic 4,Renault,Gris Platine / Toit Noir,Essence,Manuelle,2023,13135,6,149,5,27 899
+Renault Mégane 4,Renault,Gris Titanium,Diesel,Automatique,2020,98981,4.1,129,5,14 999
+DS DS3 CROSSBACK,DS,Gris Artense,Electrique,Automatique,2021,17112,0.0,0,5,23 999
+Renault Scénic 4,Renault,Blanc Nacré / Toit Noir,Essence,Automatique,2021,31000,6.5,150,5,25 299
+Nissan Juke,Nissan,Blanc Lunaire,Essence,Automatique,2021,14552,4.9,139,5,21 999
+BMW Série 1,BMW,Black Sapphire,Essence,Automatique,2023,8247,5,131,5,29 999
+Hyundai Tucson,Hyundai,Argent metallique,Essence,Manuelle,2023,6984,6.6,151,5,30 699
+Audi Q2,Audi,Noir Mythic,Essence,Automatique,2023,6805,6.1,138,5,31 399
+Volkswagen Tiguan,Volkswagen,Oryxweiß,Diesel,Automatique,2021,43610,22 513.5,151,5,33 599
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,60210,4.6,108,5,13 799
+Peugeot 5008,Peugeot,Bianco,Diesel,Automatique,2018,63487,4,102,5,22 499
+Ford Fiesta,Ford,Blanc Glacier,Essence,Manuelle,2019,52475,4.9,105,5,13 999
+Audi Q3,Audi,Gris Daytona,Hybride essence,Automatique,2022,15410,6.4,149,5,38 999
+Renault Kadjar,Renault,Gris Titanium,Essence,Manuelle,2017,63720,6.2,139,5,15 999
+DS DS7 Crossback,DS,AZUL ENCRE,Hybride essence rechargeable,Auto...,2023,19018,1.5,47,5,47 499
+Citroën C4,Citroën,Gris Artense,Essence,Automatique,2017,85975,4.9,113,5,11 499
+Volkswagen Golf 8,Volkswagen,Blanc Pur,Hybride essence rechargeable,Auto...,2020,21047,1.2,26,5,24 499
+Opel Grandland X,Opel,Schwarz Metallic,Essence,Manuelle,2021,71444,5.2,140,5,17 999
+Citroën C4 Cactus,Citroën,,Essence,Automatique,2019,81500,,,,15 699
+Ford Kuga,Ford,Gris Solar,Hybride essence rechargeable,Auto...,2022,17917,1,23,5,29 799
+Mercedes Classe A,Mercedes,Argent Iridium,Essence,Automatique,2018,66406,5.2,119,5,27 999
+Peugeot 408,Peugeot,Gris Titane,Hybride essence rechargeable,Auto...,2023,3721,1,26,5,43 499
+Volkswagen Golf 7,Volkswagen,Blanc Oryx,Hybride essence rechargeable,Auto...,2015,104100,1.5,39,5,17 499
+Renault Captur,Renault,Orange Atacama / Toit Noir Etoilé,Essence,Manuelle,2020,49397,5.5,125,5,13 299
+Renault Clio 5,Renault,Gris Platine,Diesel,Manuelle,2020,40002,4.2,110,5,15 299
+Renault Mégane 4,Renault,Gris Highland,Diesel,Manuelle,2021,42753,4.5,120,5,16 199
+Peugeot 208,Peugeot,Dark Blue,Essence,Manuelle,2016,85963,4,104,5,10 499
+DS DS3 CROSSBACK,DS,Gris Platinium,Electrique,Automatique,2021,25,0.0,0,5,28 999
+Renault Kadjar,Renault,Beige,Essence,Manuelle,2018,43914,4.9,126,5,17 099
+Citroën C4 Cactus,Citroën,Gris Platinium,Essence,Automatique,2020,72474,4,138,5,16 999
+Toyota C-HR,Toyota,Blanc Pur,Hybride essence,Automatique,2019,73327,3,86,5,20 999
+Dacia Sandero,Dacia,Bleu Azurite,Diesel,Manuelle,2018,90972,3.8,98,5,11 999
+Nissan Qashqai,Nissan,,Essence,Manuelle,2019,66905,,,,18 499
+Dacia Duster,Dacia,Noir Nacre,Diesel,Manuelle,2019,95390,4.9,110,5,15 999
+Volkswagen Golf 8,Volkswagen,Blanc Pur,Hybride essence rechargeable,Auto...,2021,13447,1.1,26,5,25 399
+Peugeot 5008,Peugeot,Gris Amazonite,Diesel,Automatique,2019,94940,4,102,5,23 499
+Mini Mini,Mini,Noir Metallique,Electrique,Automatique,2020,46686,0.0,0,3,21 999
+Audi A1 Sportback,Audi,Gris Chronos Métallisé/Noir Mythe Métallisé,Essence,Manuelle,2023,11655,5,125,5,23 999
+Peugeot 308 SW,Peugeot,Gris Platinium,Essence,Manuelle,2020,54772,4.6,100,5,16 999
+Jeep Renegade,Jeep,Colorado Red,Essence,Automatique,2022,12399,5.6,147,5,23 199
+Fiat 500,Fiat,Blanc Bossanova,Essence,Manuelle,2020,11891,5.1,109,3,13 799
+Mini Mini,Mini,Thunder Grey,Essence,Automatique,2019,100185,6,137,3,21 999
+Volkswagen T-CROSS,Volkswagen,Reef Blue,Essence,Automatique,2022,13109,6,141,5,22 999
+Volkswagen T-Roc,Volkswagen,Gris indium/ toit noir,Essence,Manuelle,2022,9017,6,135,5,25 999
+Dacia Duster,Dacia,Bleu Cosmos,Diesel,Manuelle,2018,51800,4.9,115,5,15 999
+Skoda Kamiq,Skoda,Black,Essence,Manuelle,2022,20836,5.7,124,5,25 499
+Audi A3 Sportback,Audi,Noir Mythic,Hybride essence,Automatique,2022,16576,5,132,5,30 699
+Ford Fiesta,Ford,Bleu Azur,Hybride essence,Manuelle,2021,30575,5.1,116,5,16 799
+Renault Zoé,Renault,Bleu Foudre,Electrique,Automatique,2019,27630,0.0,0,5,11 499
+Renault Grand Scenic 4,Renault,,Essence,Automatique,2022,32700,,,,29 199
+BMW Série 1,BMW,Grau Ciel Metallisé,Essence,Automatique,2022,19050,5.7,132,5,29 999
+Citroën C4 Picasso,Citroën,Blanc Banquise,Diesel,Manuelle,2018,54159,3.8,100,5,16 499
+Opel Astra,Opel,,Hybride essence rechargeable,Auto...,2022,1102,,,,28 499
+Volkswagen Golf 7,Volkswagen,Cranberry Red,Essence,Manuelle,2020,48910,5,108,5,17 999
+Renault Zoé,Renault,Blanc Glacier,Electrique,Automatique,2020,26131,0.0,0,5,11 999
+DS DS4,DS,Noir Perla,Essence,Automatique,2022,23490,6.8,150,5,35 099
+Citroën C3 Aircross,Citroën,Summit White,Diesel,Manuelle,2017,105541,4.1,107,5,13 599
+Citroën C4 Picasso,Citroën,Gris Platinium,Essence,Manuelle,2018,58040,5.1,116,5,16 499
+Cupra Leon,Cupra,Blanc,Hybride essence rechargeable,Auto...,2021,32139,1.3,30,5,25 599
+Volkswagen Golf 7,Volkswagen,Gris Carbon,Hybride essence rechargeable,Auto...,2015,116520,1.5,35,5,16 999
+Citroën C3,Citroën,Gris Platinium / Toit Rouge,Essence,Manuelle,2020,66758,4,132,5,12 999
+Renault Clio 5,Renault,Gris Schiste,Essence,Manuelle,2023,13298,5,115,5,15 499
+Citroën C3 Aircross,Citroën,Natural White,Essence,Manuelle,2019,88560,4,106,5,13 799
+DS DS4,DS,Gris Platinium,Diesel,Manuelle,2017,66528,3.9,100,5,14 999
+Peugeot 5008,Peugeot,Noir Perla Nera,Essence,Automatique,2020,58300,6,118,5,23 799
+Renault Twingo 3,Renault,Noir Etoile,Essence,Manuelle,2021,31160,5,117,5,11 499
+Renault Mégane 4,Renault,Gris Highland,Essence,Manuelle,2022,35900,5.5,125,5,16 699
+Fiat 500,Fiat,Bossanova White,Hybride essence,Manuelle,2021,31630,N/A,114,3,13 499
+Toyota C-HR,Toyota,Gris Célestine,Hybride essence,Automatique,2020,46995,4.9,109,5,21 999
+Peugeot 308,Peugeot,Blanc Nacré,Essence,Automatique,2017,102292,4.9,112,5,14 499
+Peugeot 3008,Peugeot,Blanc Banquise,Essence,Manuelle,2018,62460,5,117,5,17 999
+Dacia Sandero,Dacia,Bleu Azurite,Essence,Manuelle,2019,63716,6,125,5,11 999
+Peugeot 308 SW,Peugeot,,Essence,Automatique,2023,9469,,,,28 199
+Nissan Juke,Nissan,Gris Perle,Essence,Automatique,2022,31045,4,138,5,20 699
+Audi A1 Sportback,Audi,Blanc Glacier Métallisé/noir Mythe Métallisé,Essence,Manuelle,2023,9339,5,125,5,23 999
+BMW Série 1,BMW,Mineralgrau,Essence,Automatique,2016,136265,6.5,151,5,18 199
+Volkswagen Golf 8,Volkswagen,Blanc Pur,Hybride essence rechargeable,Auto...,2021,11786,1.1,26,5,26 399
+Nissan Qashqai,Nissan,,Diesel,Manuelle,2020,58992,,,,18 499
+Volkswagen T-Roc,Volkswagen,Gris Indium,Essence,Manuelle,2022,8440,6,142,5,26 119
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2019,45896,5.3,105,5,10 799
+Fiat 500,Fiat,,Hybride essence,Manuelle,2021,32209,,,,13 999
+Mercedes Classe A,Mercedes,Blanc digital,Essence,Automatique,2022,18540,5,137,5,30 339
+Renault Zoé,Renault,Gris Highland,Electrique,Automatique,2019,26894,0.0,0,5,11 399
+Jeep Renegade,Jeep,,Essence,Manuelle,2023,2,,,,25 799
+Skoda Kamiq,Skoda,Gris,Essence,Manuelle,2022,7400,5.7,133,5,26 599
+Citroën C3,Citroën,Sable,Essence,Manuelle,2019,54355,4.8,108,5,12 699
+Volkswagen Polo,Volkswagen,Kings red metallic (rot),Essence,Automatique,2023,10,7,146,5,32 199
+Audi A3 Sportback,Audi,Gris Daytona,Diesel,Automatique,2022,18290,4,126,5,31 899
+DS DS3 CROSSBACK,DS,Gris Artense,Electrique,Automatique,2022,7330,0.0,0,5,29 999
+Jeep Renegade,Jeep,Colorado Red,Essence,Automatique,2022,13378,6.6,150,5,22 899
+Ford PUMA,Ford,Bleu Island,Essence,Manuelle,2021,52060,6.8,155,5,22 699
+Volkswagen Golf 7,Volkswagen,Blanc Oryx,Hybride essence rechargeable,Auto...,2017,106906,1.6,39,5,18 499
+Renault Grand Scénic 4,Renault,Bleu Cosmos,Essence,Manuelle,2019,39816,6,136,5,19 999
+DS DS7 CROSSBACK,DS,Blanc Banquise,Essence,Automatique,2020,63490,5,134,5,23 499
+Seat Leon,Seat,Noir,Hybride essence rechargeable,Auto...,2020,45450,1.2,27,4,25 399
+Audi A3 Sportback,Audi,Argent Fleuret,Hybride essence rechargeable,Auto...,2021,39180,1,29,5,32 799
+Dacia Sandero,Dacia,Blanc Glacier,Essence,Manuelle,2019,44114,6,120,5,12 499
+Peugeot 208,Peugeot,Gris Aluminium,Essence,Manuelle,2018,109153,4.5,108,5,10 499
+Peugeot 5008,Peugeot,Gris Artense,Essence,Automatique,2020,37030,6,154,5,23 999
+Jeep Renegade,Jeep,Carbon Black,Diesel,Manuelle,2016,96487,4.4,115,5,14 499
+Citroën C3,Citroën,,Essence,Manuelle,2018,54690,,,,12 299
+Renault Mégane 4,Renault,Gris Highland,Essence,Manuelle,2022,36552,5,125,5,16 699
+Audi A3 Sportback,Audi,Bleu Navarre,Hybride essence rechargeable,Auto...,2021,27660,1,31,5,33 299
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Manuelle,2019,71258,5,118,5,17 999
+Dacia Duster,Dacia,,Diesel,Manuelle,2020,60750,,,,16 299
+Renault Captur,Renault,Gris Platine / Toit Noir,Diesel,Manuelle,2019,58395,4.2,111,5,13 499
+Renault Mégane 4,Renault,Blanc Nacré,Essence,Manuelle,2018,70968,5.1,114,5,15 599
+Peugeot 308 SW,Peugeot,,Essence,Automatique,2023,16156,,,,28 199
+Nissan Juke,Nissan,Gris Perle,Essence,Automatique,2022,16779,4,138,5,20 999
+Renault Kadjar,Renault,Gris Platine,Essence,Automatique,2018,45812,5.8,134,5,16 999
+Seat Leon,Seat,Rouge Passion,Hybride essence rechargeable,Auto...,2021,19051,1.1,25,5,22 399
+DS DS3 CROSSBACK,DS,Gris Platinium,Essence,Automatique,2019,75012,5.1,121,5,20 999
+Peugeot 308 SW,Peugeot,Blanc Nacré,Essence,Automatique,2019,53930,5.1,117,5,18 199
+Audi A1 Sportback,Audi,Red,Essence,Automatique,2022,18462,6,134,5,24 199
+Volkswagen Golf 8,Volkswagen,Blanc Pur,Hybride essence rechargeable,Auto...,2021,33792,1.1,26,5,26 399
+Ford PUMA,Ford,Bleu Island,Hybride essence,Manuelle,2023,10,7.3,122,5,23 299
+Volkswagen T-CROSS,Volkswagen,Turquoise Makena,Essence,Automatique,2023,16494,6,131,5,23 999
+Volkswagen T-Roc,Volkswagen,Bleu Ravenna,Essence,Automatique,2022,21649,6.1,142,5,27 063
+Opel Corsa,Opel,Rouge Kardio,Electrique,Automatique,2022,5410,0.0,0,5,26 499
+Ford PUMA,Ford,Gris Magnetic,Essence,Manuelle,2021,44142,7.6,125,5,21 999
+Citroën C4 Picasso,Citroën,Gris Platinium,Essence,Automatique,2018,21090,5.1,115,5,17 999
+Citroën C5 X,Citroën,Gris Amazonite / Noir Perla Nera,Hybride essence rechargeable,Auto...,2022,14064,1,30,5,29 599
+Jeep Renegade,Jeep,,Hybride essence rechargeable,Auto...,2022,25,,,,32 399
+Volkswagen Tiguan,Volkswagen,White,Hybride essence rechargeable,Auto...,2021,15185,1.8,39,5,35 799
+Mini Mini,Mini,MOONWALK GREY,Electrique,Automatique,2020,28178,0.0,0,3,22 499
+Audi Q3,Audi,Gris Daytona,Essence,Automatique,2023,17970,6,149,5,39 999
+Dacia Duster,Dacia,Orange Atacama,Diesel,Manuelle,2020,78215,4.9,128,5,16 499
+Dacia Sandero,Dacia,Rouge Fusion,Diesel,Manuelle,2021,57680,4.4,126,5,13 199
+Jeep Renegade,Jeep,"Gris ""STING GRAY""",Diesel,Manuelle,2020,65343,5.8,141,5,16 999
+Volkswagen Golf 7,Volkswagen,,Electrique,Automatique,2020,2828,0.0,0,,18 899
+DS DS3 CROSSBACK,DS,Noir Perla Nera,Essence,Automatique,2019,30851,4.8,109,5,22 499
+DS DS4,DS,Cristal Pearl / Noir Perla Nera,Diesel,Automatique,2022,8437,3,127,5,29 999
+Peugeot 308,Peugeot,Bleu Magnetic,Essence,Manuelle,2019,21000,4.6,102,5,14 499
+Citroën C3 Aircross,Citroën,Spicy Orange,Essence,Manuelle,2018,64975,4.8,106,5,13 799
+Toyota C-HR,Toyota,Gris Atlas,Hybride essence,Automatique,2020,61237,4.9,110,5,22 499
+Renault Twingo 3,Renault,,Essence,Manuelle,2020,26847,,,,11 699
+Renault Mégane 4,Renault,Gris Highland,Essence,Manuelle,2022,38435,5,125,5,16 799
+Nissan Qashqai,Nissan,,Essence,Manuelle,2019,65409,,,,18 799
+Renault Kadjar,Renault,Noir Etoile,Essence,Automatique,2020,52461,6.2,149,5,17 999
+Peugeot 308 SW,Peugeot,Bleu Vertigo,Diesel,Manuelle,2021,57100,4.6,122,5,18 999
+Nissan Qashqai,Nissan,Rouge Magnétique,Essence,Manuelle,2021,29773,6.8,143,5,20 399
+Citroën C4 Cactus,Citroën,Blanc Banquise,Essence,Manuelle,2015,95345,4.6,107,5,9 999
+Renault Zoé,Renault,Blanc Glacier,Electrique,Automatique,2020,20041,0.0,0,5,12 199
+Toyota C-HR,Toyota,Noir Intense,Hybride essence,Automatique,2019,48845,3.8,86,5,22 499
+Citroën C4 Cactus,Citroën,Noir Obsidien,Essence,Manuelle,2018,55670,4.5,104,5,12 999
+Nissan Juke,Nissan,Gris Perle,Essence,Manuelle,2022,11257,6.4,142,5,21 199
+Nissan Qashqai,Nissan,,Essence,Automatique,2019,79786,,,,18 999
+Volkswagen Golf 8,Volkswagen,Blanc Pur,Hybride essence rechargeable,Auto...,2020,29982,1.2,21,5,26 299
+Audi A1 Sportback,Audi,Gris Chronos Métallisé/Noir Mythe Métallisé,Essence,Manuelle,2022,10128,5,125,5,24 999
+Ford PUMA,Ford,Blanc Glacier,Essence,Manuelle,2023,8040,7.2,118,5,24 499
+Volkswagen T-Roc,Volkswagen,Ravennablau,Essence,Automatique,2021,38265,6.8,150,5,27 699
+Mercedes Classe A,Mercedes,Bleu Denim,Essence,Automatique,2022,15180,5,137,5,31 339
+Peugeot 308 SW,Peugeot,AZUL - BLEU AVATAR,Hybride essence rechargeable,Auto...,2023,6212,1.1,23,5,36 299
+Volkswagen Polo,Volkswagen,Noir Intense,Essence,Automatique,2019,91770,4.9,106,5,16 999
+Mercedes Classe A,Mercedes,,Diesel,Automatique,2021,43498,,,,30 999
+Peugeot 508,Peugeot,Gris Artense,Hybride essence rechargeable,Auto...,2022,10,1.4,33,5,40 499
+Audi A3 Sportback,Audi,Noir Mythic,Hybride essence,Automatique,2023,20235,5,131,5,33 299
+Peugeot 308,Peugeot,Blanc Banquise,Essence,Manuelle,2019,69567,4.6,108,5,14 299
+Peugeot 208,Peugeot,Gris Shark,Essence,Manuelle,2017,79542,4.5,104,5,10 999
+Citroën C3,Citroën,,Essence,Manuelle,2020,29925,,,,12 999
+Skoda KAMIQ,Skoda,Blanc Cristal,Essence,Manuelle,2023,5855,5.4,124,5,23 999
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Automatique,2017,89105,5.7,127,5,18 299
+Audi Q2,Audi,Noir Mythic,Essence,Automatique,2023,9018,6.1,138,5,30 999
+Renault Arkana,Renault,,Hybride essence,Automatique,2021,13377,,,,23 199
+Peugeot 308,Peugeot,Gris Artense,Essence,Automatique,2019,63481,5,117,5,15 299
+Citroën C3,Citroën,Noir Perla Nera,Essence,Manuelle,2020,59623,5.5,129,5,13 099
+Citroën C3 Aircross,Citroën,Cosmic Silver,Essence,Manuelle,2018,18026,4.9,112,5,13 999
+Dacia Duster,Dacia,Blanc Glacier,GPL,Manuelle,2021,36614,8.1,126,5,16 799
+Renault Clio 5,Renault,,Diesel,Manuelle,2022,52395,,,,15 699
+Dacia Sandero,Dacia,Bleu Iron,Essence,Manuelle,2021,16010,5,121,5,13 199
+Renault Captur,Renault,Gris Highland / Toit Noir Etoilé,Diesel,Manuelle,2020,124599,4,129,5,13 499
+Citroën C3 Aircross,Citroën,Natural White,Essence,Manuelle,2020,65982,N/A,140,5,13 999
+Renault Zoé,Renault,Gris Highland,Electrique,Automatique,2020,26027,0.0,0,5,12 599
+Peugeot 5008,Peugeot,Noir Perla Nera,Essence,Automatique,2020,60363,6,156,5,24 499
+Volkswagen Polo,Volkswagen,Noir Intense,Essence,Manuelle,2018,51296,4.8,110,5,12 499
+Renault Twingo 3,Renault,Noir Etoile,Essence,Manuelle,2021,29013,5,117,5,11 799
+Dacia Duster,Dacia,Bleu Iron,Diesel,Manuelle,2020,51155,4,129,5,16 499
+Renault Mégane 4,Renault,Gris Highland,Essence,Automatique,2022,39826,5.9,138,5,17 799
+Nissan Qashqai,Nissan,,Diesel,Manuelle,2019,76250,,,,18 999
+Mini Mini,Mini,MOONWALK GREY,Electrique,Automatique,2021,36419,0.0,0,3,23 099
+Volkswagen Golf 8,Volkswagen,Noir Intense,Diesel,Manuelle,2022,6759,4,130,5,26 789
+Audi A1 Sportback,Audi,Noir Mythic,Essence,Automatique,2022,19657,5,133,5,25 299
+Peugeot 208,Peugeot,Blanc Banquise,Essence,Manuelle,2018,51210,4.6,105,5,10 999
+Volkswagen T-Roc,Volkswagen,Blanc Pur,Essence,Manuelle,2022,10,6.6,141,5,28 499
+Mercedes Classe A,Mercedes,Gris Montagne,Essence,Automatique,2022,17162,5,138,5,32 699
+Audi A3 Sportback,Audi,Turboblau,Hybride essence rechargeable,Auto...,2021,20685,1.2,26,4,33 099
+Volkswagen Tiguan,Volkswagen,Noir Intense,Hybride essence rechargeable,Auto...,2021,52499,1.5,42,5,39 099
+Dacia Sandero,Dacia,Bleu Iron,Diesel,Manuelle,2020,65248,4.4,99,5,12 999
+Volkswagen Polo,Volkswagen,Noir Intense,Essence,Manuelle,2023,16170,5,118,5,18 599
+Audi Q2,Audi,Gris Daytona,Essence,Automatique,2023,6959,6,138,5,30 999
+Peugeot 3008,Peugeot,Blanc Nacré / Toit Noir,Essence,Manuelle,2018,43525,5,117,5,18 299
+Mini Mini,Mini,,Electrique,Automatique,2021,37343,0.0,0,,22 699
+Renault Clio 5,Renault,Blanc Glacier,Essence,Manuelle,2023,13675,5.1,115,5,15 499
+Renault Twingo 3,Renault,Gris Lunaire,Essence,Manuelle,2021,17392,5,117,5,11 999
+Nissan Qashqai,Nissan,,Essence,Manuelle,2020,52302,,,,19 499
+Renault Mégane 4,Renault,Gris Titanium,Essence,Automatique,2022,39303,5,138,5,17 799
+Citroën C4 Cactus,Citroën,,Essence,Manuelle,2020,54925,,,,15 799
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2017,90618,4.5,104,5,11 299
+Fiat 500,Fiat,,Hybride essence,Manuelle,2020,12345,,,,13 999
+Volkswagen Golf 7,Volkswagen,Gris Tungstene,Essence,Manuelle,2020,44184,5.1,106,5,20 799
+Audi A1 Sportback,Audi,Noir Mythic,Essence,Automatique,2022,15615,5,133,5,25 499
+Volkswagen T-Roc,Volkswagen,Argent Pyrite / Toit Noir,Essence,Automatique,2023,18925,6.1,123,5,30 341
+Citroën C5 Aircross,Citroën,Gris Acier,Essence,Manuelle,2019,80964,5.3,118,5,17 299
+Volkswagen T-Roc,Volkswagen,Gris Ascot,Essence,Manuelle,2022,10,6.6,142,5,29 299
+Mercedes Classe A,Mercedes,Gris Montagne,Essence,Automatique,2022,12235,5,138,5,32 999
+Citroën C5 X,Citroën,Gris Platinium,Essence,Automatique,2023,7392,6,147,5,29 999
+Peugeot 3008,Peugeot,Bleu Magnetic,Essence,Manuelle,2018,72550,5,118,5,17 999
+Audi Q3,Audi,Noir Mythic,Essence,Automatique,2023,8610,6,150,5,43 499
+Peugeot 308,Peugeot,Blanc Nacré,Essence,Manuelle,2018,48323,4,113,5,14 799
+Audi Q2,Audi,Gris Daytona,Essence,Automatique,2023,12175,6,138,5,30 899
+Citroën C3 Aircross,Citroën,Sable,Diesel,Manuelle,2019,103435,N/A,107,5,13 999
+Peugeot 308,Peugeot,Gris Platinium,Essence,Manuelle,2017,30380,4,117,5,15 399
+Renault Captur,Renault,Orange Atacama,Diesel,Automatique,2019,43958,4.3,113,5,14 999
+Mini Mini,Mini,,Essence,Automatique,2020,21069,,,,23 899
+Renault Clio 5,Renault,Bleu Iron,Essence,Manuelle,2023,12314,5.1,115,5,15 599
+Peugeot 5008,Peugeot,Blanc Banquise,Diesel,Automatique,2019,107374,6.3,121,5,25 299
+Citroën C4,Citroën,Gris Acier,Essence,Automatique,2016,80086,5.1,117,5,12 999
+Ford PUMA,Ford,,Hybride essence,Manuelle,2022,17074,,,,21 799
+Renault Mégane 4,Renault,Gris Titanium,Essence,Automatique,2022,38343,5.9,138,5,17 899
+Fiat 500,Fiat,Bossanova White,Hybride essence,Manuelle,2021,20985,5.3,119,3,14 199
+Renault Captur,Renault,Orange Atacama / Toit Noir Etoilé,Diesel,Manuelle,2019,61495,4.2,111,5,13 999
+Nissan Qashqai,Nissan,,Essence,Automatique,2019,42030,,,,21 999
+Renault Zoé,Renault,Blanc Quartz,Electrique,Automatique,2020,13715,0.0,0,5,14 999
+Renault Arkana,Renault,Blanc Perle,Hybride essence,Automatique,2021,19509,N/A,133,5,23 499
+Renault Arkana,Renault,Orange Valencia,Hybride essence,Automatique,2022,13835,5,132,5,25 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Essence,Manuelle,2019,22798,5,119,5,17 499
+Mercedes Classe A,Mercedes,Gris Montagne,Diesel,Automatique,2022,15075,4.9,131,5,33 299
+Citroën C3,Citroën,,Essence,Manuelle,2019,50985,,,,12 999
+Peugeot 5008,Peugeot,Emerald Crystal,Essence,Automatique,2019,59514,5,115,5,23 999
+Audi A3 Sportback,Audi,Noir Mythic,Hybride essence,Automatique,2023,11575,5,130,5,33 399
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2017,68610,4.5,104,5,11 199
+Volkswagen Tiguan,Volkswagen,Gris Dauphin,Diesel,Automatique,2023,5000,5,144,5,43 999
+Audi Q3,Audi,Gris Daytona,Essence,Automatique,2022,22,6.4,147,5,43 599
+Volkswagen T-CROSS,Volkswagen,Noir Intense,Essence,Manuelle,2022,17529,5,131,5,19 999
+Renault Clio 4,Renault,Gris Platine,Diesel,Manuelle,2017,88762,3.3,82,5,13 499
+Peugeot 3008,Peugeot,Gris Amazonite,Essence,Manuelle,2020,62510,6.4,147,5,18 499
+Renault Clio 5,Renault,Blanc Glacier,Essence,Manuelle,2021,23335,5.2,118,5,14 999
+Citroën C4,Citroën,Gris Platinium,Essence,Manuelle,2021,34380,N/A,126,5,15 799
+Renault Clio 5,Renault,Blanc Glacier,Essence,Manuelle,2023,12460,5,115,5,15 599
+Renault Zoé,Renault,Gris Titanium,Electrique,Automatique,2020,19225,0.0,0,5,13 299
+Peugeot 5008,Peugeot,,Essence,Automatique,2019,34551,,,,25 499
+Dacia Duster,Dacia,Orange Atacama,Diesel,Manuelle,2020,42990,4,129,5,16 999
+Renault Mégane 4,Renault,Gris Titanium,Essence,Automatique,2022,38795,5.9,138,5,17 899
+Nissan Qashqai,Nissan,,Diesel,Manuelle,2020,51550,,,,20 499
+Fiat 500,Fiat,,Hybride essence,Manuelle,2022,16019,,,,14 399
+Toyota C-HR,Toyota,Gris Atlas,Hybride essence,Automatique,2020,38815,3.8,86,5,23 299
+Mini Mini,Mini,Midnight Black II,Electrique,Automatique,2022,32947,0.0,0,3,24 499
+Audi A1 Sportback,Audi,Noir Mythic,Essence,Automatique,2023,17200,5,133,5,25 999
+Mini Mini,Mini,Chili Red / Toit Noir,Essence,Automatique,2022,9809,4.7,127,5,25 799
+Renault Arkana,Renault,,Hybride essence,Automatique,2021,23643,,,,25 899
+Renault Twingo 3,Renault,Bleu Dragée,Essence,Manuelle,2018,50215,5.5,125,5,9 499
+Mercedes Classe A,Mercedes,Argent Iridium,Diesel,Automatique,2023,7236,5,133,5,34 499
+Volkswagen Golf 7,Volkswagen,Noir Intense,Diesel,Manuelle,2019,91228,4.1,100,5,17 199
+Citroën C3,Citroën,,Essence,Manuelle,2019,43220,,,,13 299
+Volkswagen Golf 8,Volkswagen,Deep black (schwarz),Diesel,Automatique,2022,18545,5.5,137,4,35 999
+Peugeot 208,Peugeot,Rouge Elixir,Essence,Manuelle,2018,72364,4.7,108,5,11 299
+Citroën C4,Citroën,Noir,Essence,Manuelle,2016,73640,4.1,115,5,13 099
+Audi Q3,Audi,Gris Cronos,Diesel,Automatique,2021,38698,4.8,155,5,34 099
+Dacia Sandero,Dacia,Blanc Glacier,Essence,Manuelle,2020,24617,6,115,5,13 599
+Mini Mini,Mini,British Racing Green mét,Electrique,Automatique,2021,25025,0.0,0,3,23 099
+Citroën C3 Aircross,Citroën,Passion Red,Essence,Automatique,2018,95545,5.7,126,5,14 299
+Dacia Sandero,Dacia,,Essence,Manuelle,2022,18897,,,,14 499
+Renault Clio 5,Renault,,Essence,Manuelle,2021,36339,,,,15 699
+Fiat 500,Fiat,,Hybride essence,Manuelle,2022,10223,,,,14 799
+Renault Mégane 4,Renault,Gris Titanium,Essence,Automatique,2022,37063,5.9,138,5,17 999
+Citroën C3,Citroën,Sable,Essence,Automatique,2018,67145,4,110,5,13 999
+Nissan Qashqai,Nissan,Blanc Lunaire,Essence,Manuelle,2021,42678,5.5,153,5,20 499
+Audi Q3,Audi,Noir Mythic,Diesel,Automatique,2015,70052,5,144,5,21 499
+Fiat 500,Fiat,Epic Bleu,Hybride essence,Manuelle,2021,16420,3.9,106,3,14 799
+Audi A1 Sportback,Audi,Noir Mythic,Essence,Automatique,2023,14821,5.8,133,5,26 299
+Volkswagen Golf 7,Volkswagen,Blanc,Hybride essence rechargeable,Auto...,2020,19472,2.2,47,4,26 799
+Renault Arkana,Renault,Blanc univers,Hybride essence,Automatique,2021,9810,5,132,5,25 999
+Mercedes Classe A,Mercedes,Blanc digital,Diesel,Automatique,2023,4996,5,133,5,34 699
+Citroën C5 X,Citroën,Bleu Magnetique,Hybride essence rechargeable,Auto...,2023,3698,1.2,30,5,30 399
+Volkswagen Golf 8,Volkswagen,Mondsteingrau,Diesel,Automatique,2022,22740,5.5,137,4,35 899
+Audi A3 Sportback,Audi,Daytonagrau,Hybride essence rechargeable,Auto...,2021,18720,1.1,29,4,35 999
+Renault Clio 4,Renault,Gris Platine,Essence,Manuelle,2018,18154,5,105,5,13 999
+Renault Captur,Renault,Gris Platine / Toit Noir,Essence,Manuelle,2018,19036,5.4,123,5,14 499
+Peugeot 308 SW,Peugeot,ROJO,Essence,Automatique,2022,1580,5.8,132,5,30 699
+Peugeot 308,Peugeot,Gris Artense,Essence,Manuelle,2018,54126,4.9,107,5,14 999
+Audi Q3,Audi,Noir Mythic,Diesel,Automatique,2022,8880,5,141,5,40 499
+Volkswagen Golf 7,Volkswagen,Bleu Atlantique,Hybride essence rechargeable,Auto...,2018,52631,1.6,36,5,22 199
+Renault Clio 5,Renault,Gris Titanium,Essence,Manuelle,2021,32462,5.2,118,5,15 799
+Peugeot 5008,Peugeot,Gris Amazonite,Diesel,Automatique,2020,62025,5,139,5,25 699
+Toyota C-HR,Toyota,Rouge Intense/Toit Noir,Hybride essence,Automatique,2021,23470,5.2,120,5,24 999
+Citroën C3,Citroën,Cobalt Blue - Rouge Aden,Essence,Automatique,2017,48298,4.9,110,5,14 099
+Audi A1 Sportback,Audi,Blanc Glacier,Essence,Automatique,2023,12664,5.8,133,5,26 299
+Mercedes Classe A,Mercedes,Noir Cosmos,Essence,Automatique,2023,13320,5,138,5,34 999
+Citroën C5 X,Citroën,Noir Perla Nera,Hybride essence rechargeable,Auto...,2023,2305,1.3,27,5,30 399
+Audi A3 Sportback,Audi,Gris Daytona,Hybride essence rechargeable,Auto...,2022,6108,1,35,5,35 999
+Opel Corsa,Opel,Gris Quartz,Essence,Manuelle,2021,19724,5,118,5,12 999
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,76000,5,118,5,18 299
+Peugeot 308,Peugeot,Gris Platinium,Essence,Manuelle,2018,38584,4.7,113,5,15 299
+Citroën C3 Aircross,Citroën,Natural White,Essence,Manuelle,2017,47595,5.3,119,5,14 299
+Peugeot 308 SW,Peugeot,BLANCO BLANQUISE,Hybride essence rechargeable,Auto...,2023,5573,1.1,23,5,35 699
+Renault Kadjar,Renault,Rouge Flamme,Essence,Manuelle,2019,62200,5.9,135,5,17 799
+Dacia Sandero,Dacia,Bleu Iron,Essence,Manuelle,2022,13850,7,109,5,15 499
+Renault Clio 5,Renault,Orange Valencia,Essence,Manuelle,2021,30095,5.2,124,5,15 799
+Renault Arkana,Renault,,Hybride essence,Automatique,2021,40412,,,,26 899
+Peugeot 5008,Peugeot,Gris Amazonite,Diesel,Automatique,2020,60159,4,105,5,25 699
+Renault Kadjar,Renault,Gris Highland,Essence,Manuelle,2021,54764,6.2,141,5,18 499
+Renault Captur,Renault,Gris Cassiopée / Toit Noir,Essence,Automatique,2019,84535,5.5,125,5,14 799
+Peugeot 3008,Peugeot,GRIGIO,Diesel,Automatique,2018,93851,4.2,108,5,18 999
+Nissan Qashqai,Nissan,,Hybride essence,Manuelle,2022,15248,,,,26 299
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2018,62243,4.5,104,5,11 399
+Mercedes Classe A,Mercedes,Blanc Polaire,Diesel,Automatique,2023,2248,5,133,5,34 799
+Renault Zoé,Renault,Gris,Electrique,Automatique,2019,52287,0.0,0,5,10 799
+Peugeot 308 SW,Peugeot,Blanc Nacré,Essence,Manuelle,2017,107895,4.2,109,5,11 199
+Volkswagen Golf 8,Volkswagen,Pure white (weiss),Diesel,Automatique,2023,20165,5.5,137,4,37 963
+Citroën C3,Citroën,Gris Platinium/toit Noir Onyx,Essence,Manuelle,2020,36270,5.4,128,5,13 999
+Opel Corsa,Opel,,Essence,Manuelle,2020,53199,,,,14 639
+Volkswagen Tiguan,Volkswagen,Blanc Pur,Essence,Automatique,2019,61671,8.9,161,5,26 544
+Toyota C-HR,Toyota,Gris Célestine,Hybride essence,Automatique,2022,12177,N/A,111,5,24 599
+Citroën C5 Aircross,Citroën,Blanc Banquise,Diesel,Automatique,2021,95232,5,138,5,19 999
+Renault Clio 5,Renault,Gris Platine,Essence,Manuelle,2021,31402,5,118,5,15 799
+Renault Kadjar,Renault,Noir Etoile,Diesel,Automatique,2020,45101,4.9,113,5,18 999
+Dacia Sandero,Dacia,Bleu Azurite,Essence,Manuelle,2021,38331,7,123,5,13 899
+Volkswagen Tiguan,Volkswagen,Blanc Pur,Essence,Automatique,2017,42716,6,138,5,22 999
+Peugeot 5008,Peugeot,Emerald Crystal / Noir Perla Nera,Essence,Manuelle,2020,37585,6.6,151,5,25 999
+Volkswagen Golf 7,Volkswagen,Gris Indium,Essence,Manuelle,2020,14860,5,108,5,20 499
+Renault Clio 4,Renault,Blanc Glacier,Essence,Manuelle,2017,80001,5.6,127,5,11 299
+Nissan Qashqai,Nissan,Noir Métallisé,Hybride essence,Automatique,2022,19065,6,145,5,26 899
+Audi A1 Sportback,Audi,Gris Chronos / Toit Noir,Essence,Automatique,2023,9785,5.8,134,5,28 399
+Renault Captur,Renault,Gris Cassiopée / Toit Noir,Essence,Manuelle,2019,53770,5.4,123,5,14 699
+Mercedes Classe A,Mercedes,Argent Iridium,Diesel,Automatique,2023,17095,4,131,5,35 499
+Mini Cooper Cabriolet,Mini,Schwarz Metallic,Essence,Automatique,2021,65946,6.2,136,2,22 399
+Mercedes GLA,Mercedes,Noir Cosmos,Diesel,Automatique,2017,115392,4.2,110,5,22 499
+Audi A1 Sportback,Audi,Gris Flèche / Toit Noir,Essence,Manuelle,2022,7840,5.5,129,5,22 499
+Volkswagen T-Roc,Volkswagen,,Essence,Automatique,2018,56915,,,,22 499
+Nissan Qashqai,Nissan,,Essence,Automatique,2020,37520,,,,22 499
+Toyota Prius,Toyota,Blanc Pur,Hybride essence,Automatique,2018,65931,3.3,78,5,22 499
+Volvo XC40,Volvo,Noir Onyx,Diesel,Manuelle,2019,116030,5.3,127,5,22 499
+Toyota Corolla,Toyota,Noir Métallisé,Hybride essence,Automatique,2021,34384,4.5,103,5,22 499
+Citroën C5 Aircross,Citroën,Gris Platinium,Diesel,Automatique,2020,72724,4.1,102,5,22 499
+BMW X1,BMW,Argento,Diesel,Automatique,2017,95490,4.7,123,5,22 499
+Toyota C-HR,Toyota,Gris Platinium / Toit Noir,Hybride essence,Automatique,2019,20460,3.8,86,5,22 499
+Toyota C-HR,Toyota,Gris Atlas,Hybride essence,Automatique,2020,61237,4.9,110,5,22 499
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Automatique,2022,21475,5,133,5,22 499
+Renault Captur,Renault,Gris Highland / Toit Noir Etoilé,Hybride essence,Automatique,2022,8558,4,110,5,22 499
+Toyota C-HR,Toyota,Rouge Rubi + Toit Noir,Hybride essence,Automatique,2019,48975,3.9,86,5,22 499
+Mini Mini,Mini,MOONWALK GREY,Electrique,Automatique,2020,28178,0.0,0,3,22 499
+Peugeot 5008,Peugeot,Bianco,Diesel,Automatique,2018,63487,4,102,5,22 499
+Citroën C5 Aircross,Citroën,Noir Perla Nera,Essence,Manuelle,2020,39593,5,149,5,22 499
+Peugeot 508,Peugeot,Gris Artense,Diesel,Automatique,2021,68195,4,121,5,22 499
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,65230,4.7,108,5,10 999
+Nissan Qashqai,Nissan,Gris Céramique / Toit Noir Métallique,Hybride essence,Automatique,2022,13075,6,145,5,26 999
+Dacia Duster,Dacia,Gris Comète,Diesel,Manuelle,2021,49982,4.9,129,5,17 999
+Peugeot 3008,Peugeot,Gris Artense,Essence,Manuelle,2019,41950,6,125,5,18 799
+Renault Zoé,Renault,Bleu Foudre,Electrique,Automatique,2020,47105,0.0,0,5,16 599
+Renault Arkana,Renault,White,Hybride essence,Automatique,2023,4774,5.9,132,5,28 499
+Volkswagen T-Roc,Volkswagen,Indiumgrau,Diesel,Automatique,2022,25235,5.2,134,5,31 899
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2019,34350,N/A,106,5,14 299
+Citroën C5 X,Citroën,Gris Amazonite,Hybride essence rechargeable,Auto...,2022,219,N/A,30,5,32 499
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2021,21530,5.4,123,5,13 999
+Volkswagen Golf 8,Volkswagen,Weiß,Hybride essence rechargeable,Auto...,2021,18135,1.4,21,5,23 999
+Dacia Sandero,Dacia,Gris Moonstone,Essence,Automatique,2021,8425,5,132,5,16 999
+Peugeot 5008,Peugeot,Gris Amazonite,Diesel,Manuelle,2020,44025,5.3,142,5,26 999
+Renault Captur,Renault,Orange Atacama / Toit Noir Etoilé,Essence,Manuelle,2021,26246,5.8,133,5,15 799
+Renault Kadjar,Renault,Blanc Nacré,Essence,Automatique,2019,57712,6.2,133,5,18 999
+Renault Clio 5,Renault,,Essence,Manuelle,2021,24664,,,,16 199
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Manuelle,2015,67886,4.9,114,5,9 699
+Citroën C5 Aircross,Citroën,Blanc Banquise,Diesel,Automatique,2019,80381,4,109,5,19 999
+Renault Kadjar,Renault,Gris Highland,Diesel,Manuelle,2021,45814,5,132,5,19 399
+Dacia Sandero,Dacia,,Essence,Manuelle,2020,33019,,,,13 799
+Citroën C4,Citroën,Gris Acier,Essence,Manuelle,2021,20661,5,120,5,17 799
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,62411,4.7,108,5,11 499
+Peugeot 3008,Peugeot,Blanc Banquise,Diesel,Automatique,2020,114362,4,98,5,18 999
+Mercedes Classe A,Mercedes,Noir Cosmos,Hybride essence rechargeable,Auto...,2023,15808,0.8,23,5,40 999
+Nissan Qashqai,Nissan,Blanc Lunaire,Hybride essence,Automatique,2022,15570,6,145,5,26 999
+Peugeot 3008,Peugeot,Metallic Copper / Toit Noir,Essence,Automatique,2018,99960,5.5,120,5,18 499
+Renault Captur,Renault,Ivoire,Essence,Automatique,2019,58951,5.5,125,5,14 999
+Volkswagen T-Roc,Volkswagen,Indiumgrau/deep black,Diesel,Automatique,2022,23650,5.2,128,5,33 299
+Peugeot 308,Peugeot,Dark Blue,Diesel,Manuelle,2018,74846,3.5,92,5,15 999
+Mercedes Classe A,Mercedes,Blanc Polaire,Hybride essence rechargeable,Auto...,2022,10,1,23,5,44 199
+Volkswagen Golf 8,Volkswagen,Bleu Atlantique,Diesel,Manuelle,2021,16901,4,130,5,24 799
+Citroën C5 Aircross,Citroën,Gris Artense,Essence,Automatique,2019,70115,5.7,128,5,21 299
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Manuelle,2020,57294,6.5,145,5,19 299
+Citroën C3,Citroën,Noir Perla Nera / Blanc Opale,Essence,Manuelle,2021,33420,5,124,5,14 399
+Renault Arkana,Renault,,Hybride essence,Automatique,2021,16319,,,,28 699
+Nissan Qashqai,Nissan,Gris Graphite,Hybride essence,Manuelle,2021,18500,N/A,145,5,25 499
+Renault Clio 5,Renault,GREY,Essence,Manuelle,2023,14711,5.2,117,5,16 299
+Peugeot 2008,Peugeot,Rouge Tourmaline,Essence,Manuelle,2015,93576,4.8,110,5,9 999
+Peugeot 5008,Peugeot,Noir Perla,Essence,Automatique,2019,16789,4.6,115,5,27 099
+Toyota C-HR,Toyota,,Hybride essence,Automatique,2019,90564,,,,17 999
+Dacia Duster,Dacia,Bleu Iron,Diesel,Manuelle,2020,30002,4,129,5,17 999
+Renault Kadjar,Renault,Gris Highland,Diesel,Manuelle,2020,25460,5,133,5,19 499
+Peugeot 208,Peugeot,Gris,Essence,Manuelle,2017,52980,4.5,104,5,11 499
+Citroën C4,Citroën,Blanc Banquise,Essence,Manuelle,2021,15295,5,120,5,17 999
+Dacia Sandero,Dacia,Gris Highland,Essence,Manuelle,2020,18647,7,123,5,14 799
+Renault Mégane 4,Renault,,Hybride essence rechargeable,Auto...,2022,11089,,,,28 399
+Renault Arkana,Renault,,Hybride essence,Automatique,2022,16212,,,,28 899
+Renault Mégane 4,Renault,Blanc Nacré,Essence,Manuelle,2020,50603,5.8,137,5,18 299
+Dacia Duster,Dacia,Brun Vison,Diesel,Manuelle,2021,47376,4.9,131,5,17 799
+Fiat 500,Fiat,Blanc,Electrique,Automatique,2022,9958,0.0,0,3,18 099
+Citroën C3 Aircross,Citroën,Summit White,Essence,Manuelle,2018,48150,4.8,106,5,14 999
+Volkswagen Golf 8,Volkswagen,Gris Urano,Hybride essence rechargeable,Auto...,2020,27387,0.9,21,5,24 999
+Citroën C5 X,Citroën,Blanc Nacré / Toit Noir Perla Nera,Hybride essence rechargeable,Auto...,2023,4175,1.3,30,5,30 399
+Renault Mégane 4,Renault,Blanc Nacré,Essence,Automatique,2019,55996,5,127,5,19 499
+Citroën C3,Citroën,Spring Blue/toit Noir Onyx,Diesel,Manuelle,2021,60203,4,112,5,14 499
+Renault Captur,Renault,Bleu Iron,Essence,Manuelle,2022,25830,5.9,130,5,16 499
+Renault Clio 5,Renault,Gris Schiste,Essence,Manuelle,2023,6517,5,116,5,16 599
+Citroën C3 Aircross,Citroën,Gris Acier,Essence,Manuelle,2021,28806,N/A,135,5,15 499
+Dacia Sandero,Dacia,Gris Comète,Essence,Automatique,2021,41736,5,132,5,15 999
+Peugeot 5008,Peugeot,,Essence,Automatique,2020,10094,,,,27 299
+Dacia Duster,Dacia,Gris Highland,Diesel,Manuelle,2020,42468,4,108,5,17 999
+Citroën C4,Citroën,Gris Acier,Essence,Manuelle,2021,16628,5,120,5,18 499
+Audi A1 Sportback,Audi,Blanc Glacier Métallisé/noir Mythe Métallisé,Essence,Manuelle,2023,12347,5,125,5,23 899
+Volkswagen Golf 8,Volkswagen,Pure white (weiss),Hybride essence rechargeable,Auto...,2020,22290,1.1,26,4,25 599
+Citroën C4,Citroën,Bleu Iceland,Essence,Automatique,2021,31965,5.8,131,5,20 799
+Mercedes Classe A,Mercedes,Gris Montagne,Essence,Automatique,2021,20400,5,137,5,28 785
+Audi A3 Sportback,Audi,Silver,Essence,Manuelle,2020,57575,6.7,121,5,27 299
+Citroën C5 X,Citroën,Gris Amazonite / Noir Perla Nera,Hybride essence rechargeable,Auto...,2022,9957,1,30,5,29 799
+Citroën C5 Aircross,Citroën,Gris Acier,Essence,Manuelle,2021,42670,6.1,139,5,20 499
+Citroën C4,Citroën,Gris Platinium,Essence,Automatique,2021,15827,5.8,131,5,20 999
+Toyota C-HR,Toyota,Gris,Hybride essence,Automatique,2018,71800,3.9,86,5,20 499
+Citroën C3,Citroën,Bleu,Essence,Automatique,2017,42508,4.2,110,5,14 699
+Renault Clio 5,Renault,Rouge Flamme,Diesel,Manuelle,2021,24375,4.1,109,5,16 499
+Citroën C3 Aircross,Citroën,Gris Platinium,Essence,Manuelle,2020,19618,N/A,104,5,15 499
+Mercedes Classe A,Mercedes,Blanc digital,Essence,Automatique,2020,73771,5.9,139,5,23 499
+Audi A1 Sportback,Audi,Noir Mythic,Essence,Automatique,2023,6329,6.4,135,5,32 499
+Peugeot 5008,Peugeot,Noir Perla Nera,Diesel,Automatique,2020,62059,5,139,5,27 499
+Renault Captur,Renault,Orange Atacama / Toit Noir Etoilé,Essence,Manuelle,2019,32476,5.6,128,5,16 299
+Dacia Duster,Dacia,Gris Platine,Diesel,Manuelle,2020,24440,4.9,108,5,18 099
+Audi A1 Sportback,Audi,,Essence,Automatique,2019,52207,,,,19 499
+Peugeot 308,Peugeot,Blanc Nacré,Essence,Manuelle,2018,50995,4.6,115,5,16 499
+Renault Kadjar,Renault,Rouge Flamme,Essence,Automatique,2022,32340,6.2,145,5,20 499
+Citroën C4,Citroën,Gris Acier,Essence,Manuelle,2021,14150,5,120,5,18 999
+Toyota C-HR,Toyota,Blanc Lunaire nacré,Hybride essence,Automatique,2022,20013,4.9,111,5,25 399
+Renault Kadjar,Renault,Bleu Cosmos,Diesel,Manuelle,2020,72826,5.5,142,5,18 999
+Nissan Qashqai,Nissan,Noir métallisé,Hybride essence,Automatique,2022,12602,6,145,5,27 499
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,50303,5,118,5,19 999
+Fiat 500,Fiat,Vert,Electrique,Automatique,2022,9806,0.0,0,3,24 999
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2017,47047,4.5,104,5,11 499
+Mercedes Classe A,Mercedes,Gris Montagne,Essence,Automatique,2021,38604,5.9,136,5,28 699
+Citroën C3 Aircross,Citroën,,Essence,Manuelle,2020,33224,,,,15 499
+Renault Arkana,Renault,,Hybride essence,Automatique,2022,15769,,,,25 199
+Volkswagen Golf 8,Volkswagen,Gris Dauphin,Essence,Automatique,2021,23164,7.3,168,5,33 299
+Audi A3 Sportback,Audi,Gletscherweiß,Hybride essence rechargeable,Auto...,2021,15280,1.1,24,4,31 999
+Volkswagen T-Roc,Volkswagen,Noir Intense,Essence,Manuelle,2019,77335,5.2,115,5,17 799
+Citroën C5 X,Citroën,Gris Platinium,Hybride essence rechargeable,Auto...,2023,2833,1.3,30,5,30 399
+Peugeot 208,Peugeot,Orange Power,Essence,Manuelle,2019,80400,4.7,108,5,11 699
+Renault Captur,Renault,Noir étoilé,Essence,Manuelle,2022,23060,5.9,130,5,16 499
+Audi A3 Sportback,Audi,Blanc Ibis,Essence,Automatique,2017,137714,5.7,113,5,17 799
+Renault Kadjar,Renault,,Essence,Manuelle,2021,18252,,,,20 799
+Nissan Qashqai,Nissan,Gris Perle,Hybride essence,Manuelle,2022,24003,6.6,146,5,27 799
+Renault Arkana,Renault,Rouge Flamme,Hybride essence,Automatique,2022,30820,4.8,109,5,25 999
+Fiat 500,Fiat,,Hybride essence,Manuelle,2022,12373,,,,14 699
+Volkswagen T-Roc,Volkswagen,Indium Grey Metallic,Essence,Manuelle,2022,15108,6.6,135,5,23 599
+Mercedes Classe A,Mercedes,Gris Montagne,Essence,Automatique,2022,16660,5,137,5,30 439
+Renault Arkana,Renault,Noir Metal,Hybride essence,Automatique,2022,19391,5,132,5,25 499
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2018,75683,4.3,99,5,11 799
+Toyota C-HR,Toyota,Gris Atlas,Hybride essence,Automatique,2019,50479,3.8,86,5,21 999
+Volkswagen Golf 8,Volkswagen,Delfingrau,Diesel,Automatique,2022,19195,5.5,136,4,36 999
+Peugeot 3008,Peugeot,Gris Platinium,Diesel,Manuelle,2021,101841,5,130,5,19 499
+Peugeot 3008,Peugeot,Smart Grey,Essence,Manuelle,2019,55465,6.4,118,5,19 699
+Citroën C3,Citroën,Gris Platinium / Toit Noir Onyx,Essence,Manuelle,2022,12343,5,125,5,14 999
+Renault Captur,Renault,Gris Highland,Essence,Manuelle,2020,35905,5.9,135,5,16 499
+Audi A3 Sportback,Audi,Noir Brillant,Essence,Automatique,2020,30527,5.2,147,5,25 999
+Renault Clio 5,Renault,,Essence,Manuelle,2022,15025,,,,16 699
+Peugeot 5008,Peugeot,Gris Platinium,Diesel,Manuelle,2021,21432,5,133,5,28 099
+Peugeot 208,Peugeot,Gris Aluminium,Essence,Manuelle,2018,73365,4.3,99,5,11 499
+Dacia Duster,Dacia,Gris Comète,Diesel,Manuelle,2020,16794,4,129,5,18 499
+Renault Kadjar,Renault,Noir Etoile,Diesel,Automatique,2021,55000,4.9,135,5,20 999
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2017,95351,4.9,114,5,9 999
+Citroën C4,Citroën,Blanc Banquise,Essence,Automatique,2022,20111,5,131,5,19 499
+Toyota C-HR,Toyota,Blanc Pur,Hybride essence,Automatique,2023,873,4,110,5,26 499
+Toyota C-HR,Toyota,Blanc Pur,Hybride essence,Automatique,2020,60170,4,119,5,23 499
+Renault Mégane 4,Renault,Gris Highland,Essence,Automatique,2022,38216,5.9,138,5,17 799
+Fiat 500,Fiat,Onyx Black,Electrique,Automatique,2021,43227,0.0,0,3,18 999
+Renault Arkana,Renault,Blanc Perle,Hybride essence,Automatique,2023,4545,5,131,5,27 499
+Mercedes Classe A,Mercedes,Argent Iridium,Diesel,Automatique,2022,24810,4.9,131,5,32 999
+Peugeot 3008,Peugeot,Blanc Nacré / Noir Perla Nera,Diesel,Automatique,2018,129401,6,124,5,19 999
+Volkswagen T-Roc,Volkswagen,Gris Ascot,Essence,Manuelle,2022,10,6.6,142,5,29 299
+Peugeot 308,Peugeot,Blanc Nacré,Essence,Automatique,2019,57709,4.6,106,5,17 999
+Audi A3 Sportback,Audi,Gris Daytona,Hybride essence rechargeable,Auto...,2022,8915,1,35,5,35 399
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2017,70610,4.3,99,5,11 799
+Peugeot 208,Peugeot,Rouge Elixir,Essence,Manuelle,2019,50767,4.7,108,5,11 499
+Citroën C3,Citroën,Noir Perla Nera/Toit Rouge Aden,Essence,Manuelle,2021,22740,5.4,104,5,14 999
+Renault Clio 5,Renault,,Essence,Manuelle,2022,11490,,,,16 899
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Manuelle,2021,22971,5,124,5,17 299
+Peugeot 3008,Peugeot,Gris Amazonite,Essence,Manuelle,2019,32235,5,118,5,19 799
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2015,73870,4.9,114,5,10 299
+Peugeot 5008,Peugeot,Noir Perla Nera (M),Essence,Automatique,2021,46766,6.6,151,5,28 699
+Renault Kadjar,Renault,Noir Etoile,Essence,Automatique,2022,37835,6,145,5,21 499
+Mercedes Classe A,Mercedes,,Diesel,Automatique,2021,29056,,,,33 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,50794,4.7,108,5,11 799
+Toyota C-HR,Toyota,Blanc Pur,Hybride essence,Automatique,2023,501,4.9,110,5,26 499
+Renault Mégane 4,Renault,Gris Highland,Essence,Automatique,2022,37763,5.9,138,5,17 999
+Toyota C-HR,Toyota,Blanc Nacré,Essence,Manuelle,2018,131567,6,136,5,14 999
+Mercedes Classe A,Mercedes,Argent Iridium,Diesel,Automatique,2022,20515,4.9,131,5,32 999
+Renault Mégane 4,Renault,Gris Titanium,Diesel,Manuelle,2017,56022,3.7,95,5,15 999
+Citroën C3,Citroën,,Diesel,Manuelle,2022,24482,,,,15 499
+Toyota C-HR,Toyota,Noir Intense,Hybride essence,Automatique,2020,57554,3.8,86,5,22 999
+Renault Captur,Renault,Bleu Iron,Essence,Manuelle,2022,19921,5.9,130,5,16 699
+Renault Clio 5,Renault,Rouge Flamme,Essence,Manuelle,2022,9392,5.2,119,5,17 199
+Peugeot 308,Peugeot,Gris Artense,Essence,Manuelle,2020,36189,5.5,132,5,17 299
+Citroën C4,Citroën,Rouge Elixir,Essence,Automatique,2022,12544,5.8,130,5,22 299
+Citroën C5 Aircross,Citroën,Blanc Nacré,Diesel,Automatique,2021,79175,4.9,142,5,22 699
+Dacia Duster,Dacia,,Diesel,Manuelle,2021,40202,,,,18 699
+Peugeot 5008,Peugeot,Gris Artense,Essence,Automatique,2023,4648,6,149,5,28 999
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2016,109540,4.8,110,5,9 999
+Citroën C4,Citroën,Gris Platinium,Essence,Manuelle,2023,9675,5,119,5,19 999
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Automatique,2020,44498,4.6,106,5,18 499
+Toyota C-HR,Toyota,,Hybride essence,Automatique,2022,20741,,,,26 799
+Citroën C3 Aircross,Citroën,Gris Platinium,Essence,Manuelle,2021,37418,5.8,136,5,16 499
+Peugeot 208,Peugeot,Gris Aluminium,Essence,Manuelle,2017,53050,4.5,104,5,11 499
+Peugeot 3008,Peugeot,Blanc Banquise,Essence,Manuelle,2020,22710,6,113,5,20 074
+Peugeot 308,Peugeot,Blanc Nacré,Essence,Automatique,2019,37408,5.1,117,5,17 999
+Citroën C3,Citroën,Blanc Banquise / Rouge Aden,Essence,Automatique,2021,38461,4,133,5,15 499
+Renault Captur,Renault,Noir étoilé,Essence,Manuelle,2022,17155,5.9,130,5,16 799
+Dacia Duster,Dacia,Beige Dune,Diesel,Manuelle,2021,17782,4.9,132,5,19 499
+Renault Clio 5,Renault,Gris Platine,Essence,Manuelle,2022,11454,5.2,119,5,17 199
+Citroën C5 Aircross,Citroën,Blanc Nacré,Diesel,Manuelle,2021,31560,4.2,130,5,22 999
+Peugeot 5008,Peugeot,Gris Platinium,Diesel,Automatique,2020,44600,5,140,5,28 999
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2015,113122,4.4,108,5,9 999
+Citroën C4,Citroën,Gris Acier,Essence,Automatique,2022,28355,5,130,5,19 999
+Peugeot 2008,Peugeot,Spirit Grey,Essence,Manuelle,2016,123717,4.4,103,5,9 999
+Toyota C-HR,Toyota,,Hybride essence,Automatique,2022,20641,,,,27 599
+Renault Mégane 4,Renault,Gris Titanium,Essence,Automatique,2022,35682,5.9,134,5,18 599
+Peugeot 308,Peugeot,Gris Artense,Essence,Manuelle,2019,43743,4.6,108,5,18 499
+Renault Captur,Renault,Gris Highland / Toit Noir Etoilé,Essence,Manuelle,2022,13885,5.9,130,5,16 999
+Dacia Duster,Dacia,Black,Diesel,Manuelle,2023,12956,4.8,127,5,19 699
+Citroën C4,Citroën,Bleu Iceland,Electrique,Automatique,2021,19929,0.0,0,5,22 899
+Peugeot 2008,Peugeot,Rouge Tourmaline,Essence,Manuelle,2015,91037,4.8,110,5,10 199
+Citroën C5 Aircross,Citroën,Gris Platinium,Diesel,Automatique,2020,72724,4.1,102,5,22 499
+Renault Kadjar,Renault,Noir Etoile,Essence,Automatique,2019,44600,5.8,133,5,19 799
+Toyota C-HR,Toyota,Blanc Nacré Perle,Hybride essence,Automatique,2022,11,5.2,119,5,27 999
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Automatique,2020,75491,5.9,152,5,20 499
+Citroën C5 Aircross,Citroën,Blanc Banquise,Essence,Manuelle,2019,23244,5.3,118,5,21 999
+Citroën C3,Citroën,Gris Acier / Noir Onyx,Diesel,Manuelle,2022,14650,4,112,5,15 499
+Renault Clio 5,Renault,Bleu Iron,Essence,Manuelle,2022,15769,5.2,119,5,17 199
+Citroën C5 Aircross,Citroën,Noir Perla Nera,Essence,Manuelle,2020,39593,5,149,5,22 499
+Citroën C4,Citroën,Bleu Olbia,Electrique,Automatique,2022,10317,0.0,0,5,24 499
+Peugeot 5008,Peugeot,Gris Artense,Essence,Automatique,2023,2322,6,150,5,31 499
+Peugeot 5008,Peugeot,Gris Platinium,Diesel,Automatique,2019,49132,6.3,124,5,28 999
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Manuelle,2020,12735,5,131,5,18 699
+Toyota C-HR,Toyota,Gris Célestine,Hybride essence,Automatique,2020,42595,3.8,110,5,23 299
+Citroën C3,Citroën,Gris Platinium,Essence,Manuelle,2020,28200,5,99,5,15 599
+Renault Captur,Renault,,Essence,Manuelle,2022,33562,,,,17 299
+Citroën C4,Citroën,Blanc Banquise,Essence,Automatique,2021,26069,5.8,130,5,20 999
+Peugeot 308,Peugeot,Gris Artense,Essence,Automatique,2020,37130,4,133,5,18 499
+Peugeot 308,Peugeot,Rouge Ultimate,Essence,Automatique,2021,41084,5.8,135,5,18 799
+Peugeot 5008,Peugeot,Blue,Diesel,Automatique,2023,21056,5.7,147,5,31 999
+Citroën C4,Citroën,Bleu Iceland,Essence,Automatique,2022,17481,5,130,5,20 999
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,33645,5,118,5,20 499
+Peugeot 3008,Peugeot,,Diesel,Manuelle,2018,74133,,,,20 699
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,55423,4,106,5,11 999
+Citroën C3 Aircross,Citroën,,Essence,Manuelle,2020,44425,,,,15 999
+Peugeot 3008,Peugeot,Gris Amazonite,Essence,Automatique,2020,41600,6,151,5,20 999
+Citroën C3,Citroën,Gris Platinium,Essence,Automatique,2018,50821,4,110,5,15 499
+Peugeot 2008,Peugeot,Gris,Essence,Manuelle,2016,77760,4.4,103,5,10 499
+Dacia Sandero,Dacia,Gris Comète,Diesel,Manuelle,2018,57470,3.8,98,5,13 799
+Peugeot 208,Peugeot,Rouge Elixir,Essence,Manuelle,2019,43103,4.7,108,5,11 999
+Dacia Duster,Dacia,GREY,Diesel,Manuelle,2023,14485,4.8,127,5,19 699
+Renault Kadjar,Renault,Noir Etoile,Diesel,Manuelle,2019,58540,5,115,5,17 299
+Peugeot 5008,Peugeot,Blanc Nacré,Diesel,Automatique,2023,6210,5,147,5,32 499
+Renault Clio 5,Renault,Blanc Quartz,Essence,Manuelle,2021,14377,5.2,119,5,17 299
+Peugeot 3008,Peugeot,Gris Amazonite/Noir Perla Nera,Essence,Automatique,2019,38600,4.9,109,5,20 799
+Toyota C-HR,Toyota,Noir Intense,Hybride essence,Automatique,2020,52075,5.2,92,5,23 999
+Renault Captur,Renault,Bleu Iron / Toit noir Etoilé,Essence,Manuelle,2019,57711,6.3,128,5,16 999
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Automatique,2020,38980,4,151,5,20 999
+Citroën C3,Citroën,,Diesel,Manuelle,2022,24878,,,,15 799
+Renault Captur,Renault,,Essence,Manuelle,2022,24375,,,,18 399
+Renault Clio 5,Renault,,Diesel,Manuelle,2022,30783,,,,17 799
+Citroën C4,Citroën,Noir Perla Nera,Essence,Automatique,2023,7388,5.8,130,5,27 999
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2017,70100,4.9,114,5,10 799
+Dacia Duster,Dacia,Orange,Diesel,Manuelle,2023,13425,4.8,127,5,19 699
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2023,10065,5.6,147,5,32 399
+Citroën C4,Citroën,Gris Acier,Essence,Automatique,2022,25347,5,136,5,21 499
+Toyota C-HR,Toyota,Gris Platinium,Hybride essence,Automatique,2021,42410,5.2,119,5,23 999
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Manuelle,2021,35095,5.5,130,5,18 999
+Citroën C3 Aircross,Citroën,Bleu,Essence,Manuelle,2020,33012,4.2,104,5,16 099
+Citroën C3,Citroën,Blanc Banquise / Rouge Aden,Essence,Automatique,2021,36103,4,133,5,15 799
+Peugeot 5008,Peugeot,Rouge Ultimate,Diesel,Automatique,2022,69702,5.3,140,5,30 999
+Renault Captur,Renault,,Essence,Manuelle,2022,16264,,,,18 499
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2018,26337,4.9,127,5,21 299
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,10897,4.7,108,5,12 299
+Citroën C3,Citroën,Gris Platinium / Toit Noir Onyx,Essence,Automatique,2021,62731,5.9,105,5,15 999
+Renault Kadjar,Renault,Gris Titanium,Diesel,Automatique,2019,85001,4.9,113,5,17 499
+Peugeot 5008,Peugeot,Bleu Celebes,Diesel,Automatique,2022,29455,5,139,5,32 499
+Citroën C4,Citroën,Blanc Banquise,Essence,Automatique,2021,40896,5.9,130,5,22 199
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2017,81802,4.4,103,5,10 999
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Automatique,2020,38697,4,151,5,21 299
+Citroën C3,Citroën,Blanc Banquise / Noir Onyx,Essence,Automatique,2020,32446,4,133,5,15 799
+Renault Captur,Renault,,Essence,Manuelle,2022,21173,,,,18 499
+Renault Clio 5,Renault,Noir Etoile,Essence,Manuelle,2022,17080,5.2,119,5,17 799
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,35804,4.7,108,5,12 299
+Peugeot 5008,Peugeot,Gris Platinium,Diesel,Automatique,2023,2492,5,147,5,32 999
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2015,63529,4.4,108,5,10 999
+Citroën C3,Citroën,Blanc Banquise / Rouge Aden,Essence,Automatique,2019,31836,4,133,5,15 799
+Renault Captur,Renault,Gris Highland / Toit Noir Etoilé,Essence,Automatique,2020,52412,6,146,5,18 999
+Renault Clio 5,Renault,Bleu Iron,Hybride essence,Automatique,2021,27000,4.3,100,5,18 799
+Peugeot 208,Peugeot,Gris Shark,Essence,Manuelle,2017,45737,4.5,104,5,12 299
+Peugeot 308,Peugeot,Gris Artense,Essence,Automatique,2020,69411,4.6,135,5,19 599
+Citroën C5 Aircross,Citroën,,Diesel,Automatique,2020,47947,,,,25 499
+Peugeot 5008,Peugeot,Bleu Celebes,Diesel,Automatique,2023,2414,5,147,5,32 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Diesel,Automatique,2020,45652,4.9,140,5,25 499
+Renault Captur,Renault,Bleu Celadon / Toit Noir Etoilé,Diesel,Manuelle,2020,56673,4,129,5,18 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2018,104989,4.4,112,5,11 299
+Citroën C3,Citroën,Gris Acier/Toit Noir Onyx,Diesel,Manuelle,2022,13712,4,111,5,15 999
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2018,76278,4.5,104,5,12 299
+Renault Clio 5,Renault,Gris Platine,Hybride essence,Automatique,2022,23891,4,94,5,18 899
+Peugeot 308,Peugeot,,Essence,Manuelle,2021,26438,,,,21 099
+Peugeot 308,Peugeot,Gris Artense,Diesel,Manuelle,2021,6353,4.6,124,5,21 499
+Peugeot 5008,Peugeot,Bleu Celebes,Diesel,Automatique,2023,2272,5,147,5,32 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Essence,Automatique,2023,3674,6.5,150,5,26 399
+Renault Clio 5,Renault,Gris Platine,Diesel,Manuelle,2019,40214,3.6,95,5,18 599
+Peugeot 208,Peugeot,Gris Hurricane,Essence,Manuelle,2019,34580,4.7,108,5,12 299
+Peugeot 3008,Peugeot,Gris,Essence,Automatique,2017,48040,4.7,127,5,21 199
+Peugeot 3008,Peugeot,Gris Amazonite,Diesel,Manuelle,2019,44776,4.1,111,5,22 299
+Renault Captur,Renault,Gris Cassiopée,Essence,Manuelle,2023,14932,5.9,131,5,19 199
+Citroën C5 Aircross,Citroën,Gris Platinium,Diesel,Manuelle,2021,50720,4.9,130,5,24 299
+Renault Clio 5,Renault,,Hybride essence,Automatique,2021,34566,,,,18 899
+Peugeot 308,Peugeot,Gris Artense,Diesel,Manuelle,2021,26383,4.6,121,5,20 799
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2023,1218,5,147,5,32 999
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2017,33805,4.5,104,5,12 499
+Citroën C5 Aircross,Citroën,Blanc Nacré,Essence,Automatique,2023,3097,6,149,5,26 999
+Citroën C4,Citroën,Gris Acier,Essence,Automatique,2023,14162,5.8,130,5,24 399
+Citroën C4,Citroën,Gris Aluminium,Diesel,Manuelle,2015,106815,4.2,106,5,10 199
+Peugeot 3008,Peugeot,Blanc Nacré,Diesel,Manuelle,2019,45515,5.2,106,5,21 499
+Citroën C3,Citroën,Blanc Banquise / Rouge Aden,Essence,Automatique,2021,22679,4,133,5,15 999
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2016,79134,4.4,103,5,11 499
+Citroën C5 Aircross,Citroën,Gris Acier,Diesel,Automatique,2021,48249,N/A,140,5,25 999
+Renault Captur,Renault,Gris Highland,Essence,Manuelle,2023,21624,5.9,131,5,19 199
+Peugeot 308,Peugeot,,Essence,Manuelle,2021,24821,,,,21 699
+Renault Clio 5,Renault,Gris Platine,Hybride essence,Automatique,2021,15517,4,98,5,18 999
+Dacia Sandero,Dacia,Bleu Cosmos,Essence,Automatique,2017,50660,5,114,5,13 799
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2023,2590,5,147,5,32 999
+Citroën C5 Aircross,Citroën,Bleu Eclipse,Essence,Automatique,2023,2303,6,149,5,26 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,34568,4.7,108,5,12 499
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Manuelle,2020,44329,6.4,113,5,21 999
+Citroën C3 Aircross,Citroën,,Essence,Automatique,2020,62114,,,,17 499
+Renault Captur,Renault,,Essence,Manuelle,2021,44442,,,,19 199
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Manuelle,2017,90230,4.4,103,5,12 399
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2018,28181,4.5,104,5,12 499
+Renault Clio 5,Renault,Gris Platine,Hybride essence,Automatique,2022,20071,4,94,5,18 999
+Citroën C4,Citroën,,Essence,Automatique,2022,11703,,,,25 099
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2017,131932,4.8,110,5,11 299
+Peugeot 5008,Peugeot,Gris Platinium,Diesel,Automatique,2023,2714,5,147,5,32 999
+Citroën C3 Aircross,Citroën,,Diesel,Automatique,2019,47560,,,,16 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Essence,Automatique,2023,2659,6,149,5,26 999
+Citroën C3,Citroën,Blanc Banquise/Toit Rouge Aden,Essence,Automatique,2021,34785,5,133,5,15 999
+Peugeot 3008,Peugeot,Rouge Ultimate / Noir Perla Nera,Essence,Automatique,2020,61415,6,152,5,22 499
+Renault Captur,Renault,Bleu Iron / Toit noir Etoilé,Essence,Automatique,2020,24144,6,145,5,20 499
+Renault Clio 5,Renault,Blanc Glacier,Diesel,Manuelle,2023,14015,4,109,5,18 999
+Citroën C5 Aircross,Citroën,Bleu Eclipse,Essence,Automatique,2023,2407,6,149,5,26 999
+Peugeot 308,Peugeot,Gris Artense,Essence,Automatique,2021,19305,5.8,138,5,23 299
+Citroën C3,Citroën,Gris Acier / Toit Noir,Essence,Manuelle,2022,12386,5.8,123,5,16 299
+Renault Captur,Renault,Gris Cassiopée / Toit Noir Etoilé,Hybride essence,Automatique,2021,49525,5.8,134,5,20 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Automatique,2017,93353,4.8,110,5,12 099
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2023,2568,5,147,5,32 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Essence,Automatique,2023,2438,6,149,5,26 999
+Nissan Qashqai,Nissan,,Essence,Automatique,2020,37667,,,,20 999
+Citroën C4,Citroën,Bleu Iceland,Essence,Automatique,2022,18584,5,130,5,20 999
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2019,37444,4,106,5,12 499
+Citroën C3,Citroën,Gris Acier/Toit Noir Onyx,Essence,Automatique,2021,60336,5.9,135,5,16 499
+Peugeot 3008,Peugeot,Braun,Essence,Automatique,2020,58825,6.8,152,5,22 999
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2018,46415,4.5,104,5,12 499
+Renault Captur,Renault,GREY,Essence,Manuelle,2023,11166,5.9,131,5,20 699
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2017,67875,4.4,103,5,11 499
+Peugeot 308,Peugeot,Green,Essence,Automatique,2022,27098,5.8,128,5,24 699
+Citroën C3 Aircross,Citroën,Rouge Pepper,Essence,Automatique,2020,24135,5,143,5,18 999
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2023,2347,5,147,5,32 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Essence,Automatique,2023,2593,6,149,5,26 999
+Citroën C4,Citroën,Gris Platinium,Essence,Automatique,2022,13071,5,130,5,21 999
+Peugeot 208,Peugeot,Blanc Perle,Essence,Manuelle,2019,74258,4.5,106,5,12 499
+Peugeot 208,Peugeot,Gris Aluminium,Essence,Manuelle,2018,60568,4.3,99,5,12 499
+Citroën C3,Citroën,Blanc Banquise/Toit Noir Onyx,Essence,Automatique,2021,16554,5,133,5,16 499
+Peugeot 3008,Peugeot,Noir Perla Nera (M),Essence,Manuelle,2021,57368,6.2,141,5,23 399
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,82354,5.1,112,5,11 999
+Renault Captur,Renault,Blanc Albatre / Toit Noir Etoilé,Essence,Automatique,2020,14489,6.2,125,5,20 999
+Renault Clio 5,Renault,Bleu Iron,Essence,Manuelle,2023,580,5,118,5,19 499
+Peugeot 308,Peugeot,AZUL,Essence,Manuelle,2022,6254,5.6,127,5,24 699
+Peugeot 5008,Peugeot,Gris Platinium,Diesel,Automatique,2023,2247,5.6,147,5,33 299
+Citroën C5 Aircross,Citroën,Blanc Nacré,Essence,Automatique,2023,1365,6.5,150,5,27 399
+Nissan Qashqai,Nissan,Gris Squale,Hybride essence,Automatique,2022,32649,6,142,5,25 723
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2018,44367,4,104,5,12 499
+Citroën C3,Citroën,Blanc Banquise/Toit Noir Onyx,Essence,Automatique,2021,29779,5,133,5,16 499
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2017,63258,4.4,103,5,11 899
+Peugeot 3008,Peugeot,Gris Platinium,Essence,Manuelle,2022,23216,6,139,5,23 499
+Renault Captur,Renault,,Hybride essence,Automatique,2022,40897,,,,20 999
+Renault Clio 5,Renault,Rouge Flamme,Essence,Manuelle,2023,310,5.1,118,5,19 399
+Peugeot 208,Peugeot,Blanc Banquise,Essence,Manuelle,2018,30245,4.7,108,5,12 499
+Peugeot 308,Peugeot,Blanc Nacré,Diesel,Automatique,2021,37205,4.9,125,5,25 799
+Peugeot 308,Peugeot,,Essence,Automatique,2022,33306,,,,24 999
+Peugeot 5008,Peugeot,Gris Platinium / Noir Perla Nera,Diesel,Automatique,2022,28380,5,141,5,33 499
+Citroën C5 Aircross,Citroën,Noir Perla,Hybride essence rechargeable,Auto...,2021,23352,1.5,32,5,28 599
+Citroën C3,Citroën,Noir Perla Nera/toit Blanc Opale,Diesel,Manuelle,2022,7884,4,112,5,17 299
+Renault Captur,Renault,Noir Etoilé / Toit Gris Highland,Hybride essence,Automatique,2022,21647,4,110,5,21 499
+Peugeot 3008,Peugeot,,Diesel,Automatique,2018,65684,,,,24 999
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2023,14472,5.6,147,5,33 399
+Peugeot 208,Peugeot,Blanc Perle,Essence,Manuelle,2016,74020,4.3,99,5,12 599
+Citroën C5 Aircross,Citroën,Blanc Banquise,Essence,Automatique,2023,30,6,148,5,28 599
+Citroën C3,Citroën,Gris Acier/Toit Noir Onyx,Diesel,Manuelle,2022,4608,4,112,5,17 499
+Peugeot 3008,Peugeot,Bleu Vertigo,Diesel,Automatique,2021,44050,5,143,5,24 999
+Renault Captur,Renault,Gris Cassiopée / Toit Noir Etoilé,Hybride essence,Automatique,2022,21835,4.8,105,5,21 499
+Peugeot 308,Peugeot,,Essence,Automatique,2023,16477,,,,25 999
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2023,752,5,147,5,34 499
+Peugeot 208,Peugeot,Rouge Elixir,Essence,Manuelle,2018,31037,4.5,104,5,12 599
+Citroën C3,Citroën,Gris Platinium/toit Noir Onyx,Diesel,Manuelle,2022,4934,4,112,5,17 499
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2017,66559,4,103,5,11 699
+Peugeot 3008,Peugeot,Gris Platinium,Essence,Manuelle,2021,10776,6.1,141,5,24 999
+Peugeot 308,Peugeot,,Essence,Automatique,2022,33310,,,,26 399
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,41713,4.7,108,5,12 699
+Peugeot 5008,Peugeot,,Diesel,Automatique,2023,7840,,,,35 082
+Citroën C5 Aircross,Citroën,Gris Artense,Diesel,Automatique,2023,4321,5.6,136,5,28 899
+Citroën C3,Citroën,Noir Perla Nera/toit Blanc Opale,Diesel,Manuelle,2022,9196,4,112,5,17 499
+Renault Captur,Renault,Gris Highland,Hybride essence,Automatique,2022,17997,5,108,5,21 799
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2017,92352,4.8,110,5,11 999
+Peugeot 308,Peugeot,,Essence,Automatique,2022,40935,,,,26 399
+Peugeot 208,Peugeot,Orange Power,Essence,Manuelle,2017,57924,4.3,99,5,12 699
+Peugeot 5008,Peugeot,,Diesel,Automatique,2023,7132,,,,36 199
+Citroën C5 Aircross,Citroën,Bleu Eclipse,Diesel,Automatique,2023,3588,5,145,5,29 499
+Citroën C3 Aircross,Citroën,Gris Acier,Essence,Manuelle,2018,87435,5,115,5,11 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2017,85912,4.8,110,5,12 499
+Citroën C3,Citroën,Gris Platinium/toit Noir Onyx,Diesel,Manuelle,2022,961,4,112,5,17 799
+Peugeot 3008,Peugeot,Gris Artense / Noir Perla Nera,Essence,Manuelle,2022,18851,6,139,5,24 999
+Peugeot 2008,Peugeot,Emerald Crystal,Essence,Manuelle,2018,64487,5,112,5,12 199
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2018,57190,5,112,5,12 499
+Citroën C5 Aircross,Citroën,Gris Platinium,Hybride essence rechargeable,Auto...,2021,41200,1.4,32,5,29 799
+Citroën C3 Aircross,Citroën,Gris Artense,Diesel,Manuelle,2023,7186,4.8,128,5,20 399
+Peugeot 308,Peugeot,Gris Artense,Diesel,Automatique,2023,3023,4,130,5,27 499
+Citroën C5 Aircross,Citroën,Gris Platinium,Diesel,Automatique,2023,250,5.5,145,5,29 899
+Dacia Duster,Dacia,Brun Vison,Diesel,Manuelle,2020,40236,4,129,5,16 999
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2019,54760,5,112,5,12 699
+Citroën C3,Citroën,Blanc banquise / toit rouge,Essence,Automatique,2022,18706,4.7,134,5,17 899
+Peugeot 3008,Peugeot,Bleu Célèbes / Noir Perla Nera,Essence,Manuelle,2022,17833,6,139,5,24 999
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2017,70048,4,114,5,11 999
+Renault Captur,Renault,Gris Cassiopée / Toit Noir Etoilé,Hybride essence,Automatique,2022,17611,4.7,100,5,21 799
+Peugeot 308,Peugeot,Gris Artense,Diesel,Automatique,2023,2139,4,130,5,27 499
+Citroën C5 Aircross,Citroën,Noir Perla Nera,Diesel,Automatique,2023,2900,5.5,145,5,29 899
+Dacia Duster,Dacia,Bleu Iron,Diesel,Manuelle,2020,38653,4,129,5,16 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2018,49465,4.9,114,5,12 299
+Peugeot 3008,Peugeot,Bleu Celebes,Diesel,Automatique,2022,49555,5.1,135,5,25 999
+Renault Captur,Renault,Gris Cassiopée / Toit Gris Highland,Hybride essence,Automatique,2022,19599,4,110,5,21 799
+Citroën C3 Aircross,Citroën,Noir Perla Nera,Essence,Automatique,2023,4957,6.1,144,5,21 699
+Peugeot 308,Peugeot,Gris Artense,Diesel,Automatique,2023,3652,4,130,5,27 499
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2018,30650,N/A,99,5,12 999
+Peugeot 308,Peugeot,Noir Perla Nera,Hybride essence,Automatique,2022,42066,1,27,5,28 899
+Citroën C5 Aircross,Citroën,Gris Acier,Diesel,Automatique,2023,5744,5,145,5,29 999
+Peugeot 5008,Peugeot,Blanc Nacré/Toit Noir,Diesel,Automatique,2021,20820,5.3,143,5,32 999
+Citroën C3,Citroën,Gris Platinium / Toit Rouge,Essence,Automatique,2022,7891,4.7,123,5,19 299
+Peugeot 3008,Peugeot,Bleu Celebes,Diesel,Automatique,2022,15,5,142,5,26 999
+Renault Captur,Renault,Bleu Iron / Toit Gris Highland,Hybride essence,Automatique,2022,13434,4,110,5,21 999
+Peugeot 208,Peugeot,Blanc Perle,Essence,Manuelle,2019,31355,4,108,5,12 999
+Citroën C3 Aircross,Citroën,,Essence,Automatique,2023,10562,,,,21 799
+Peugeot 308,Peugeot,Gris Artense,Diesel,Automatique,2023,10540,4,130,5,27 399
+Peugeot 208,Peugeot,Gris Shark,Essence,Manuelle,2017,50120,4.3,99,5,12 999
+Peugeot 2008,Peugeot,"Gris ""Spirit Grey""",Essence,Manuelle,2016,59977,4.8,110,5,12 799
+Peugeot 308,Peugeot,Gris Artense,Diesel,Automatique,2023,10540,4,130,5,27 399
+Peugeot 208,Peugeot,Gris Shark,Essence,Manuelle,2017,50120,4.3,99,5,12 999
+Peugeot 2008,Peugeot,"Gris ""Spirit Grey""",Essence,Manuelle,2016,59977,4.8,110,5,12 799
+Peugeot 3008,Peugeot,,Essence,Automatique,2022,32313,,,,26 599
+Citroën C5 Aircross,Citroën,,Diesel,Automatique,2022,29180,,,,28 499
+Renault Captur,Renault,Gris Highland / Toit Noir Etoilé,Essence,Automatique,2020,27705,6,146,5,21 999
+Citroën C3 Aircross,Citroën,,Essence,Automatique,2023,15328,,,,22 099
+Peugeot 308,Peugeot,Gris Artense,Diesel,Automatique,2023,5291,4.9,130,5,27 499
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,54529,4.7,108,5,12 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2017,89043,4.4,103,5,11 999
+Peugeot 3008,Peugeot,Gris Artense (M),Essence,Manuelle,2022,7398,6.1,139,5,26 499
+Citroën C3 Aircross,Citroën,Rouge Pepper,Essence,Manuelle,2020,41902,N/A,141,5,15 199
+Renault Captur,Renault,Gris Highland / Toit Noir Etoilé,Hybride essence,Automatique,2022,8558,4,110,5,22 499
+Peugeot 308,Peugeot,Noir Perla Nera,Hybride essence rechargeable,Auto...,2022,18435,1,25,5,30 999
+Peugeot 2008,Peugeot,Gris Platinium,Diesel,Manuelle,2019,91105,3.5,86,5,12 999
+Peugeot 3008,Peugeot,Bleu Celebes,Hybride essence rechargeable,Auto...,2021,42126,1,32,5,27 499
+Renault Captur,Renault,Gris Cassiopée / Toit Noir,Hybride essence,Automatique,2021,35779,5,114,5,21 999
+Citroën C5 Aircross,Citroën,BLANCO NACARADO C3 CAPASE,Diesel,Automatique,2023,10000,5.6,137,5,31 899
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2023,4940,6,145,5,27 799
+Citroën C5 Aircross,Citroën,,Hybride essence rechargeable,Auto...,2022,11681,,,,31 699
+Renault Clio 5,Renault,Blanc Glacier,Hybride essence,Automatique,2021,22815,4.3,99,5,19 599
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2018,11949,4.7,108,5,13 799
+Citroën C5 Aircross,Citroën,Noir Perla Nera,Hybride essence rechargeable,Auto...,2023,2849,1.3,30,5,32 399
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Automatique,2017,71826,4.8,110,5,13 799
+Peugeot 3008,Peugeot,Gris Platinium,Essence,Automatique,2023,5552,6,145,5,27 799
+Renault Captur,Renault,Gris Cassiopée / Toit Noir Etoilé,Hybride essence,Automatique,2022,13075,4.7,100,5,22 299
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Automatique,2016,64513,4.8,110,5,12 999
+Citroën C5 Aircross,Citroën,Noir Perla Nera,Hybride essence rechargeable,Auto...,2023,4546,1,39,5,34 799
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2018,42290,4,106,5,14 199
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Automatique,2023,7068,6,145,5,27 799
+Renault Captur,Renault,Noir Etoile,Hybride essence rechargeable,Auto...,2021,25290,1.3,32,5,22 899
+Peugeot 2008,Peugeot,Blanc Banquise,Diesel,Manuelle,2017,100802,3.7,97,5,12 999
+Peugeot 308,Peugeot,Noir Perla,Hybride essence rechargeable,Auto...,2022,618,1.1,25,5,32 299
+Citroën C5 Aircross,Citroën,Blanc Nacré,Hybride essence rechargeable,Auto...,2023,3450,1,39,5,34 899
+Citroën C3 Aircross,Citroën,Noir Perla Nera,Diesel,Manuelle,2023,5692,4.8,128,5,20 399
+Peugeot 208,Peugeot,,Essence,Manuelle,2021,55365,,,,14 699
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Automatique,2023,7080,6,145,5,27 799
+Peugeot 2008,Peugeot,Gris Platinium,Diesel,Manuelle,2018,101994,4,97,5,11 999
+Renault Captur,Renault,Bleu Iron / Toit Blanc Albatre,Hybride essence,Automatique,2021,41035,5,114,5,22 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Hybride essence rechargeable,Auto...,2023,3942,1,39,5,34 899
+Peugeot 208,Peugeot,Jaune Faro,Essence,Manuelle,2020,52100,5.3,123,5,13 999
+Renault Captur,Renault,Noir Etoilé / Toit Gris Highland,Hybride essence,Automatique,2021,41016,5,135,5,23 299
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2023,7300,6,145,5,27 799
+Citroën C5 Aircross,Citroën,Noir Perla Nera,Hybride essence rechargeable,Auto...,2023,3547,1,39,5,34 899
+Peugeot 2008,Peugeot,Gris Platinium,Diesel,Manuelle,2019,69945,3.5,86,5,13 799
+Peugeot 208,Peugeot,Jaune Faro,Essence,Manuelle,2020,59194,5.3,93,5,14 699
+Peugeot 3008,Peugeot,Bleu Celebes,Essence,Automatique,2023,2394,6,145,5,27 999
+Renault Captur,Renault,Gris Cassiopée / Toit Noir,Hybride essence rechargeable,Auto...,2022,500,1.3,31,5,29 399
+Peugeot 308,Peugeot,,Hybride essence rechargeable,Auto...,2022,6943,,,,32 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Hybride essence rechargeable,Auto...,2023,2790,1.3,39,5,34 999
+Peugeot 3008,Peugeot,Bleu Celebes,Diesel,Automatique,2023,12057,5,142,5,28 299
+Peugeot 308,Peugeot,Noir Perla Nera,Hybride essence rechargeable,Auto...,2022,6000,1.1,25,5,33 099
+Citroën C5 Aircross,Citroën,Gris Acier,Hybride essence rechargeable,Auto...,2023,2816,1,39,5,34 999
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Automatique,2023,3322,6,145,5,27 999
+Peugeot 308,Peugeot,Vert Olivine,Hybride essence rechargeable,Auto...,2022,15810,1,27,5,33 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Automatique,2019,56835,4.9,114,5,15 299
+Citroën C5 Aircross,Citroën,Gris Platinium,Hybride essence rechargeable,Auto...,2023,1570,1,29,5,34 999
+Peugeot 3008,Peugeot,Gris Platinium,Essence,Automatique,2023,2577,6,145,5,27 999
+Peugeot 308,Peugeot,Vert Olivine,Hybride essence rechargeable,Auto...,2022,14490,1.2,27,5,33 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Hybride essence rechargeable,Auto...,2023,1520,1.3,29,5,34 999
+Peugeot 208,Peugeot,Blanc Banquise,Essence,Manuelle,2020,55430,N/A,124,5,14 999
+Peugeot 3008,Peugeot,Gris Platinium,Essence,Automatique,2023,2502,6,145,5,27 999
+Renault Clio 5,Renault,Gris Platine,Essence,Manuelle,2020,41173,5.4,112,5,13 399
+Peugeot 3008,Peugeot,Gris Platinium,Essence,Automatique,2023,2673,6,145,5,27 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Automatique,2019,23092,4,114,5,15 499
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2023,3542,6,145,5,27 999
+Renault Clio 5,Renault,Gris Platine,Essence,Manuelle,2021,22975,5.2,118,5,14 699
+Renault Clio 5,Renault,Gris Platine,Hybride essence,Automatique,2021,37961,4.3,99,5,19 999
+Citroën C3,Citroën,Almond Green,Essence,Manuelle,2017,116782,4.7,109,5,9 999
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Automatique,2016,79095,4.8,110,5,13 799
+Renault Clio 5,Renault,Blanc Glacier,Essence,Manuelle,2022,18000,5,118,5,14 599
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2020,37755,5,123,5,15 599
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2023,2640,6,145,5,27 999
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Manuelle,2017,42651,4.4,103,5,13 799
+Peugeot 2008,Peugeot,Rouge,Essence,Automatique,2017,105818,4.1,110,5,14 199
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2023,3690,6,145,5,27 999
+Citroën C3,Citroën,,Essence,Manuelle,2019,52720,,,,12 499
+Peugeot 2008,Peugeot,Emerald Crystal,Essence,Manuelle,2018,72886,4.4,103,5,13 999
+Renault Clio 5,Renault,Blanc Glacier,Essence,Manuelle,2022,13639,5.2,118,5,14 799
+Citroën C5 Aircross,Citroën,Blanc Nacré,Essence,Automatique,2023,3040,6,149,5,26 899
+Peugeot 2008,Peugeot,Blanc Nacré,Diesel,Manuelle,2018,71363,3.3,97,5,14 099
+Peugeot 208,Peugeot,Jaune Faro,Essence,Manuelle,2020,36721,5.2,124,5,15 899
+Peugeot 3008,Peugeot,Bleu Celebes,Hybride essence rechargeable,Auto...,2021,35870,1.3,31,5,28 499
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2019,68424,5.1,112,5,13 999
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,76110,5.1,112,5,14 299
+Renault Clio 5,Renault,Noir Etoile,Essence,Manuelle,2021,42553,5.2,118,5,15 299
+Citroën C5 Aircross,Citroën,Blanc Nacré,Essence,Automatique,2023,2765,6,149,5,26 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2020,25569,5.4,123,5,16 299
+Peugeot 208,Peugeot,Rouge Elixir,Essence,Manuelle,2019,11000,5.1,96,5,16 999
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Automatique,2017,78360,4.8,110,5,14 299
+Renault Clio 5,Renault,Noir Etoile,Essence,Manuelle,2022,11357,5.2,119,5,17 199
+Citroën C5 Aircross,Citroën,Gris Platinium,Diesel,Automatique,2023,7537,5,145,5,27 499
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,30704,5,96,5,16 299
+Peugeot 3008,Peugeot,Gris Platinium,Essence,Automatique,2023,1482,6,145,5,28 499
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2019,43721,4.1,106,5,11 199
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Automatique,2019,72430,5.5,110,5,14 499
+Renault Clio 5,Renault,Bleu Iron,Essence,Manuelle,2022,6689,5.2,119,5,17 399
+Citroën C5 Aircross,Citroën,Gris Acier,Diesel,Automatique,2023,8195,5,145,5,27 499
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Manuelle,2017,63446,4,105,5,12 999
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2023,1871,6,145,5,28 499
+Peugeot 208,Peugeot,,Essence,Automatique,2019,22182,,,,17 299
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2018,78147,5.1,110,5,13 999
+Peugeot 5008,Peugeot,Noir Perla Nera,Essence,Automatique,2020,42500,6,155,5,25 499
+Peugeot 2008,Peugeot,Gris Artense,Essence,Automatique,2018,67325,4.8,110,5,14 499
+Citroën C5 Aircross,Citroën,Gris Platinium,Hybride essence rechargeable,Auto...,2023,2491,1.3,30,5,32 399
+Peugeot 208,Peugeot,Rouge Elixir,Essence,Manuelle,2019,54823,5.3,96,5,16 499
+Peugeot 3008,Peugeot,Bleu Celebes,Essence,Automatique,2023,1938,6,145,5,28 499
+Renault Captur,Renault,Bleu Océan / Toit Noir Etoilé,Diesel,Manuelle,2019,50155,4,111,5,13 999
+Peugeot 5008,Peugeot,Blanc Nacré / Toit Noir,Diesel,Manuelle,2021,31052,5,135,5,26 999
+Citroën C3,Citroën,Rouge Rubi,Essence,Manuelle,2020,78890,N/A,128,5,10 999
+Peugeot 208,Peugeot,,Essence,Automatique,2020,31099,,,,16 799
+Peugeot 3008,Peugeot,Gris Platinium,Hybride essence rechargeable,Auto...,2020,27500,1,29,5,28 999
+Renault Captur,Renault,Gris Highland / Toit Noir Etoilé,Essence,Automatique,2020,85000,6.2,146,5,17 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2018,73600,5,112,5,13 999
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2019,20880,5.3,96,5,16 499
+Renault Captur,Renault,Gris Cassiopée,Essence,Manuelle,2021,25885,5.8,133,5,15 799
+Peugeot 5008,Peugeot,Noir Perla Nera,Essence,Automatique,2020,58380,6.9,157,5,27 599
+Peugeot 3008,Peugeot,Rouge Ultimate / Noir Perla Nera,Hybride essence rechargeable,Auto...,2021,33814,1,31,5,28 799
+Peugeot 208,Peugeot,Jaune Faro,Essence,Manuelle,2021,65618,5,120,5,16 799
+Peugeot 2008,Peugeot,Gris Artense,Essence,Automatique,2018,74730,4.8,110,5,14 299
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Automatique,2017,50294,4.8,110,5,14 799
+Peugeot 5008,Peugeot,Gris Platinium,Essence,Automatique,2023,3301,6,149,5,28 999
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Automatique,2022,9291,6.4,145,5,28 999
+Peugeot 3008,Peugeot,Bleu Célèbes / Noir Perla Nera,Hybride essence rechargeable,Auto...,2021,28605,1.3,31,5,28 999
+Citroën C3,Citroën,,Diesel,Manuelle,2022,24721,,,,15 799
+Renault Captur,Renault,Noir étoilé,Essence,Manuelle,2022,18200,5.9,130,5,16 799
+Peugeot 308,Peugeot,Gris Artense,Essence,Manuelle,2020,51948,4.6,130,5,15 999
+Peugeot 208,Peugeot,Blanc Banquise,Essence,Automatique,2020,20633,5.8,131,5,16 999
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2018,51120,4.4,1,5,14 999
+Peugeot 208,Peugeot,Jaune,Diesel,Manuelle,2021,21402,4,106,5,16 999
+Peugeot 2008,Peugeot,GRIGIO,Diesel,Manuelle,2019,73162,3.5,86,5,14 999
+Citroën C3,Citroën,Blanc Banquise/Toit Rouge Aden,Essence,Automatique,2021,6430,5,133,5,16 799
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Automatique,2020,35839,4.6,106,5,19 999
+Peugeot 2008,Peugeot,Gris Artense,Diesel,Manuelle,2018,99932,4,97,5,13 999
+Peugeot 5008,Peugeot,Blanc Nacré,Essence,Automatique,2023,2355,6,150,5,31 499
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Manuelle,2018,44682,5.1,110,5,15 199
+Peugeot 3008,Peugeot,Rouge Ultimate,Essence,Automatique,2023,1266,6,146,5,28 999
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Automatique,2019,71515,5.5,114,5,15 499
+Citroën C3,Citroën,Gris Acier/Toit Noir Onyx,Essence,Manuelle,2022,9635,5,123,5,17 999
+Renault Captur,Renault,Bleu Iron,Hybride essence,Manuelle,2021,30660,5,132,5,18 999
+Peugeot 5008,Peugeot,Blanc Nacré,Diesel,Automatique,2023,3920,5,147,5,32 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2020,34623,5.2,125,5,17 099
+Peugeot 2008,Peugeot,Gris Artense,Essence,Automatique,2018,40504,4.8,114,5,15 499
+Peugeot 3008,Peugeot,Blanc Nacré,Hybride essence rechargeable,Auto...,2021,74520,1.2,30,5,28 999
+Renault Captur,Renault,Gris Cassiopée,Hybride essence,Automatique,2022,29785,5,108,5,20 899
+Peugeot 308,Peugeot,Black,Essence,Automatique,2022,31507,5.8,128,5,24 699
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2018,41493,4.4,103,5,14 999
+Peugeot 5008,Peugeot,Gris Platinium,Diesel,Automatique,2023,2296,5,147,5,32 999
+Peugeot 3008,Peugeot,Bleu Célèbes / Noir Perla Nera,Hybride essence rechargeable,Auto...,2021,29715,1,31,5,28 999
+Peugeot 5008,Peugeot,Gris Platinium,Diesel,Automatique,2018,71635,4,101,5,24 799
+Renault Captur,Renault,Noir Etoilé / Toit Gris Highland,Hybride essence,Automatique,2022,28820,5,109,5,22 999
+Peugeot 308,Peugeot,,Essence,Automatique,2023,13447,,,,25 999
+Peugeot 208,Peugeot,Rouge Elixir,Essence,Manuelle,2019,44958,5.3,96,5,17 299
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2023,1541,5,147,5,33 299
+Peugeot 208,Peugeot,Gris Artense,Diesel,Manuelle,2022,23943,4,107,5,17 499
+Peugeot 3008,Peugeot,Bleu Celebes,Essence,Automatique,2023,3408,6.4,145,5,29 399
+Renault Captur,Renault,Noir Etoilé / Toit Gris Highland,Hybride essence rechargeable,Auto...,2021,22365,1,34,5,24 599
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Automatique,2019,50810,5.5,110,5,15 699
+Peugeot 5008,Peugeot,Bleu Celebes,Diesel,Automatique,2022,15009,6,142,5,34 899
+Peugeot 308,Peugeot,Bleu Vertigo,Hybride essence rechargeable,Auto...,2022,13222,1,26,5,33 299
+Peugeot 208,Peugeot,Blanc Nacré,Essence,Manuelle,2020,53037,5,126,5,17 499
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Manuelle,2018,26733,5.1,112,5,15 999
+Peugeot 3008,Peugeot,Red,Diesel,Automatique,2022,20428,5.2,136,5,29 999
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2023,13019,5,114,5,17 799
+Peugeot 3008,Peugeot,Noir Perla Nera,Essence,Automatique,2023,222,6,146,5,29 999
+Peugeot 3008,Peugeot,,Hybride essence rechargeable,Auto...,2021,39551,,,,29 999
+Peugeot 208,Peugeot,Blanc Banquise,Essence,Automatique,2021,30475,5.4,122,5,18 299
+Peugeot 3008,Peugeot,Red,Diesel,Automatique,2022,28961,5.2,136,5,29 799
+Peugeot 208,Peugeot,Blanc Nacré,Essence,Automatique,2020,23575,5,132,5,17 999
+Peugeot 208,Peugeot,Noir Perla Nera,Diesel,Manuelle,2021,23380,4,106,5,18 199
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2019,48235,5,112,5,16 499
+Peugeot 3008,Peugeot,Bleu Celebes,Hybride essence rechargeable,Auto...,2021,30150,1.3,31,5,29 999
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,61823,5.1,112,5,15 299
+Peugeot 208,Peugeot,Jaune,Diesel,Manuelle,2021,22387,4,106,5,18 199
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Automatique,2019,27606,5.5,114,5,16 699
+Peugeot 3008,Peugeot,GRIGIO,Hybride essence rechargeable,Auto...,2021,16355,1.4,33,5,29 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Automatique,2018,49969,4.8,110,5,16 299
+Audi A1,Audi,Bleu Firmament,Essence,Automatique,2022,10121,6.4,146,5,30 699
+Peugeot 308 SW,Peugeot,ROJO,Essence,Automatique,2022,1580,5.8,132,5,30 699
+Audi Q2,Audi,Noir Mythic,Essence,Automatique,2023,13855,6.1,138,5,30 699
+Tesla MODEL 3,Tesla,Blanc Nacré Multicouches,Electrique,Automatique,2021,28685,0.0,0,4,30 799
+Mitsubishi ECLIPSE CROSS,Mitsubishi,Gris,Hybride essence rechargeable,Auto...,2022,11931,2,46,5,30 799
+Cupra Formentor,Cupra,,Essence,Manuelle,2022,5,,,,30 799
+Audi Q2,Audi,Gris Daytona,Essence,Automatique,2023,12175,6,138,5,30 899
+BMW Série 1,BMW,Schwarz,Essence,Automatique,2021,19900,5.7,131,5,30 999
+Audi Q3,Audi,Noir Mythic,Diesel,Automatique,2019,82940,5.4,120,5,30 999
+Audi Q5,Audi,Noir Mythic,Diesel,Automatique,2019,103234,7.2,141,5,30 999
+Mercedes Classe A,Mercedes,,Diesel,Automatique,2021,43498,,,,30 999
+Citroën Jumpy,Citroën,Blanc,Diesel,Manuelle,2022,10,7.5,194,5,30 999
+Tesla MODEL 3,Tesla,Blanc Nacré Multicouches,Electrique,Automatique,2021,26886,0.0,0,4,30 999
+DS DS7 CROSSBACK,DS,Blanc Banquise,Essence,Automatique,2021,26918,5,157,5,30 999
+Toyota RAV 4,Toyota,Gris Atlas,Hybride essence,Automatique,2022,46551,N/A,126,5,30 999
+Peugeot 5008,Peugeot,Rouge Ultimate,Diesel,Automatique,2022,69702,5.3,140,5,30 999
+Peugeot 208,Peugeot,Blanc Banquise,Essence,Automatique,2022,14092,5.4,122,5,19 199
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Automatique,2020,29690,5.9,137,5,20 499
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2021,28562,5,123,5,17 699
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Automatique,2018,35341,4.8,110,5,15 999
+Peugeot 3008,Peugeot,Bleu Célèbes (M),Hybride essence rechargeable,Auto...,2022,10449,1.3,31,5,32 199
+Peugeot 208,Peugeot,Blanc Nacré,Essence,Manuelle,2022,9535,5.1,115,5,18 499
+Peugeot 208,Peugeot,,Essence,Automatique,2022,52687,,,,19 799
+Peugeot 2008,Peugeot,Blanc Nacré,Electrique,Automatique,2020,31665,0.0,0,5,19 999
+Peugeot 208,Peugeot,,Essence,Automatique,2022,55120,,,,19 799
+Peugeot 2008,Peugeot,Gris Artense,Essence,Automatique,2019,42475,5.5,110,5,15 999
+Peugeot 3008,Peugeot,Blanc Nacré,Hybride essence rechargeable,Auto...,2022,20590,1.2,29,5,32 999
+Peugeot 3008,Peugeot,Silver,Hybride essence rechargeable,Auto...,2022,17063,1.4,31,5,31 999
+Peugeot 208,Peugeot,,Essence,Automatique,2022,50428,,,,19 799
+Peugeot 3008,Peugeot,Blanc Nacré,Hybride essence rechargeable,Auto...,2022,17280,1.2,29,5,33 499
+Peugeot 208,Peugeot,,Essence,Automatique,2022,53739,,,,19 799
+Peugeot 2008,Peugeot,,Diesel,Manuelle,2020,102808,,,,17 299
+Peugeot 2008,Peugeot,,Essence,Automatique,2019,27549,,,,18 999
+Peugeot 3008,Peugeot,Gris Platinium / Noir Perla Nera,Hybride essence rechargeable,Auto...,2021,22985,1,30,5,33 999
+Peugeot 208,Peugeot,Blanc Nacré,Essence,Automatique,2021,18030,5,122,5,19 999
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2021,31248,5.1,120,5,18 999
+Peugeot 2008,Peugeot,Rouge,Essence,Manuelle,2020,44000,4.5,132,4,19 099
+Peugeot 2008,Peugeot,Rouge Elixir,Electrique,Automatique,2021,32527,0.0,0,5,20 299
+Peugeot 208,Peugeot,,Essence,Automatique,2022,46271,,,,19 999
+Peugeot 208,Peugeot,Gris Platinium / Toit Noir,Diesel,Manuelle,2022,7520,4,108,5,20 499
+Peugeot 208,Peugeot,Rouge Elixir,Essence,Manuelle,2020,9469,5.3,96,5,19 499
+Peugeot 208,Peugeot,Gris Platinium,Diesel,Manuelle,2022,12723,4,108,5,20 399
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2023,970,5,123,5,19 994
+Peugeot 208,Peugeot,Bleu Vertigo,Electrique,Automatique,2020,16505,0.0,0,5,19 999
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2021,11717,5.4,125,5,19 599
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Manuelle,2020,52300,5.4,132,5,19 999
+Peugeot 2008,Peugeot,Gris Artense,Diesel,Manuelle,2022,15250,4,117,5,20 999
+Peugeot 2008,Peugeot,Gris Platinium,Diesel,Manuelle,2022,17482,4.4,117,5,20 999
+Peugeot 208,Peugeot,Blanc Nacré,Electrique,Automatique,2020,25757,0.0,0,5,19 999
+Peugeot 208,Peugeot,Gris Platinium / Toit Noir,Essence,Automatique,2022,18558,5,124,5,20 999
+Peugeot 2008,Peugeot,Blue,Diesel,Manuelle,2021,46020,4.5,117,5,21 199
+Peugeot 208,Peugeot,Gris Artense,Essence,Automatique,2022,32405,5,122,5,21 399
+Peugeot 208,Peugeot,Gris Artense,Essence,Automatique,2022,24696,5,122,5,21 499
+Peugeot 2008,Peugeot,Rouge Elixir,Essence,Manuelle,2023,1907,5,126,5,21 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Automatique,2022,18190,5,122,5,21 999
+Peugeot 208,Peugeot,Gris Artense,Essence,Automatique,2022,21285,5,122,5,21 999
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2023,2567,5,126,5,21 999
+Peugeot 2008,Peugeot,Gris Platinium / Toit Noir,Essence,Automatique,2021,43545,5,136,5,21 999
+Peugeot 2008,Peugeot,,Essence,Automatique,2021,56800,,,,21 799
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2023,5376,5.5,126,5,22 399
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Automatique,2022,21475,5,133,5,22 499
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2023,4688,5.5,126,5,22 399
+Peugeot 208,Peugeot,Blanc Nacré,Electrique,Automatique,2021,30806,0.0,0,5,21 999
+Citroën C5 Aircross,Citroën,Gris Platinium,Hybride essence rechargeable,Auto...,2023,2491,1.3,30,5,32 399
+Peugeot 3008,Peugeot,Bleu Vertigo,Hybride essence rechargeable,Auto...,2021,32295,1.3,30,5,32 499
+BMW X5,BMW,,Diesel,Automatique,2015,116842,,,,32 499
+Audi A1 Sportback,Audi,Noir Mythic,Essence,Automatique,2023,6329,6.4,135,5,32 499
+BMW Série 2 Active Tourer,BMW,Alpinweiss,Essence,Automatique,2022,11894,6,143,5,32 499
+Audi A4 Avant,Audi,Blanc,Diesel,Automatique,2020,44195,6.2,172,4,32 499
+Peugeot 5008,Peugeot,Bleu Celebes,Diesel,Automatique,2022,29455,5,139,5,32 499
+DS DS7 CROSSBACK,DS,Noir Perla Nera,Essence,Automatique,2021,28395,5,157,5,32 499
+Citroën C5 X,Citroën,Gris Amazonite,Hybride essence rechargeable,Auto...,2022,219,N/A,30,5,32 499
+Peugeot 5008,Peugeot,Blanc Nacré,Diesel,Automatique,2023,6210,5,147,5,32 499
+Volkswagen Touran,Volkswagen,Deep black (schwarz),Diesel,Automatique,2022,20590,5.6,143,5,32 599
+Fiat Scudo,Fiat,Blanc,Diesel,Manuelle,2022,10,7.5,185,5,32 699
+Mercedes Classe A,Mercedes,Gris Montagne,Essence,Automatique,2022,17162,5,138,5,32 699
+Peugeot 2008,Peugeot,Noir Perla Nera (M),Essence,Automatique,2021,16703,5.9,133,5,23 499
+Peugeot 3008,Peugeot,Noir Perla Nera,Diesel,Manuelle,2019,87944,4.1,106,5,17 799
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Automatique,2018,88226,5.5,120,5,17 999
+Peugeot 3008,Peugeot,"Gris ""Vapor Grey""",Diesel,Manuelle,2016,106120,4.1,108,5,11 499
+Peugeot 2008,Peugeot,Gris Artense (M),Essence,Automatique,2021,21023,5.9,122,5,23 699
+Peugeot 2008,Peugeot,Noir Perla Nera,Electrique,Automatique,2021,11386,0.0,0,5,22 799
+Peugeot 3008,Peugeot,Bleu Vertigo,Essence,Manuelle,2022,22730,6,139,5,22 999
+Peugeot 2008,Peugeot,Gris Artense,Electrique,Automatique,2022,24067,0.0,0,5,23 999
+Peugeot 3008,Peugeot,Blanc Nacré,Essence,Automatique,2023,4249,6,145,5,27 799
+Peugeot 2008,Peugeot,Orange,Diesel,Automatique,2021,24950,4.8,125,5,23 699
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Automatique,2023,2843,5,133,5,23 999
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2019,63530,4.9,109,5,19 699
+Peugeot 3008,Peugeot,Gris Platinium,Essence,Automatique,2023,1902,6,145,5,28 499
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Automatique,2023,3544,5,133,5,23 999
+Peugeot 208,Peugeot,,Essence,Manuelle,2017,85462,,,,9 299
+Peugeot 2008,Peugeot,Rouge Elixir,Essence,Automatique,2023,2500,5,133,5,23 999
+Peugeot 208,Peugeot,Noir Perla Nera,Electrique,Automatique,2022,10789,0.0,0,5,24 999
+Peugeot 3008,Peugeot,,Hybride essence rechargeable,Auto...,2021,23257,,,,31 199
+Peugeot 208,Peugeot,Gris Aluminium,Essence,Manuelle,2015,52049,4.4,102,5,9 599
+Peugeot 2008,Peugeot,Noir Perla Nera,Electrique,Automatique,2021,17674,0.0,0,5,22 999
+Peugeot 208,Peugeot,PURPLE NIGHT,Diesel,Manuelle,2013,54019,3.8,99,3,10 999
+Peugeot 2008,Peugeot,Gris Artense,Diesel,Automatique,2020,18299,3.8,98,5,23 799
+Peugeot 2008,Peugeot,Noir Perla Nera,Electrique,Automatique,2021,15791,0.0,0,5,22 999
+Peugeot 2008,Peugeot,,Essence,Automatique,2020,19419,,,,23 999
+Peugeot 2008,Peugeot,Rouge Elixir,Essence,Automatique,2023,3618,5,133,5,23 999
+Peugeot 208,Peugeot,,Essence,Manuelle,2020,51567,,,,14 699
+Peugeot 2008,Peugeot,Red,Diesel,Manuelle,2022,29665,4.5,127,5,23 999
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2018,36822,4,108,5,11 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,72046,5,96,5,14 999
+Peugeot 2008,Peugeot,Noir Perla Nera,Electrique,Automatique,2021,11868,0.0,0,5,22 999
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2022,18585,5,119,5,15 499
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Automatique,2023,310,5,133,5,24 499
+Peugeot 208,Peugeot,,Essence,Manuelle,2022,44300,,,,17 799
+Peugeot 2008,Peugeot,Gris Artense,Electrique,Automatique,2021,12249,0.0,0,5,23 299
+Peugeot 208,Peugeot,Gris Platinium,Essence,Automatique,2022,14048,5,121,5,18 499
+Peugeot 2008,Peugeot,Blanc Nacré,Electrique,Automatique,2021,10169,0.0,0,5,23 299
+Peugeot 208,Peugeot,Blanc Banquise (O),Essence,Automatique,2022,18890,5.4,122,5,19 199
+Peugeot 2008,Peugeot,Blanc Nacré / Noir Perla Nera,Electrique,Automatique,2021,16517,0.0,0,5,24 499
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Automatique,2023,3226,5,121,5,20 799
+Peugeot 2008,Peugeot,Blanc Nacré,Electrique,Automatique,2021,11960,0.0,0,5,24 699
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2021,9798,5.1,118,5,17 999
+Peugeot 208,Peugeot,Jaune Faro,Electrique,Automatique,2021,32250,0.0,0,5,19 999
+Peugeot 2008,Peugeot,Blanc Nacré,Electrique,Automatique,2023,424,0.0,0,5,26 799
+Peugeot 208,Peugeot,Gris Artense,Electrique,Automatique,2020,23735,0.0,0,5,20 499
+Peugeot 208,Peugeot,Gris Platinium,Essence,Automatique,2020,22979,5.8,97,5,19 499
+Peugeot 2008,Peugeot,Blanc Nacré / Noir Perla Nera,Electrique,Automatique,2021,7298,0.0,0,5,25 999
+Peugeot 208,Peugeot,Gris Artense,Electrique,Automatique,2021,12234,0.0,0,5,21 499
+Peugeot 208,Peugeot,Bleu Vertigo,Essence,Automatique,2021,17595,5.4,125,5,22 799
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Manuelle,2019,42926,4.8,104,5,15 999
+Peugeot 2008,Peugeot,Vert Emerald Crystal,Essence,Manuelle,2019,79275,4.9,114,5,11 999
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Automatique,2019,38724,4.1,114,5,14 099
+Peugeot 2008,Peugeot,Gris Artense,Diesel,Manuelle,2015,98845,4,103,5,10 699
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2018,70910,5,112,5,11 799
+Peugeot 2008,Peugeot,Noir Perla Nera,Diesel,Manuelle,2017,43928,3.7,97,5,13 499
+Peugeot 2008,Peugeot,Noir Perla Nera,Diesel,Manuelle,2021,74308,4,118,5,18 999
+Peugeot 2008,Peugeot,Noir Perla Nera (M),Essence,Automatique,2021,46940,5.9,136,5,20 799
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Automatique,2017,94620,4.8,110,5,11 999
+Peugeot 2008,Peugeot,Rouge Elixir,Essence,Manuelle,2023,988,5,124,5,21 499
+Peugeot 2008,Peugeot,Gris Artense,Essence,Manuelle,2023,2466,5,126,5,21 999
+Peugeot 2008,Peugeot,BLANCO NACARADO C3 CAPASE,Essence,Manuelle,2023,8204,5.5,124,5,23 399
+Peugeot 2008,Peugeot,GREY,Diesel,Manuelle,2022,39720,4.5,127,5,23 499
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Automatique,2023,2720,5.9,133,5,23 999
+Peugeot 2008,Peugeot,Gris Platinium,Diesel,Automatique,2023,8256,5,132,5,23 999
+Peugeot 2008,Peugeot,Gris Artense,Essence,Automatique,2023,3177,5,133,5,23 999
+Peugeot 2008,Peugeot,Noir Perla Nera,Diesel,Automatique,2023,3547,5,132,5,24 499
+Peugeot 2008,Peugeot,Blanc Nacré,Diesel,Automatique,2023,2907,5,132,5,24 499
+Peugeot 2008,Peugeot,Noir Perla Nera,Diesel,Automatique,2023,6985,5,132,5,24 499
+Citroën C3 Picasso,Citroën,Blanc Banquise,Essence,Manuelle,2015,123894,5,115,5,8 499
+Renault Zoé,Renault,Blanc Glacier,Electrique,Automatique,2014,56972,0.0,0,5,7 999
+Peugeot 208 AFFAIRE,Peugeot,Blanc Banquise,Diesel,Manuelle,2019,82483,3.7,86,5,9 299
+Renault Scenic 3,Renault,Gris Platine,Diesel,Manuelle,2012,125536,4.4,114,5,9 999
+Dacia Logan,Dacia,Bleu Navy,Essence,Manuelle,2017,18271,5,120,4,9 999
+Citroën C3,Citroën,Bleu Monte Carlo,Essence,Manuelle,2017,62976,4.7,109,5,10 199
+Citroën C4,Citroën,Gris Acier,Essence,Manuelle,2016,82001,4.8,112,5,10 299
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2019,63430,4.7,108,5,10 299
+Peugeot 208,Peugeot,,Essence,Manuelle,2016,47115,,,,10 499
+Citroën C3,Citroën,,Essence,Manuelle,2018,78198,,,,10 499
+Renault Twingo 3,Renault,Blanc Cristal,Essence,Manuelle,2017,17303,5,112,5,10 499
+Citroën C4,Citroën,Noir Perla Nera,Essence,Manuelle,2015,93885,4.8,110,5,10 499
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2016,142905,4.4,103,5,10 499
+Toyota Aygo,Toyota,Noir,Essence,Manuelle,2018,29248,4.1,95,5,10 499
+Renault Zoé,Renault,,Electrique,Automatique,2017,43678,0.0,0,,9 499
+Renault Twingo 3,Renault,Rouge Flamme,Essence,Manuelle,2018,16110,5.5,125,5,10 599
+Fiat Panda,Fiat,Blanc Pastel,Essence,Manuelle,2020,10280,5.4,132,5,10 699
+Fiat 500,Fiat,Pasodoble Red,Essence,Manuelle,2017,50453,4.9,115,3,10 699
+Peugeot 208,Peugeot,Dark Blue,Essence,Manuelle,2016,72997,4.5,104,5,10 699
+Renault Scénic Xmod,Renault,Blanc Glacier,Diesel,Manuelle,2015,142930,4.4,114,5,10 799
+Peugeot 208,Peugeot,Noir Perla Nera,Diesel,Manuelle,2018,106395,3.5,79,5,10 999
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2018,69513,4.9,110,5,10 999
+Fiat Tipo,Fiat,Bronze Magnetico,Essence,Manuelle,2017,46000,5.7,132,5,10 999
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2017,52128,4.5,104,5,11 299
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2018,76200,4.5,106,5,11 499
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2017,59174,4.5,104,5,11 499
+Peugeot 208,Peugeot,Blanc Banquise,Essence,Manuelle,2019,72536,4.7,108,5,11 499
+Citroën C4,Citroën,Blanc Banquise,Essence,Manuelle,2017,81351,4.7,107,5,11 499
+Renault Captur,Renault,Beige/Toit Cappuccino,Diesel,Manuelle,2016,114500,3.6,95,5,11 499
+Renault Twingo 3,Renault,Gris Lunaire,Essence,Manuelle,2019,25760,4.9,108,5,11 499
+Nissan Micra,Nissan,Blanc Perle,Diesel,Manuelle,2017,112287,3.2,85,5,11 599
+Dacia Sandero,Dacia,Bleu Azurite,Essence,Manuelle,2019,49480,5.2,117,5,11 699
+Dacia Sandero,Dacia,Gris Platine,Essence,Manuelle,2017,51345,5.1,115,5,11 699
+Renault Zoé,Renault,Bleu Foudre,Electrique,Automatique,2019,33015,0.0,0,5,10 699
+Peugeot 508,Peugeot,Gris Artense,Diesel,Manuelle,2016,110045,N/A,96,4,11 699
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2017,53700,4.5,104,5,11 799
+Peugeot 208,Peugeot,Gris Artense,Essence,Manuelle,2019,54782,4.7,108,5,11 799
+Fiat Tipo,Fiat,Bronze Magnetico,Essence,Manuelle,2019,58654,6.4,146,5,11 999
+DS DS3,DS,Noir Perla Nera/Blanc Opale,Essence,Manuelle,2017,79128,4.5,107,3,11 999
+Peugeot 108,Peugeot,Rouge Scarlet,Essence,Manuelle,2020,1252,4.8,85,3,11 999
+Kia Rio,Kia,Noir Ebène,Diesel,Manuelle,2017,87080,3.8,98,5,11 999
+Dacia Sandero,Dacia,Gris Comète,Diesel,Manuelle,2018,85455,3.8,98,5,11 999
+Citroën C3,Citroën,Gris Shark,Essence,Manuelle,2018,22535,4.7,113,5,11 999
+Toyota Verso,Toyota,Gris Aluminium,Diesel,Manuelle,2014,105201,4.5,119,5,11 999
+Renault Captur,Renault,Noir Etoile,Essence,Manuelle,2017,68160,5.1,113,5,12 199
+Peugeot 308,Peugeot,Noir Perla Nera,Essence,Manuelle,2017,89715,4,107,5,12 299
+Toyota Aygo,Toyota,,Essence,Manuelle,2021,25872,,,,12 299
+Peugeot 208,Peugeot,Gris Platinium,Essence,Manuelle,2018,30569,N/A,99,5,12 299
+Renault Twingo 3,Renault,Blanc Cristal,Essence,Manuelle,2019,11652,5.3,100,5,12 499
+DS DS3,DS,Rouge Rubi/noir Onyx,Essence,Manuelle,2016,56258,4.3,100,3,12 499
+Peugeot 2008,Peugeot,Noir Perla Nera,Diesel,Manuelle,2015,112294,3.6,95,5,12 499
+Renault Clio 4,Renault,Gris Urban,Essence,Manuelle,2019,10710,5,113,5,12 499
+Alfa Romeo Giulietta,Alfa,Gris Stromboli,Diesel,Automatique,2017,121350,3.8,99,5,12 499
+Dacia Sandero,Dacia,Rouge de feu,Essence,Manuelle,2019,72402,6,125,5,12 499
+Peugeot 308,Peugeot,,Diesel,Manuelle,2018,146075,,,,12 499
+Fiat 500,Fiat,Noir Vesuvio,Essence,Manuelle,2019,40001,5.1,109,3,12 499
+Citroën C3 Aircross,Citroën,Cosmic Silver,Diesel,Manuelle,2019,104522,N/A,104,5,12 499
+Dacia Lodgy,Dacia,Bleu Cosmos,Diesel,Manuelle,2016,64340,4,105,5,12 499
+Citroën C4 Picasso,Citroën,Gris Shark,Essence,Manuelle,2016,91714,5,116,5,12 499
+Citroën C3,Citroën,Gris Platinium,Essence,Manuelle,2020,47782,N/A,96,5,12 599
+Renault Clio 4,Renault,Noir Etoile,Diesel,Manuelle,2016,92501,3.5,90,5,12 699
+Renault Captur,Renault,Bleu Océan / Toit Noir Etoilé,Essence,Manuelle,2018,87507,5.5,125,5,12 799
+Fiat 500,Fiat,Epic Blue,Essence,Manuelle,2019,36934,5.1,109,3,12 799
+Volkswagen Polo,Volkswagen,Noir Intense,Essence,Manuelle,2016,69205,4.7,107,3,12 799
+Nissan Juke,Nissan,Gris Squale,Essence,Manuelle,2016,55840,5.7,128,5,12 899
+Peugeot 108,Peugeot,Rouge Antelope,Essence,Manuelle,2021,18400,4.8,111,5,12 899
+Peugeot 208,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,33795,4,108,5,12 999
+Ford Fiesta,Ford,Gris Lunaire,Essence,Manuelle,2019,62085,4.8,105,5,12 999
+Renault Clio 4,Renault,Gris Platine,Essence,Manuelle,2020,26360,5,137,5,12 999
+Ford Fiesta,Ford,Blanc,Essence,Manuelle,2016,42903,4.5,104,5,12 999
+Renault Mégane 4,Renault,Gris Platine,Essence,Manuelle,2017,57548,5.4,120,5,12 999
+Peugeot 2008,Peugeot,Rouge Ultimate,Essence,Automatique,2016,84964,4.8,110,5,12 999
+Ford Fiesta,Ford,Blanc Glacier,Essence,Manuelle,2019,79500,4.8,105,5,12 999
+Jeep Renegade,Jeep,Alpine White,Diesel,Manuelle,2017,130519,4.4,115,5,12 999
+Renault Clio Société,Renault,Blanc,Diesel,Manuelle,2019,47759,3.6,104,5,13 199
+Dacia Sandero,Dacia,Bleu Azurite,Essence,Manuelle,2018,30310,4,120,5,13 299
+Volkswagen Polo,Volkswagen,Silver,Essence,Manuelle,2019,95606,5.8,110,5,13 299
+Dacia Sandero,Dacia,Brun Vison,Essence,Automatique,2018,92736,5,114,5,13 299
+Renault Clio 5,Renault,Blanc Glacier,Essence,Manuelle,2020,24160,5.3,117,5,13 299
+Skoda Fabia,Skoda,Gris Météore,Diesel,Manuelle,2016,54479,3,93,5,13 499
+Dacia Sandero,Dacia,Brun Vison,Essence,Manuelle,2018,71200,5,114,5,13 499
+Peugeot 208,Peugeot,Blanc Perle,Essence,Manuelle,2016,51156,4.3,99,5,13 499
+Peugeot 308,Peugeot,Blanc Nacré,Essence,Manuelle,2015,69621,4.5,107,5,13 499
+Citroën C4,Citroën,Gris Platinium,Essence,Manuelle,2017,40035,4.8,112,5,13 499
+Hyundai Tucson,Hyundai,Pepper Gray,Diesel,Manuelle,2017,144355,4.6,119,5,13 699
+Peugeot 2008,Peugeot,Gris Artense,Essence,Automatique,2017,81355,4.8,110,5,13 699
+Renault Clio 4,Renault,Blanc Glacier,Essence,Manuelle,2019,45299,5,113,5,13 799
+Renault Clio 4,Renault,Rouge Flamme,Essence,Manuelle,2018,59861,5,105,5,13 799
+Fiat 500C,Fiat,Crossover Black,Essence,Manuelle,2020,25070,5.3,88,2,13 799
+Nissan Juke,Nissan,Gris Perle,Essence,Automatique,2017,81173,6,139,5,13 999
+Citroën C3,Citroën,,Essence,Manuelle,2019,54676,,,,13 999
+Dacia Duster,Dacia,Bleu Cosmos,Diesel,Manuelle,2017,83417,4.4,115,5,13 999
+Citroën C3,Citroën,Blanc Banquise,Essence,Manuelle,2021,13860,5.4,124,5,13 999
+Peugeot 2008,Peugeot,Noir Perla Nera,Diesel,Manuelle,2017,97138,3.7,97,5,13 999
+Renault Scénic 4,Renault,Jaune Miel / Toit Noir,Essence,Manuelle,2017,78425,5.8,129,5,13 999
+Opel Crossland X,Opel,Gris Mineral,Diesel,Automatique,2019,88010,4,102,5,13 999
+Nissan Micra,Nissan,Gris Acier,Essence,Manuelle,2019,57291,4.5,103,5,13 999
+Volkswagen Golf 7,Volkswagen,Gris Tungstene,Essence,Manuelle,2015,135000,4.7,112,5,13 999
+Volkswagen Polo,Volkswagen,Blanc Pur,Essence,Manuelle,2019,43948,4.8,105,5,13 999
+Skoda Superb Combi,Skoda,Black,Diesel,Automatique,2022,25648,5.3,136,5,36 399
+Renault TRAFIC FOURGON,Renault,Blanc Glacier,Diesel,Automatique,2023,201,N/A,184,4,36 499
+Volkswagen ARTEON SHOOTING BRAKE,Volkswagen,Lapiz Blue,Hybride essence rechargeable,Auto...,2021,32200,1.3,27,5,36 499
+Volkswagen Golf 8,Volkswagen,Delfingrau,Diesel,Automatique,2022,19195,5.5,136,4,36 999
+Audi A3 Sportback,Audi,Pythongelb,Hybride essence rechargeable,Auto...,2022,16050,1.1,29,4,36 999
+Mercedes GLB,Mercedes,Blanc Polaire,Essence,Automatique,2021,31850,6.9,157,5,36 999
+Tesla MODEL S,Tesla,Azul Oscuro,Electrique,Automatique,2017,92497,0.0,0,5,36 999
+Fiat 500C,Fiat,Blru Ottanio,Essence,Automatique,2019,37632,5.2,120,2,14 999
+Renault Captur,Renault,Bleu Iron / Toit noir Etoilé,Essence,Manuelle,2019,59768,6.3,128,5,14 999
+Renault Kadjar,Renault,Nero,Diesel,Automatique,2017,101370,3.9,103,5,14 999
+Peugeot 308,Peugeot,Gris Platinium,Diesel,Manuelle,2016,86187,3.1,96,5,14 999
+Citroën C4 Cactus,Citroën,Emeraude Blue,Essence,Manuelle,2019,54030,4.8,112,5,14 999
+Peugeot 2008,Peugeot,Gris,Diesel,Manuelle,2018,80292,3.3,97,5,15 099
+Renault Kadjar,Renault,Gris Platine,Diesel,Automatique,2017,63529,3.8,99,5,15 199
+Renault Clio 5,Renault,Rouge Flamme,Essence,Manuelle,2020,39140,5.2,100,5,15 199
+Renault Clio 5,Renault,Blanc Glacier,Essence,Manuelle,2020,25580,5.2,119,5,15 299
+Mazda CX-3,Mazda,Soul Red,Essence,Manuelle,2016,47170,5.9,137,5,15 499
+Nissan Qashqai,Nissan,Noir Métallisé,Diesel,Automatique,2015,106816,4.6,119,5,15 499
+Mini Mini,Mini,Midnight black,Essence,Automatique,2015,88102,4.8,114,5,15 499
+Peugeot 308,Peugeot,,Essence,Manuelle,2018,80908,,,,15 499
+Fiat 500C,Fiat,Electroclash Grey,Hybride essence,Manuelle,2020,28783,5.3,88,2,15 499
+Peugeot 2008,Peugeot,Noir Perla Nera,Essence,Manuelle,2019,67639,5.1,112,5,15 499
+Renault Mégane 4,Renault,Gris Platine,Essence,Automatique,2018,85655,5,117,5,15 599
+Peugeot 2008,Peugeot,Blanc Nacré,Essence,Manuelle,2018,30841,4.4,103,5,15 699
+Volkswagen Polo,Volkswagen,Gris Urano,Diesel,Manuelle,2018,55602,3,97,5,15 799
+Renault Mégane 4,Renault,Bleu berlin,Essence,Automatique,2017,65100,5.4,122,5,15 999
+Peugeot 2008,Peugeot,Blanc Banquise,Essence,Automatique,2019,45101,5.5,114,5,15 999
+Renault Grand Scénic 4,Renault,Blanc Nacré,Diesel,Automatique,2016,124800,4,104,5,15 999
+Audi A1 Sportback,Audi,Noir Mythic,Essence,Manuelle,2020,114890,5.5,131,5,15 999
+Dacia Duster,Dacia,Blanc Glacier,Diesel,Manuelle,2020,41740,4.9,129,5,15 999
+Renault Clio 5,Renault,Gris Titanium,Essence,Manuelle,2022,21999,5.2,119,5,16 499
+Smart FORTWO CABRIO,Smart,Noir,Essence,Automatique,2016,36127,4.2,99,2,16 499
+Renault Espace 5,Renault,Gris Platine,Diesel,Automatique,2016,109578,4.6,120,5,16 799
+Peugeot 308,Peugeot,Bleu Magnetic,Essence,Manuelle,2019,50561,4.6,115,5,16 899
+Skoda Karoq,Skoda,Gris,Diesel,Manuelle,2018,100481,4,109,5,16 999
+Peugeot 308,Peugeot,Dark Blue,Essence,Manuelle,2020,38938,4.6,98,5,16 999
+Peugeot Partner Tepee,Peugeot,,Essence,Manuelle,2018,41635,,,,17 099
+Renault Captur,Renault,Gris Cassiopée / Toit Noir Etoilé,Diesel,Manuelle,2020,35266,4,106,5,17 399
+Jeep Renegade,Jeep,Gris Granite,Diesel,Manuelle,2018,33145,4.4,115,5,17 499
+Audi A3 Sportback,Audi,Blanc Glacier,Essence,Manuelle,2015,90321,4.9,112,5,17 499
+Nissan Qashqai,Nissan,,Essence,Manuelle,2019,70445,,,,17 699
+Renault Clio 5,Renault,Gris Platine,Hybride essence,Automatique,2021,44000,4.3,99,5,17 699
+Nissan X-Trail,Nissan,Blanc Lunaire,Diesel,Manuelle,2018,108945,5.1,133,5,17 799
+Peugeot 2008,Peugeot,Orange Fusion,Essence,Automatique,2020,99725,6,139,5,17 999
+Peugeot 3008,Peugeot,Gris Platinium/ Noir Perla Nera,Diesel,Manuelle,2017,109331,4,104,5,17 999
+Opel Astra,Opel,Gris Mineral,Essence,Manuelle,2020,24135,5.3,100,5,17 999
+Citroën C4 SPACETOURER,Citroën,Noir Onyx,Essence,Manuelle,2019,55370,5.2,114,5,17 999
+Dacia Sandero,Dacia,Gris Comète,Essence,Automatique,2022,8584,5.8,140,5,17 999
+Volkswagen T-CROSS,Volkswagen,Gris Urano,Essence,Manuelle,2021,34030,5.7,133,5,17 999
+Volkswagen Tiguan,Volkswagen,Gris Tungstene,Essence,Manuelle,2017,112397,5.7,130,5,17 999
+Renault Mégane 4,Renault,Gris Titanium,Diesel,Automatique,2022,21996,4.6,121,5,18 199
+Peugeot 308,Peugeot,Blanc Banquise,Essence,Manuelle,2020,12921,5.6,100,5,18 299
+Volkswagen T-Roc,Volkswagen,Noir Intense,Diesel,Manuelle,2019,104384,5.2,109,5,18 299
+Renault Kadjar,Renault,Gris Titanium,Essence,Manuelle,2019,35250,5.7,135,5,18 399
+Renault Grand Scénic 4,Renault,Beige Dune / Toit Noir,Diesel,Automatique,2017,88290,4.7,122,5,18 499
+Peugeot 2008,Peugeot,Noir Onyx,Essence,Automatique,2020,87001,5.9,139,5,18 499
+Citroën GRAND C4 SPACETOURER,Citroën,,Essence,Manuelle,2019,62856,,,,18 499
+Mini Mini,Mini,Rouge Chili,Essence,Automatique,2018,64565,4.8,111,5,18 499
+Renault Mégane 4 Estate,Renault,Brun Cuivre Solar,Diesel,Automatique,2020,53226,4.8,123,5,18 499
+Peugeot 3008,Peugeot,Gris Amazonite,Essence,Manuelle,2019,75205,6.4,118,5,18 999
+Renault Kadjar,Renault,Bleu Iron,Essence,Automatique,2019,34900,6.2,133,5,18 999
+Dacia Duster,Dacia,Blanc Glacier,Diesel,Manuelle,2021,81969,5.4,145,5,18 999
+Peugeot 3008,Peugeot,Gris Artense,Essence,Automatique,2020,62386,6.7,152,5,18 999
+Volkswagen Tiguan,Volkswagen,Noir Intense,Essence,Manuelle,2016,109019,5.7,130,5,18 999
+Citroën C4,Citroën,Orange Pulse,Essence,Automatique,2021,45500,5.8,131,5,19 299
+Renault Clio 5,Renault,Noir Etoile,Hybride essence,Automatique,2021,18350,4.3,99,5,19 499
+BMW Série 2 Gran Tourer,BMW,Bleu Métallisé Méditerrané,Essence,Automatique,2016,66625,5.5,122,5,19 499
+Citroën C5 Aircross,Citroën,Emerald Crystal,Diesel,Manuelle,2019,109485,4,106,5,19 499
+Citroën C5 Aircross,Citroën,Gris Platinium,Diesel,Manuelle,2021,107943,4.9,130,5,19 499
+Toyota C-HR,Toyota,Gris Platinium,Hybride essence,Automatique,2017,115015,3.9,87,5,19 499
+Toyota C-HR,Toyota,Gris Atlas,Hybride essence,Automatique,2018,72289,3.8,86,5,19 699
+Peugeot 0,Peugeot,Blanc Banquise,Diesel,Manuelle,2021,22842,5.5,144,4,19 699
+Skoda Karoq,Skoda,Blanc Cristal,Diesel,Automatique,2020,85985,5.3,157,5,19 799
+Peugeot 2008,Peugeot,Gris Platinium,Essence,Manuelle,2021,43221,5.4,125,5,19 999
+Peugeot 3008,Peugeot,Gris Amazonite,Essence,Manuelle,2019,63445,6.4,113,5,19 999
+Peugeot 5008,Peugeot,Blanc Nacré / Toit Noir Perla Nera,Essence,Manuelle,2017,98232,5.1,117,5,20 199
+Citroën C4 SPACETOURER,Citroën,Blanc Banquise,Essence,Automatique,2019,28950,5.1,115,5,20 499
+Toyota Prius,Toyota,Blanc Pur,Hybride essence,Automatique,2016,70492,3,70,5,20 599
+Peugeot Partner Fourgon,Peugeot,Rouge Ardent,Diesel,Manuelle,2021,30065,5,144,3,20 799
+Citroën C3 Aircross,Citroën,Gris Artense,Essence,Automatique,2021,6835,6.1,141,5,20 799
+Mercedes GLA,Mercedes,Gris,Diesel,Automatique,2015,116468,5.1,130,5,20 999
+Citroën C5 Aircross,Citroën,Gris Artense,Essence,Automatique,2019,81625,5.7,128,5,20 999
+DS DS3 Crossback,DS,Blanc,Essence,Manuelle,2021,32915,5.7,128,5,21 099
+Renault Captur,Renault,Orange Atacama / Toit Gris Highland,Hybride essence,Manuelle,2021,18650,N/A,132,5,21 499
+Abarth 595C,Abarth,Noir Scorpione,Essence,Manuelle,2021,16538,7.3,156,2,21 499
+Peugeot 2008,Peugeot,Orange,Diesel,Manuelle,2022,40621,4.5,118,5,21 599
+DS DS7 CROSSBACK,DS,Gris Platinium,Diesel,Automatique,2021,94747,4,135,5,21 599
+Opel Mokka,Opel,Vert,Essence,Manuelle,2022,15900,5.6,128,4,21 999
+Mercedes GLA,Mercedes,Gris Montagne,Diesel,Automatique,2015,111204,4.6,119,5,21 999
+Land Rover Discovery Sport,Land,Indus Silver,Diesel,Automatique,2015,107770,5.3,139,5,21 999
+Volkswagen Golf 7,Volkswagen,Bleu Métallisé,Essence,Automatique,2018,71151,5.1,114,5,21 999
+Audi A1 Sportback,Audi,Blanc Glacier,Essence,Manuelle,2020,28300,5.4,102,5,21 999
+Renault Captur,Renault,Noir Etoile,Hybride essence,Manuelle,2021,13782,N/A,132,5,21 999
+Toyota Prius,Toyota,Blanc Pur,Hybride essence,Automatique,2018,65931,3.3,78,5,22 499
+Toyota Corolla,Toyota,Noir Métallisé,Hybride essence,Automatique,2021,34384,4.5,103,5,22 499
+Toyota C-HR,Toyota,Gris Platinium / Toit Noir,Hybride essence,Automatique,2019,20460,3.8,86,5,22 499
+Toyota C-HR,Toyota,Rouge Rubi + Toit Noir,Hybride essence,Automatique,2019,48975,3.9,86,5,22 499
+Renault Mégane 4,Renault,Gris Titanium,Essence,Automatique,2021,26375,5.9,137,5,22 999
+Audi A4 Avant,Audi,Gris Manhattan,Diesel,Automatique,2016,102720,4.3,113,5,22 999
+Peugeot 2008,Peugeot,Gris Artense,Diesel,Automatique,2020,49085,4.9,129,5,22 999
+Renault Grand Scénic 4,Renault,Gris Platine / Toit Noir,Diesel,Manuelle,2020,39806,5.5,127,5,22 999
+Peugeot 5008,Peugeot,Smart Grey,Diesel,Manuelle,2018,70048,4.6,118,5,22 999
+Mercedes GLA,Mercedes,Noir,Diesel,Automatique,2018,109804,5.9,141,5,23 499
+Toyota C-HR,Toyota,Blanc Pure,Hybride essence,Automatique,2021,33621,4.9,110,5,23 499
+Toyota C-HR,Toyota,Gris Platinium,Hybride essence,Automatique,2021,66410,5.2,119,5,23 499
+Volkswagen Caddy,Volkswagen,Blanc Candy,Essence,Manuelle,2019,36795,6.6,152,5,24 899
+Hyundai Kona,Hyundai,Ignite Red,Hybride essence,Manuelle,2022,23401,6.1,139,5,23 999
+Citroën C5 Aircross,Citroën,Blanc Banquise,Diesel,Automatique,2019,58565,4.1,102,5,23 999
+Renault Kadjar,Renault,Gris Highland,Essence,Automatique,2022,17235,6.2,141,5,23 999
+Renault Kangoo,Renault,Rouge Carmin,Essence,Manuelle,2022,25961,6.7,154,5,23 999
+Skoda Kodiaq,Skoda,Beige Cappuccino,Diesel,Manuelle,2018,123135,5.4,141,5,23 999
+Mercedes CLA,Mercedes,Blanc Calcite,Essence,Automatique,2016,103470,6.8,160,4,24 499
+Kia Sportage,Kia,Gris Perle,Hybride diesel,Automatique,2020,41465,5.3,153,5,24 999
+Ford PUMA,Ford,Gris Solar,Hybride essence,Manuelle,2023,7325,5.7,122,5,24 999
+Mini Countryman,Mini,Midnight black,Hybride essence rechargeable,Auto...,2019,60945,2.4,55,5,25 499
+Toyota C-HR,Toyota,Blanc Pur/Toit Noir,Hybride essence,Automatique,2021,36306,5.2,119,5,25 999
+Peugeot 5008,Peugeot,Gris Artense,Diesel,Automatique,2017,88360,4.8,124,5,25 999
+Citroën C5 X,Citroën,Gris Artense,Essence,Automatique,2023,10423,6,136,5,25 999
+Peugeot 308 SW,Peugeot,Blanc Nacré,Essence,Automatique,2022,23370,5.7,130,5,26 399
+Toyota RAV 4,Toyota,Rouge Pourpre,Hybride essence,Automatique,2017,45510,5,118,5,26 999
+Skoda Karoq,Skoda,Noir Cristal,Diesel,Automatique,2019,63452,5.9,139,5,27 299
+Skoda Octavia,Skoda,GREY,Essence,Manuelle,2023,24928,5.6,127,5,27 634
+Lynk & Co 1,Lynk,Noir,Hybride essence rechargeable,Auto...,2021,28765,1,27,5,27 999
+BMW Série 1,BMW,Mineralgrau,Essence,Automatique,2021,24060,5,131,5,28 499
+Skoda Superb Combi,Skoda,Gris Business,Diesel,Automatique,2019,67131,4.4,109,5,28 999
+Renault Espace 5,Renault,Noir Améthyste,Essence,Automatique,2018,62925,6.8,152,5,28 999
+Toyota YARIS CROSS,Toyota,Or Pur / Toit Noir,Hybride essence,Automatique,2022,8386,4.7,115,5,28 999
+Audi A3 Sportback,Audi,Noir Mythic,Essence,Automatique,2023,27325,5.6,130,5,30 499
+Audi A4 Avant,Audi,Blanc,Diesel,Automatique,2020,44195,6.2,172,4,32 499
+Audi Q3,Audi,Noir Mythic,Diesel,Automatique,2019,82940,5.4,120,5,30 999
+Audi Q5,Audi,Noir Mythic,Diesel,Automatique,2019,103234,7.2,141,5,30 999
+Citroën C5 Aircross,Citroën,,Essence,Automatique,2022,11319,,,,31 099
+BMW Série 3 Touring,BMW,Dravitgrau,Diesel,Automatique,2020,104380,4.6,121,5,31 999
+Volkswagen T-Roc,Volkswagen,Pure white (weiss),Diesel,Automatique,2022,23445,5.2,134,5,33 699
+Audi Q5,Audi,Argent Fleuret,Diesel,Automatique,2019,100397,5.5,141,5,34 299
+Tesla MODEL 3,Tesla,Gris,Electrique,Automatique,2019,44365,0.0,0,4,33 999
+Jeep Compass,Jeep,Alpine White/Toit Noir,Hybride essence rechargeable,Auto...,2021,32681,1.8,44,5,35 799
+Tesla MODEL 3,Tesla,Blanc Nacré Multicouches,Electrique,Automatique,2020,51867,0.0,0,4,35 999
+Toyota RAV 4,Toyota,Noir Attitude,Hybride essence,Automatique,2021,26815,5.6,131,5,38 999
+BMW Série 1,BMW,Noir Sapphire,Essence,Automatique,2022,15359,6.8,157,5,39 999
+BMW X5,BMW,Noir Sapphire,Diesel,Automatique,2020,86576,6,158,5,45 999
