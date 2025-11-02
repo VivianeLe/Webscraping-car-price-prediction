@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/173204084441510530/668e00da699b46ba98ab54f255434cd8/artifacts
+deleted_time: 1762023474717
+end_time: 1762020904872
+entry_point_name: ''
+experiment_id: '173204084441510530'
+lifecycle_stage: deleted
+run_id: 668e00da699b46ba98ab54f255434cd8
+run_name: car_price_xgb_3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1762020846403
+status: 4
+tags: []
+user_id: viviane

@@ -1,0 +1,21 @@
+venv/
+.venv/
+env/
+ENV/
+
+# Byte-compiled / caches
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Build & packaging
+build/
+dist/
+*.egg-info/
+
+# Logs & misc
+*.log
+.ipynb_checkpoints/
+.DS_Store
+.vscode/

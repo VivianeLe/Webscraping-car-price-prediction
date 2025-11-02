@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/173204084441510530
+creation_time: 1762020846001
+experiment_id: '173204084441510530'
+last_update_time: 1762020846001
+lifecycle_stage: active
+name: car_price_training
