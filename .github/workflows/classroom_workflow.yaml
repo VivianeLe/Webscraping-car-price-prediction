@@ -2,14 +2,11 @@ name: Classroom Workflow
 
 on:
   push:
-    branches:
-      - main
     paths:
-      - 'README.md'
-      - '.github/**'
+      - 'scripts/routers/prediction.py'
   pull_request:
-    branches:
-      - main
+    paths:
+      - 'scripts/schema/response.py'
 
   workflow_dispatch:
     inputs:
@@ -25,9 +22,9 @@ jobs:
       - name: Print latest content
         run: |
           if [[ "$GITHUB_EVENT_NAME" == "push" ]]; then
-
+            cat scripts/routers/prediction.py
           elif [[ "$GITHUB_EVENT_NAME" == "pull_request" ]]; then
-
+            cat scripts/schema/response.py
           else
             echo ${{ inputs.runner }}
           fi
