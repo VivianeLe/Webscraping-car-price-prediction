@@ -1,29 +1,33 @@
-# name: Classroom Workflow
+name: Classroom Workflow
 
-# on:
-#   push:
-#     paths:
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'README.md'
+      - '.github/**'
+  pull_request:
+    branches:
+      - main
 
-#   pull_request:
-#     paths:
+  workflow_dispatch:
+    inputs:
+      runner:
+        description: "Who runs this workflow?"
+        required: true
+jobs:
+  classroom_job:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+      - name: Print latest content
+        run: |
+          if [[ "$GITHUB_EVENT_NAME" == "push" ]]; then
 
-#   workflow_dispatch:
-#     inputs:
-#       runner:
-#         description: "Who runs this workflow?"
-#         required: true
-# jobs:
-#   classroom_job:
-#     runs-on: ubuntu-latest
-#     steps:
-#       - name: Checkout code
-#         uses: actions/checkout@v3
-#       - name: Print latest content
-#         run: |
-#           if [[ "$GITHUB_EVENT_NAME" == "push" ]]; then
+          elif [[ "$GITHUB_EVENT_NAME" == "pull_request" ]]; then
 
-#           elif [[ "$GITHUB_EVENT_NAME" == "pull_request" ]]; then
-
-#           else
-#             echo ${{ inputs.runner }}
-#           fi
+          else
+            echo ${{ inputs.runner }}
+          fi
