@@ -1,11 +1,6 @@
-from enum import Enum
 import uvicorn
 from fastapi import FastAPI
-from pydantic import BaseModel
-from routers import prediction
-from schema import request, response
-import mlflow.sklearn
-import pandas as pd
+from scripts.routers import prediction
 
 app = FastAPI()
 app.include_router(prediction.car_price_router)

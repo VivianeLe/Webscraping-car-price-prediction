@@ -2,6 +2,9 @@ venv/
 .venv/
 env/
 ENV/
+.env
+
+htmlcov/
 
 # Byte-compiled / caches
 __pycache__/

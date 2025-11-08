@@ -2,7 +2,7 @@ import pandas as pd
 import pickle
 from typing import List
 from sklearn.feature_extraction import DictVectorizer
-from config import CATEGORICAL_COLS, NUMERICAL_COLS, TEXT_COLS
+from scripts.config import CATEGORICAL_COLS, NUMERICAL_COLS, TEXT_COLS
 
 def load_pickle(path):
     with open(path, 'rb') as f:
