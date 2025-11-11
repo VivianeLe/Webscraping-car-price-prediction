@@ -1,8 +1,9 @@
 import logging
+import os
 # Import ML libraries and requirements
 from sklearn.model_selection import train_test_split
-from sklearn.preprocessing import OneHotEncoder, MinMaxScaler, LabelEncoder
-from sklearn.compose import ColumnTransformer
+# from sklearn.preprocessing import OneHotEncoder, MinMaxScaler, LabelEncoder
+# from sklearn.compose import ColumnTransformer
 # from sklearn.pipeline import Pipeline
 import xgboost as xgb
 import numpy as np
@@ -13,7 +14,9 @@ from config import DATA_PATH, ARTIFACT_DIR, MODEL_PATH, PATH_TO_MODEL, PATH_TO_P
 from lib.preprocessing import *
 import pandas as pd
 
-mlflow.set_tracking_uri(uri="http://localhost:8080")
+MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:8080")
+mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
+# mlflow.set_tracking_uri(os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:8080"))
 # mlflow.set_tracking_uri("file:./mlruns")
 
 # Configure logging
@@ -45,8 +48,8 @@ def train():
     # Define model parameters
     learning_rate = 0.5
     n_estimators=150
-    max_depth=3
-    subsample=1 
+    max_depth=4
+    subsample=1
     colsample_bytree=1
 
     # Define model
@@ -60,7 +63,7 @@ def train():
     )
 
     logger.info("Training model...")
-    with mlflow.start_run(run_name="car_price_xgb_3"):
+    with mlflow.start_run(run_name="car_price_xgb_1"):
         mlflow.log_param('learning_rate', learning_rate)
         mlflow.log_param('n_estimators', n_estimators)
         mlflow.log_param('max_depth', max_depth)
@@ -127,3 +130,6 @@ def train():
 
 if __name__ == "__main__":
     train()
+
+# command to run mlflow server:
+# mlflow server --host localhost --port 8080 

@@ -1,9 +1,8 @@
-version: '3.8'
+# version: '3.8'
 
 volumes:
   pgdata:
   minio-data:
-
 
 services:
   postgres:
@@ -18,7 +17,7 @@ services:
     ports:
       - "${POSTGRES_PORT}:${POSTGRES_PORT}"
     healthcheck:
-      test: [ "CMD-SHELL", "pg_isready -U ${POSTGRES_USER}" ]
+      test: ["CMD-SHELL", "pg_isready -U ${POSTGRES_USER}"]
       interval: 5s
       timeout: 3s
       retries: 10
@@ -37,7 +36,7 @@ services:
       - "9000:9000"
       - "9001:9001"
     healthcheck:
-      test: [ "CMD", "curl", "-f", "http://localhost:${MINIO_PORT}/minio/health/live" ]
+      test: ["CMD", "curl", "-f", "http://localhost:${MINIO_PORT}/minio/health/live" ]
       interval: 5s
       timeout: 3s
       retries: 20
@@ -67,7 +66,6 @@ services:
       create-bucket:
         condition: service_completed_successfully
     environment:
-      # Backend store URI built from vars
       MLFLOW_BACKEND_STORE_URI: ${MLFLOW_BACKEND_STORE_URI}
 
       # S3/MinIO settings
@@ -93,8 +91,9 @@ services:
       "
     ports:
       - "${MLFLOW_PORT}:${MLFLOW_PORT}"
+      # - "8080:8080"
     healthcheck:
-      test: [ "CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://localhost:${MLFLOW_PORT}/health')" ]
+      test: [ "CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://0.0.0.0:${MLFLOW_PORT}/health')" ]
       interval: 10s
       timeout: 5s
       retries: 30
@@ -104,14 +103,20 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: our-app
-    command: python3 scripts/session_3/api.py
-    ports:
-      - "3000:3000"
+    # chạy bằng uvicorn để chắc chắn bind 0.0.0.0:3000
+    command: uvicorn scripts.main:app --host 0.0.0.0 --port 3000
+    ports: ["3000:3000"]
     depends_on:
       mlflow:
         condition: service_healthy
     environment:
-      OUR_MLFLOW_HOST: ${OUR_MLFLOW_HOST}
+      MLFLOW_TRACKING_URI: http://mlflow:8080
+      MODEL_URI: models:/car_price_predictor@the_best   # hoặc models:/car_price_predictor/Production
+      MLFLOW_S3_ENDPOINT_URL: ${MLFLOW_S3_ENDPOINT_URL}
+      AWS_ACCESS_KEY_ID: ${MINIO_ROOT_USER}
+      AWS_SECRET_ACCESS_KEY: ${MINIO_ROOT_PASSWORD}
+      AWS_DEFAULT_REGION: ${AWS_DEFAULT_REGION}
+      MLFLOW_S3_IGNORE_TLS: "true"
 
 networks:
   default:
