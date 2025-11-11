@@ -1,4 +1,4 @@
-name: Classroom Workflow
+name: Predict Workflow
 
 on:
   push:
@@ -6,8 +6,9 @@ on:
       - 'scripts/routers/prediction.py'
   pull_request:
     paths:
-      - 'scripts/schema/response.py'
+      - 'scripts/schema/request.py'
 
+  # Manual trigger for testing
   workflow_dispatch:
     inputs:
       runner:
@@ -24,7 +25,7 @@ jobs:
           if [[ "$GITHUB_EVENT_NAME" == "push" ]]; then
             cat scripts/routers/prediction.py
           elif [[ "$GITHUB_EVENT_NAME" == "pull_request" ]]; then
-            cat scripts/schema/response.py
+            cat scripts/schema/request.py
           else
-            echo ${{ inputs.runner }}
+            echo ${{ inputs.runner }} 
           fi
