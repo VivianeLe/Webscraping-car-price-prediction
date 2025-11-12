@@ -44,24 +44,27 @@ def test_get_model(mock_get_model, mock_load_pickle, mock_mlflow_server):
     assert result == [15000.0]
 
 def test_predict(mock_get_model, mock_load_pickle, mock_mlflow_server):
+    import scripts.routers.prediction as pred
+    pred._model = None
+    pred._dv = None
+
     from fastapi import FastAPI
     from fastapi.testclient import TestClient
-    from scripts.routers.prediction import car_price_router  # import tại đây
+    from scripts.routers.prediction import car_price_router
 
     app = FastAPI()
     app.include_router(car_price_router)
     client = TestClient(app)
 
     payload = [{
-        "Brand": "Toyota", "Name": "Camry", "Color": "Blue",
-        "Fuel": "Essence", "Gearbox": "Automatic",
-        "Year": 2018, "Km": 30000, "Fuel_consumption": 7.5,
-        "Co2_emission": 170, "Doors": 4
+        "Brand": "Toyota","Name": "Camry","Color": "Blue",
+        "Fuel": "Essence","Gearbox": "Automatic","Year": 2018,
+        "Km": 30000,"Fuel_consumption": 7.5,"Co2_emission": 170,"Doors": 4
     }]
 
     resp = client.post("/car_price/predict", json=payload)
     assert resp.status_code == 200
     assert resp.json() == {"predicted_price": 15000.0}
 
-    # dv trong mock_load_pickle chính là đối tượng được trả về từ load_pickle
+    # mock_load_pickle CHÍNH LÀ dv được load -> phải được gọi transform()
     mock_load_pickle.transform.assert_called_once()
