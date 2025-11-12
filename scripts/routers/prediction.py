@@ -38,15 +38,16 @@ def _wait_for_mlflow(timeout=90):
 def _get_model():
     global _model, _dv
     if _model is None:
-        _wait_for_mlflow()
+        # _wait_for_mlflow()
         mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
-        _model = mlflow.sklearn.load_model(model_uri)
         _dv = load_pickle(PATH_TO_PREPROCESSOR)
+        _model = mlflow.sklearn.load_model(model_uri)
     return _model, _dv
 
 @car_price_router.post("/predict", response_model=CarPriceResponse)
 def run_inference(user_input: List[CarPriceRequest]) -> CarPriceResponse:
     model, dv = _get_model()
+    # dv = load_pickle(PATH_TO_PREPROCESSOR)
     df = pd.DataFrame([x.dict() for x in user_input])
     df = encode_cols(df)
     X = dv.transform(df.to_dict(orient="records"))
