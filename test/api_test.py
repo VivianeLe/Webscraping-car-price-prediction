@@ -6,7 +6,7 @@ from unittest.mock import patch, MagicMock
 def mock_load_pickle():
     dv = MagicMock()
     dv.transform.return_value = [[0.5]]
-    with patch("scripts.routers.prediction.load_pickle", return_value=dv):
+    with patch("scripts.lib.preprocessing.load_pickle", return_value=dv):
         yield dv
 
 @pytest.fixture

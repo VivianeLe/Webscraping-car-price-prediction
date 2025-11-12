@@ -15,7 +15,7 @@ on:
         description: "Who runs this workflow?"
         required: true
 jobs:
-  classroom_job:
+  prediction_job:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
