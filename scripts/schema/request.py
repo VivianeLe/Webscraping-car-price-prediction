@@ -80,22 +80,22 @@ class CarPriceRequest(BaseModel):
     # Name: Optional[str] = None
     # Color: Optional[str] = None
 
-    @root_validator(pre=False, skip_on_failure=True)
-    def populate_brand_name_color(cls, values):
-        """
-        Sau khi validate, tách Brand/Name/Color từ brand_name_color.value ('Brand__Name__Color')
-        và gán vào 3 field Brand/Name/Color để dùng downstream.
-        """
-        bn: BrandNameOption = values.get("brand_name_color")  # type: ignore
-        if bn is not None:
-            parts = bn.value.split(_sep)
-            # Đảm bảo luôn có đủ 3 phần (Color có thể rỗng string)
-            if len(parts) == 3:
-                brand, name, color = parts
-            else:
-                # fallback an toàn (ít gặp)
-                brand, name, color = (parts + ["", ""])[:3]
-            values["Brand"] = brand
-            values["Name"] = name
-            values["Color"] = color
-        return values
+    # @root_validator(pre=False, skip_on_failure=True)
+    # def populate_brand_name_color(cls, values):
+    #     """
+    #     Sau khi validate, tách Brand/Name/Color từ brand_name_color.value ('Brand__Name__Color')
+    #     và gán vào 3 field Brand/Name/Color để dùng downstream.
+    #     """
+    #     bn: BrandNameOption = values.get("brand_name_color")  # type: ignore
+    #     if bn is not None:
+    #         parts = bn.value.split(_sep)
+    #         # Đảm bảo luôn có đủ 3 phần (Color có thể rỗng string)
+    #         if len(parts) == 3:
+    #             brand, name, color = parts
+    #         else:
+    #             # fallback an toàn (ít gặp)
+    #             brand, name, color = (parts + ["", ""])[:3]
+    #         values["Brand"] = brand
+    #         values["Name"] = name
+    #         values["Color"] = color
+    #     return values

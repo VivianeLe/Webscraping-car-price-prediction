@@ -23,17 +23,17 @@ car_price_router = APIRouter(prefix="/car_price")
 _model = None
 _dv = None
 
-def _wait_for_mlflow(timeout=90):
-    url = MLFLOW_TRACKING_URI.rstrip("/") + "/health"
-    t0 = time.time()
-    while True:
-        try:
-            requests.get(url, timeout=2)
-            return
-        except Exception:
-            if time.time() - t0 > timeout:
-                raise
-            time.sleep(2)
+# def _wait_for_mlflow(timeout=90):
+#     url = MLFLOW_TRACKING_URI.rstrip("/") + "/health"
+#     t0 = time.time()
+#     while True:
+#         try:
+#             requests.get(url, timeout=2)
+#             return
+#         except Exception:
+#             if time.time() - t0 > timeout:
+#                 raise
+#             time.sleep(2)
 
 def _get_model():
     global _model, _dv
