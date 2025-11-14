@@ -33,6 +33,7 @@ jobs:
       - name: Run tests
         run: |
           export PYTHONPATH="${PYTHONPATH}:$(pwd)/scripts"
+          # echo "PYTHONPATH=$GITHUB_WORKSPACE/src:$PYTHONPATH" >> $GITHUB_ENV
           pytest --cov
   
   deploy_job:

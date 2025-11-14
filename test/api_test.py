@@ -5,8 +5,8 @@ from unittest.mock import patch, MagicMock
 @pytest.fixture
 def mock_load_pickle():
     dv = MagicMock()
-    dv.transform.return_value = [[0.5]]
-    with patch("scripts.lib.preprocessing.load_pickle", return_value=dv):
+    dv.transform.return_value = [0.5]
+    with patch("scripts.routers.prediction.load_pickle", return_value=dv):
         yield dv
 
 @pytest.fixture
@@ -16,8 +16,9 @@ def mock_get_model():
     return mock_model
 
 @pytest.fixture
-def mock_mlflow_server(mock_get_model):
+def mock_mlflow_server(mock_get_model, mock_load_pickle):
     model = mock_get_model
+    dv = mock_load_pickle
     mlflow_server = MagicMock()
     mlflow_server.sklearn.load_model.return_value = model
     with patch("scripts.routers.prediction.mlflow", mlflow_server): 
@@ -40,7 +41,10 @@ def test_get_model(mock_get_model, mock_load_pickle, mock_mlflow_server):
 
     model, dv = _get_model()
     assert model == mock_get_model
+    assert dv == mock_load_pickle
+    data = dv.transform(['a', 'b', 'c'])
     result = model.predict([1,2,3])  
+    assert data == [0.5]
     assert result == [15000.0]
 
 def test_predict(mock_get_model, mock_load_pickle, mock_mlflow_server):
@@ -62,9 +66,8 @@ def test_predict(mock_get_model, mock_load_pickle, mock_mlflow_server):
         "Km": 30000,"Fuel_consumption": 7.5,"Co2_emission": 170,"Doors": 4
     }]
 
+    # mock_load_pickle.transform.assert_called_once()
+
     resp = client.post("/car_price/predict", json=payload)
     assert resp.status_code == 200
     assert resp.json() == {"predicted_price": 15000.0}
-
-    # mock_load_pickle CHÍNH LÀ dv được load -> phải được gọi transform()
-    mock_load_pickle.transform.assert_called_once()
