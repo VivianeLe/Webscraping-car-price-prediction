@@ -67,7 +67,7 @@ jobs:
           platform: managed
   
   deploy_main:
-    needs: test_job
+    needs: test
     if: startsWith(github.ref, 'refs/heads/main')
     runs-on: ubuntu-latest
     steps:
