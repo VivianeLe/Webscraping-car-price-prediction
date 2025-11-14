@@ -67,8 +67,6 @@ class CarPriceRequest(BaseModel):
     Brand: str
     Name: str
     Color: str
-
-    # Các trường khác
     Fuel: str
     Gearbox: str
     Year: int
