@@ -14,7 +14,7 @@ from config import DATA_PATH, ARTIFACT_DIR, MODEL_PATH, PATH_TO_MODEL, PATH_TO_P
 from lib.preprocessing import *
 import pandas as pd
 
-MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:8080")
+MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:5050")
 mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
 # mlflow.set_tracking_uri(os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:8080"))
 # mlflow.set_tracking_uri("file:./mlruns")
@@ -132,4 +132,4 @@ if __name__ == "__main__":
     train()
 
 # command to run mlflow server:
-# mlflow server --host localhost --port 8080 
+# mlflow server --host localhost --port 5050 

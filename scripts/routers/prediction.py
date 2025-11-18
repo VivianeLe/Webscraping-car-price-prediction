@@ -11,7 +11,7 @@ from scripts.config import MODEL_NAME, PATH_TO_PREPROCESSOR, ALIAS
 
 logger = logging.getLogger(__name__)
 
-MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:8080")
+MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:5050")
 
 # MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:8080")
 mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
