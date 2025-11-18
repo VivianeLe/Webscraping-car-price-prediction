@@ -15,6 +15,7 @@ MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:8080")
 
 # MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:8080")
 mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
+mlflow.set_experiment("car_price_training")
 model_uri = f"models:/{MODEL_NAME}@{ALIAS}"
 # model_uri = os.getenv("MODEL_URI", "models:/car_price_predictor@the_best")
 
