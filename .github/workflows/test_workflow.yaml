@@ -32,7 +32,7 @@ jobs:
           pip install -r requirements.txt
       - name: Run tests
         run: |
-          export PYTHONPATH="${PYTHONPATH}:$(pwd)/scripts"
+          # export PYTHONPATH="${PYTHONPATH}:$(pwd)/scripts"
           # echo "PYTHONPATH=$GITHUB_WORKSPACE/src:$PYTHONPATH" >> $GITHUB_ENV
           pytest --cov
   
