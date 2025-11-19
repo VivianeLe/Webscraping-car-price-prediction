@@ -91,7 +91,6 @@ services:
       "
     ports:
       - "${MLFLOW_PORT}:${MLFLOW_PORT}"
-      # - "8080:8080"
     healthcheck:
       test: [ "CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://0.0.0.0:${MLFLOW_PORT}/health')" ]
       interval: 10s

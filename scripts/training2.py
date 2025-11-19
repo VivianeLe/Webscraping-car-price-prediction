@@ -5,19 +5,18 @@ from sklearn.model_selection import train_test_split
 # from sklearn.preprocessing import OneHotEncoder, MinMaxScaler, LabelEncoder
 # from sklearn.compose import ColumnTransformer
 # from sklearn.pipeline import Pipeline
-import xgboost as xgb
 import numpy as np
 import joblib
 import mlflow
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from config import DATA_PATH, ARTIFACT_DIR, MODEL_PATH, PATH_TO_MODEL, PATH_TO_PREPROCESSOR
-from lib.preprocessing import *
-import pandas as pd
+import pandas as pd # edit something here
+import xgboost as xgb
+from lib.preprocessing import clean_data, run_encode_task, save_pickle
 
-MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:5050")
+MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://localhost:5050")
+print(f"MLFLOW_TRACKING_URI: {MLFLOW_TRACKING_URI}")
 mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
-# mlflow.set_tracking_uri(os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:8080"))
-# mlflow.set_tracking_uri("file:./mlruns")
 
 # Configure logging
 logging.basicConfig(
@@ -27,6 +26,7 @@ logging.basicConfig(
 logger = logging.getLogger("car_price_prediction")
 
 def train():
+    
     mlflow.set_experiment("car_price_training")
     logger.info(f"Data path: {DATA_PATH}")
     logger.info(f"Artifact dir: {ARTIFACT_DIR}")
@@ -82,6 +82,7 @@ def train():
 
         # Calculate metrics for training set
         train_mse = mean_squared_error(y_train, y_train_pred)
+
         train_mae = mean_absolute_error(y_train, y_train_pred)
         train_rmse = round(np.sqrt(mean_squared_error(y_train, y_train_pred)), 2)
         train_r2 = r2_score(y_train, y_train_pred)
@@ -132,4 +133,4 @@ if __name__ == "__main__":
     train()
 
 # command to run mlflow server:
-# mlflow server --host localhost --port 5050 
+# mlflow server --host localhost --port 5050

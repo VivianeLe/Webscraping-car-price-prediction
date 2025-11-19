@@ -11,10 +11,11 @@ from scripts.config import MODEL_NAME, PATH_TO_PREPROCESSOR, ALIAS
 
 logger = logging.getLogger(__name__)
 
-MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:8080")
+MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:5050")
 
 # MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:8080")
-mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
+# mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
+mlflow.set_experiment("car_price_training")
 model_uri = f"models:/{MODEL_NAME}@{ALIAS}"
 # model_uri = os.getenv("MODEL_URI", "models:/car_price_predictor@the_best")
 
@@ -23,17 +24,17 @@ car_price_router = APIRouter(prefix="/car_price")
 _model = None
 _dv = None
 
-def _wait_for_mlflow(timeout=90):
-    url = MLFLOW_TRACKING_URI.rstrip("/") + "/health"
-    t0 = time.time()
-    while True:
-        try:
-            requests.get(url, timeout=2)
-            return
-        except Exception:
-            if time.time() - t0 > timeout:
-                raise
-            time.sleep(2)
+# def _wait_for_mlflow(timeout=90):
+#     url = MLFLOW_TRACKING_URI.rstrip("/") + "/health"
+#     t0 = time.time()
+#     while True:
+#         try:
+#             requests.get(url, timeout=2)
+#             return
+#         except Exception:
+#             if time.time() - t0 > timeout:
+#                 raise
+#             time.sleep(2)
 
 def _get_model():
     global _model, _dv
