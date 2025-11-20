@@ -102,14 +102,14 @@ services:
       context: .
       dockerfile: Dockerfile
     container_name: our-app
-    # chạy bằng uvicorn để chắc chắn bind 0.0.0.0:3000
-    command: uvicorn scripts.main:app --host 0.0.0.0 --port 3000
-    ports: ["3000:3000"]
+    # chạy bằng uvicorn để chắc chắn bind 0.0.0.0:8080
+    command: uvicorn scripts.main:app --host 0.0.0.0 --port 8080
+    ports: ["8080:8080"]
     depends_on:
       mlflow:
         condition: service_healthy
     environment:
-      MLFLOW_TRACKING_URI: http://mlflow:8080
+      MLFLOW_TRACKING_URI: http://mlflow:5050
       MODEL_URI: models:/car_price_predictor@the_best   # hoặc models:/car_price_predictor/Production
       MLFLOW_S3_ENDPOINT_URL: ${MLFLOW_S3_ENDPOINT_URL}
       AWS_ACCESS_KEY_ID: ${MINIO_ROOT_USER}
