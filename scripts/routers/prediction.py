@@ -11,7 +11,7 @@ from scripts.config import MODEL_NAME, PATH_TO_PREPROCESSOR, ALIAS
 
 logger = logging.getLogger(__name__)
 
-MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:5050")
+MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://0.0.0.0:5050")
 
 # MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:8080")
 # mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
@@ -54,3 +54,19 @@ def run_inference(user_input: List[CarPriceRequest]) -> CarPriceResponse:
     X = dv.transform(df.to_dict(orient="records"))
     y = model.predict(X)
     return CarPriceResponse(predicted_price=float(y[0]))
+
+# dump data for testing
+# [
+#   {
+#     "Brand": "Ford",
+#     "Name": "Ford KA",
+#     "Color": "Bleu Caraïbes",
+#     "Fuel": "Diesel",
+#     "Gearbox": "Manuelle",
+#     "Year": 1995,
+#     "Km": 100000,
+#     "Fuel_consumption": 5.7,
+#     "Co2_emission": 115,
+#     "Doors": 2
+#   }
+# ]
