@@ -11,35 +11,19 @@ from scripts.config import MODEL_NAME, PATH_TO_PREPROCESSOR, ALIAS
 
 logger = logging.getLogger(__name__)
 
-MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://mlflow:5050")
-
-# MLFLOW_TRACKING_URI = os.getenv("OUR_MLFLOW_HOST", "http://0.0.0.0:8080")
-# mlflow.set_tracking_uri(uri=MLFLOW_TRACKING_URI)
+MLFLOW_TRACKING_URI = os.getenv("MLFLOW_TRACKING_URI", "http://0.0.0.0:5050")
 mlflow.set_experiment("car_price_training")
-model_uri = f"models:/{MODEL_NAME}@{ALIAS}"
-# model_uri = os.getenv("MODEL_URI", "models:/car_price_predictor@the_best")
+# model_uri = f"models:/{MODEL_NAME}@{ALIAS}"
+model_uri = os.getenv("MODEL_URI", "models:/car_price_predictor@the_best")
 
 car_price_router = APIRouter(prefix="/car_price")
 
 _model = None
 _dv = None
 
-# def _wait_for_mlflow(timeout=90):
-#     url = MLFLOW_TRACKING_URI.rstrip("/") + "/health"
-#     t0 = time.time()
-#     while True:
-#         try:
-#             requests.get(url, timeout=2)
-#             return
-#         except Exception:
-#             if time.time() - t0 > timeout:
-#                 raise
-#             time.sleep(2)
-
 def _get_model():
     global _model, _dv
     if _model is None:
-        # _wait_for_mlflow()
         mlflow.set_tracking_uri(MLFLOW_TRACKING_URI)
         _dv = load_pickle(PATH_TO_PREPROCESSOR)
         _model = mlflow.sklearn.load_model(model_uri)
@@ -54,3 +38,19 @@ def run_inference(user_input: List[CarPriceRequest]) -> CarPriceResponse:
     X = dv.transform(df.to_dict(orient="records"))
     y = model.predict(X)
     return CarPriceResponse(predicted_price=float(y[0]))
+
+# dump data for testing
+# [
+#   {
+#     "Brand": "Ford",
+#     "Name": "Ford KA",
+#     "Color": "Bleu Caraïbes",
+#     "Fuel": "Diesel",
+#     "Gearbox": "Manuelle",
+#     "Year": 1995,
+#     "Km": 100000,
+#     "Fuel_consumption": 5.7,
+#     "Co2_emission": 115,
+#     "Doors": 2
+#   }
+# ]
