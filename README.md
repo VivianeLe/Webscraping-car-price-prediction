@@ -31,6 +31,7 @@ It includes:
 ---
 
 # 🏗️ Project Architecture
+```bash
 📦 car-price-prediction
 │
 ├── data/                     # Raw & cleaned scraped datasets
@@ -52,6 +53,7 @@ It includes:
 │   └── workflows/            # GitHub Actions CI/CD pipelines
 │
 └── README.md
+```
 
 ---
 
