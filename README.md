@@ -33,19 +33,24 @@ It includes:
 # 🏗️ Project Architecture
 📦 car-price-prediction
 │
-├── data/ # Raw & cleaned scraped datasets
-├── notebooks/ # EDA, prototyping
-├── scripts/
-│ ├── scraping/ # Web scraping code
-│ ├── training/ # ML training + MLflow logging
-│ ├── lib/ # Preprocessing utils
-│ ├── routers/ # FastAPI routers
-│ └── main.py # FastAPI entrypoint
+├── data/                     # Raw & cleaned scraped datasets
+├── notebooks/                # EDA, prototyping, experiments
 │
-├── mlruns/ # Local MLflow registry
-├── Dockerfile
-├── docker-compose.yml
-├── .github/workflows/ # CI/CD pipelines
+├── scripts/
+│   ├── scraping/             # Web scraping scripts
+│   ├── training/             # Model training + MLflow logging
+│   ├── lib/                  # Preprocessing (encode, load_pickle, etc.)
+│   ├── routers/              # FastAPI routers (prediction API)
+│   └── main.py               # FastAPI entrypoint
+│
+├── mlruns/                   # Local MLflow experiment tracking
+│
+├── Dockerfile                # Build API Docker image
+├── docker-compose.yml        # MLOps infrastructure (API + MLflow + MinIO + Postgres)
+│
+├── .github/
+│   └── workflows/            # GitHub Actions CI/CD pipelines
+│
 └── README.md
 
 ---
